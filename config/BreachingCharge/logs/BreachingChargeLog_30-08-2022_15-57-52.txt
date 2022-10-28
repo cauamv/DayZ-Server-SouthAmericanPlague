@@ -1,0 +1,3 @@
+[30/08/2022-16:31:58]	[PLACED]	[30/08/2022-16:31:58]	A charge has been placed!	 | HDSN_BreachingChargeHeavy, Position: <4052.110352, 340.030243, 10950.172852>, Target: BBP_LGate_T3 | Player: Survivor [76561198966041256]
+[30/08/2022-16:32:02]	[ARMED]		[30/08/2022-16:32:02]	A charge has been armed!	 | HDSN_BreachingChargeHeavy, Position: <4052.722900, 340.559082, 10949.174805>, Target: BBP_LGate_T3 | Player: Survivor [76561198966041256]
+[30/08/2022-16:42:02]	[EXPLODED]	[30/08/2022-16:42:02]	A charge has exploded!		 | HDSN_BreachingChargeHeavy, Position: <4052.722900, 340.559082, 10949.174805>, Target: BBP_LGate_T3, Damage done: 2 | Player: Survivor [76561198966041256]

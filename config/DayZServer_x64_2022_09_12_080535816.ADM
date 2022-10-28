@@ -1,0 +1,603 @@
+
+
+******************************************************************************
+AdminLog started on 2022-09-10 at 02:08:28
+
+
+******************************************************************************
+AdminLog started on 2022-09-10 at 08:05:01
+08:20:32 | Player "Edge_Shot"(id=Unknown) has been disconnected
+10:34:08 | Player "[U.S.A] SOBRAL "(id=Unknown) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2022-09-10 at 13:00:35
+
+
+******************************************************************************
+AdminLog started on 2022-09-10 at 13:58:47
+
+
+******************************************************************************
+AdminLog started on 2022-09-10 at 14:07:01
+14:11:00 | Player "[U.S.A] SOBRAL " is connected (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)
+14:11:18 | [U.S.A] SOBRAL  conectou
+14:13:11 | ##### PlayerList log: 1 players
+14:13:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12369, 11069.8, 113.7>)
+14:13:11 | #####
+14:13:48 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12349.2, 10995.2, 106.2>)[HP: 98.9375] hit by Infected into Torso(1) for 1.0625 damage (MeleeZombie)
+14:13:53 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12350.2, 10993.9, 106.2>)[HP: 97.993] hit by Infected into RightLeg(3) for 4.5 damage (MeleeZombie)
+14:15:47 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12051.6, 10851.4, 129.2>)[HP: 98.4063] hit by Infected into Torso(1) for 1.59375 damage (MeleeZombieMale)
+14:15:49 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12049.5, 10851.2, 129.4>)[HP: 97.6563] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieMale)
+14:18:11 | ##### PlayerList log: 1 players
+14:18:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11488, 10652.4, 162.1>)
+14:18:11 | #####
+14:23:11 | ##### PlayerList log: 1 players
+14:23:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<10394, 10265.7, 114.7>)
+14:23:11 | #####
+14:28:11 | ##### PlayerList log: 1 players
+14:28:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8659.6, 9427.6, 377.6>)
+14:28:11 | #####
+14:33:11 | ##### PlayerList log: 1 players
+14:33:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8230.6, 9025.4, 469.3>)
+14:33:11 | #####
+14:38:11 | ##### PlayerList log: 1 players
+14:38:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8230.7, 9025.5, 469.3>)
+14:38:11 | #####
+14:43:11 | ##### PlayerList log: 1 players
+14:43:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6750.3, 8566.4, 361.6>)
+14:43:11 | #####
+14:48:11 | ##### PlayerList log: 1 players
+14:48:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<5119.1, 7423.7, 327.1>)
+14:48:11 | #####
+14:53:11 | ##### PlayerList log: 1 players
+14:53:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<3753.4, 6146.1, 381.3>)
+14:53:11 | #####
+14:58:11 | ##### PlayerList log: 1 players
+14:58:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<4478.2, 5682.1, 321.8>)
+14:58:11 | #####
+15:03:11 | ##### PlayerList log: 1 players
+15:03:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<5813.5, 7455.5, 310.4>)
+15:03:11 | #####
+15:08:11 | ##### PlayerList log: 1 players
+15:08:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6314.1, 7829.4, 305>)
+15:08:11 | #####
+15:13:11 | ##### PlayerList log: 1 players
+15:13:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8168.4, 8928.1, 466.7>)
+15:13:12 | #####
+15:18:11 | ##### PlayerList log: 1 players
+15:18:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8231.0, 9023.2, 469.3>)
+15:18:11 | #####
+15:23:11 | ##### PlayerList log: 1 players
+15:23:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<9795.6, 8995.1, 289.5>)
+15:23:11 | #####
+15:28:11 | ##### PlayerList log: 1 players
+15:28:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11885.3, 7311.0, 203.1>)
+15:28:11 | #####
+15:29:46 | Player "yt4lx" is connected (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=)
+15:30:53 | Player "yt4lx"(id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=) has been disconnected
+15:33:11 | ##### PlayerList log: 1 players
+15:33:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11951.3, 9009.0, 55.5>)
+15:33:11 | #####
+15:33:24 | Player "yt4lx" is connected (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=)
+15:34:27 | yt4lx conectou
+15:34:27 | yt4lx registro criado!
+15:35:32 | Chat("yt4lx"(id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=)): ᐅ SLV
+15:35:38 | Chat("[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)): ᐅ EPA 
+15:35:45 | Player 'yt4lx' (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=) committed suicide.
+15:35:47 | Player "yt4lx" (DEAD) (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<12936.5, 8510.9, 5.1>) died. Stats> Water: 2493.98 Energy: 4991.95 Bleed sources: 0
+15:35:51 | Chat("yt4lx"(id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=)): ᐅ costuma 
+15:36:11 | yt4lx conectou
+15:36:23 | Chat("yt4lx"(id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=)): ᐅ costuma entrar bastante gente?
+15:36:34 | Chat("[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)): ᐅ AINDA NAO 
+15:36:42 | Chat("[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)): ᐅ SERVIDOR NOVO
+15:36:48 | Chat("yt4lx"(id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=)): ᐅ nyce
+15:36:57 | Chat("yt4lx"(id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=)): ᐅ vc é adm?
+15:37:01 | Chat("[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)): ᐅ TAO AJUSTANDO ELE AINDA
+15:37:04 | Chat("[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)): ᐅ NAO
+15:37:38 | Chat("yt4lx"(id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=)): ᐅ tem bastante gente no teu cla?
+15:37:43 | Chat("[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)): ᐅ TEM
+15:37:52 | Chat("yt4lx"(id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=)): ᐅ boa
+15:38:11 | ##### PlayerList log: 2 players
+15:38:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12261.6, 9647.0, 10.9>)
+15:38:11 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<12860.1, 9717.4, 7.0>)
+15:38:11 | #####
+15:41:31 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<12812.8, 9978.6, 6.1>)[HP: 99] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieFirefighter)
+15:41:33 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<12808.6, 9975.7, 6.1>)[HP: 99] hit by Infected into Block(-1) for 0 damage 
+15:41:35 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<12807.2, 9974.2, 6.1>)[HP: 99.0904] hit by Infected into Block(-1) for 0 damage 
+15:41:41 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<12811, 9980.6, 6.1>)[HP: 99.2709] hit by Infected into Block(-1) for 0 damage 
+15:41:44 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<12810.1, 9975.8, 6.1>)[HP: 99.3613] hit by Infected into Block(-1) for 0 damage 
+15:41:51 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<12808.2, 9975.8, 6.1>)[HP: 99.5422] hit by Infected into Block(-1) for 0 damage 
+15:41:52 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<12805.7, 9976.8, 6.1>)[HP: 99.6326] hit by Infected into Block(-1) for 0 damage 
+15:41:56 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<12804.3, 9977.5, 6.1>)[HP: 99.7231] hit by Infected into Block(-1) for 0 damage 
+15:42:03 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<12800.1, 9979.7, 6.1>)[HP: 99.9039] hit by Infected into Block(-1) for 0 damage 
+15:43:03 | Chat("yt4lx"(id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=)): ᐅ como q é o raid aq nesse serve?
+15:43:12 | ##### PlayerList log: 2 players
+15:43:12 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12257.6, 9814.2, 26.3>)
+15:43:12 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<12822.6, 10025, 9.2>)
+15:43:12 | #####
+15:43:14 | Chat("[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)): ᐅ C4 RACSAW
+15:43:21 | Chat("yt4lx"(id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=)): ᐅ vlw
+15:43:42 | Chat("[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)): ᐅ TU TEM CLAN ?
+15:44:25 | Chat("[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)): ᐅ CHAMA OS CARA AI PRA TER MOVIMENT
+15:44:33 | Chat("yt4lx"(id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=)): ᐅ pode crer
+15:44:39 | Chat("[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)): ᐅ TE PVP 
+15:45:19 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12254.6, 9798.1, 10.8>)[HP: 98.875] hit by Infected into RightLeg(3) for 4.5 damage (MeleeZombie)
+15:46:10 | Chat("yt4lx"(id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=)): ᐅ entra quantas pessoas diariamnete +-??
+15:46:29 | Chat("[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)): ᐅ QUASE NINGUEM 
+15:46:41 | Chat("[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)): ᐅ UMAS 7 A 10 
+15:48:12 | ##### PlayerList log: 2 players
+15:48:12 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12257.7, 9809.3, 15.6>)
+15:48:12 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<12469.7, 10447.4, 57.7>)
+15:48:12 | #####
+15:49:27 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<12240.9, 10591.4, 92.8>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+15:49:29 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<12241, 10593.4, 92.7>)[HP: 99.25] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieMale)
+15:49:48 | Chat("yt4lx"(id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=)): ᐅ modo de construçao é vanila?
+15:49:54 | Chat("[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)): ᐅ BBP
+15:50:15 | Chat("yt4lx"(id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=)): ᐅ nunca joguei assim
+15:50:31 | Chat("[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)): ᐅ TU E VANILHEIRO?
+15:50:54 | Chat("yt4lx"(id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=)): ᐅ nao
+15:51:13 | Chat("[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)): ᐅ A SOH 
+15:51:13 | Chat("yt4lx"(id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=)): ᐅ é aquele modo q tem que construir a mesa de trabalho
+15:51:37 | Chat("[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)): ᐅ MAIS VC PODE FAZER VALINHA TAMBEM
+15:53:12 | ##### PlayerList log: 2 players
+15:53:12 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12249, 9800.7, 12.1>)
+15:53:12 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<11702.5, 10619.7, 148.4>)
+15:53:12 | #####
+15:53:40 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12221.4, 9824.6, 11.3>)[HP: 98.8074] hit by Truck_01_Covered with TransportHit
+15:53:40 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12221.4, 9824.6, 11.3>)[HP: 97.6329] hit by Truck_01_Covered with TransportHit
+15:53:40 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12221.4, 9824.6, 11.3>)[HP: 96.4608] hit by Truck_01_Covered with TransportHit
+15:53:40 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12221.4, 9824.6, 11.3>)[HP: 95.2984] hit by Truck_01_Covered with TransportHit
+15:53:40 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12221.4, 9824.6, 11.3>)[HP: 94.3457] hit by Truck_01_Covered with TransportHit
+15:56:49 | Player '[U.S.A] SOBRAL ' (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=) committed suicide.
+15:56:50 | Player "yt4lx"(id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=) has been disconnected
+15:56:53 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12339, 9620.1, 10.2>) died. Stats> Water: 653.207 Energy: 2536.04 Bleed sources: 0
+15:57:00 | [U.S.A] SOBRAL  conectou
+15:58:12 | ##### PlayerList log: 1 players
+15:58:12 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8314, 2471.8, 6.4>)
+15:58:12 | #####
+16:03:12 | ##### PlayerList log: 1 players
+16:03:12 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<7914.1, 2990.9, 13.1>)
+16:03:12 | #####
+16:08:12 | ##### PlayerList log: 1 players
+16:08:12 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<7952.0, 3069.4, 6.1>)
+16:08:12 | #####
+16:11:38 | Player "yt4lx"(id=Unknown) has been disconnected
+16:13:12 | ##### PlayerList log: 1 players
+16:13:12 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8130.5, 2776.4, 0.9>)
+16:13:12 | #####
+16:18:12 | ##### PlayerList log: 1 players
+16:18:12 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8328.9, 2466.7, 5.7>)
+16:18:12 | #####
+16:23:12 | ##### PlayerList log: 1 players
+16:23:12 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8694.8, 2404.3, 7.1>)
+16:23:12 | #####
+16:28:12 | ##### PlayerList log: 1 players
+16:28:12 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<9343.9, 2014.0, 6.0>)
+16:28:12 | #####
+16:29:53 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<9416.1, 2002.5, 6.3>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+16:29:53 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<9416.1, 2002.5, 6.3>) killed by  with 6-M7 Frag Grenade
+16:30:13 | [U.S.A] SOBRAL  conectou
+16:31:33 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<7419.6, 2751.4, 5.7>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+16:31:33 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<7419.6, 2751.4, 5.7>) killed by  with 6-M7 Frag Grenade
+16:31:38 | [U.S.A] SOBRAL  conectou
+16:33:12 | ##### PlayerList log: 1 players
+16:33:12 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13423.3, 6328.8, 6.1>)
+16:33:12 | #####
+16:33:59 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13419.9, 6288.4, 5.8>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+16:33:59 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13419.9, 6288.4, 5.8>) killed by  with 6-M7 Frag Grenade
+16:34:17 | [U.S.A] SOBRAL  conectou
+16:35:42 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13062.1, 10236.8, 6.0>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+16:35:42 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13062.1, 10236.8, 6.0>) killed by  with 6-M7 Frag Grenade
+16:36:00 | [U.S.A] SOBRAL  conectou
+16:36:38 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<10876.5, 2538.1, 3.7>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+16:36:38 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<10876.5, 2538.1, 3.7>) killed by  with 6-M7 Frag Grenade
+16:36:45 | [U.S.A] SOBRAL  conectou
+16:38:12 | ##### PlayerList log: 1 players
+16:38:12 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<14043.2, 12757.7, 13.8>)
+16:38:12 | #####
+16:43:12 | ##### PlayerList log: 1 players
+16:43:12 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12476, 12563.4, 141.3>)
+16:43:12 | #####
+16:47:19 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11875.3, 12565.2, 140.0>)[HP: 85.5831] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+16:48:12 | ##### PlayerList log: 1 players
+16:48:12 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11698.4, 12530.7, 142.7>)
+16:48:12 | #####
+16:53:12 | ##### PlayerList log: 1 players
+16:53:12 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11954.2, 10899.1, 146.3>)
+16:53:12 | #####
+16:58:04 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12261, 9821.2, 10.6>)[HP: 0] hit by FallDamage
+16:58:04 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12261, 9821.2, 10.6>) died. Stats> Water: 1623.99 Energy: 3823 Bleed sources: 0
+16:58:12 | ##### PlayerList log: 1 players
+16:58:12 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12260.9, 9822.6, 10.6>)
+16:58:12 | #####
+16:58:25 | [U.S.A] SOBRAL  conectou
+17:01:15 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12987.1, 10095.9, 6.0>)[HP: 99.559] hit by explosion (LandFuelFeed_Ammo)
+17:03:12 | ##### PlayerList log: 1 players
+17:03:12 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12839.2, 10032.4, 5.9>)
+17:03:12 | #####
+17:04:26 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12615.3, 9930.3, 6.4>)[HP: 99.5] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+17:04:30 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12609.7, 9919.2, 6.2>)[HP: 98.5279] hit by Infected into Torso(1) for 1.0625 damage (MeleeZombie)
+17:08:12 | ##### PlayerList log: 1 players
+17:08:12 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12254.1, 9809.9, 22.9>)
+17:08:12 | #####
+17:09:28 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12233.6, 9841.6, 12.1>)[HP: 0] hit by FallDamage
+17:09:28 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12233.6, 9841.6, 12.1>) died. Stats> Water: 2263.53 Energy: 4679.57 Bleed sources: 0
+17:09:32 | [U.S.A] SOBRAL  conectou
+17:13:12 | ##### PlayerList log: 1 players
+17:13:12 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13135.8, 7005.2, 6.1>)
+17:13:12 | #####
+17:14:13 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13110.8, 7002.4, 6.0>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+17:14:13 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13110.8, 7002.4, 6.0>) killed by  with 6-M7 Frag Grenade
+17:14:19 | [U.S.A] SOBRAL  conectou
+17:18:12 | ##### PlayerList log: 1 players
+17:18:12 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12454.1, 9542.7, 7.8>)
+17:18:12 | #####
+17:23:11 | ##### PlayerList log: 1 players
+17:23:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12225.9, 9613.7, 13.3>)
+17:23:11 | #####
+17:28:11 | ##### PlayerList log: 1 players
+17:28:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12232.5, 9812.5, 26.8>)
+17:28:11 | #####
+17:33:11 | ##### PlayerList log: 1 players
+17:33:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11039.3, 9645.1, 96.7>)
+17:33:11 | #####
+17:38:11 | ##### PlayerList log: 1 players
+17:38:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<9674.4, 9479.0, 270.1>)
+17:38:11 | #####
+17:43:11 | ##### PlayerList log: 1 players
+17:43:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8230.7, 9025.5, 469.3>)
+17:43:11 | #####
+17:48:11 | ##### PlayerList log: 1 players
+17:48:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<10079.1, 9298.4, 205.0>)
+17:48:11 | #####
+17:53:11 | ##### PlayerList log: 1 players
+17:53:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<10569, 9879.3, 98.8>)
+17:53:11 | #####
+17:54:28 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<10624.7, 9979.3, 98.7>)[HP: 99.25] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieFemale)
+17:58:11 | ##### PlayerList log: 1 players
+17:58:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11790.7, 9831.5, 33.4>)
+17:58:11 | #####
+18:03:11 | ##### PlayerList log: 1 players
+18:03:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12248.6, 9817.6, 22.9>)
+18:03:11 | #####
+18:03:57 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12250, 9821.9, 10.7>)[HP: 27.5451] hit by FallDamage
+18:03:58 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12249.9, 9822.4, 10.7>) is unconscious
+18:04:02 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12251.1, 9822.4, 11.1>) died. Stats> Water: 1137.79 Energy: 2994.99 Bleed sources: 0
+18:04:06 | [U.S.A] SOBRAL  conectou
+18:06:09 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6040.8, 2199.0, 10.6>) committed suicide
+18:06:09 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6040.8, 2199.0, 10.6>) died. Stats> Water: 2464.99 Energy: 4951.51 Bleed sources: 0
+18:06:14 | [U.S.A] SOBRAL  conectou
+18:06:43 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13451.7, 5641.6, 1.6>) committed suicide
+18:06:43 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13451.7, 5641.6, 1.6>) died. Stats> Water: 2498.26 Energy: 4997.67 Bleed sources: 0
+18:07:02 | [U.S.A] SOBRAL  conectou
+18:07:21 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13250.2, 7256.5, 1.9>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+18:07:21 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13250.2, 7256.5, 1.9>) killed by  with 6-M7 Frag Grenade
+18:07:25 | [U.S.A] SOBRAL  conectou
+18:08:11 | ##### PlayerList log: 1 players
+18:08:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8307.7, 2501.4, 7.0>)
+18:08:11 | #####
+18:08:41 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8320.5, 2529.2, 1.4>) committed suicide
+18:08:41 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8320.5, 2529.2, 1.4>) died. Stats> Water: 2482.52 Energy: 4976.69 Bleed sources: 0
+18:09:00 | [U.S.A] SOBRAL  conectou
+18:13:11 | ##### PlayerList log: 1 players
+18:13:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<5659.5, 2600.6, 71.3>)
+18:13:11 | #####
+18:16:58 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<5369.5, 3669.4, 181.0>)[HP: 98.4063] hit by Infected into Torso(1) for 1.59375 damage (MeleeZombieMale)
+18:18:11 | ##### PlayerList log: 1 players
+18:18:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<5296.2, 3916.3, 182.5>)
+18:18:11 | #####
+18:23:11 | ##### PlayerList log: 1 players
+18:23:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<3929.0, 5321.8, 284.3>)
+18:23:11 | #####
+18:28:11 | ##### PlayerList log: 1 players
+18:28:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<3681.4, 5675.0, -1.1>)
+18:28:11 | #####
+18:31:25 | Player "Survivor" is connected (id=BkZ5t2x8fcqkQlObY_BmsQaXB3y7FRZWSJLMV1tWFAY=)
+18:32:39 | Survivor conectou
+18:33:11 | ##### PlayerList log: 2 players
+18:33:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<3676.7, 5682.8, -1.2>)
+18:33:11 | Player "Survivor" (id=BkZ5t2x8fcqkQlObY_BmsQaXB3y7FRZWSJLMV1tWFAY= pos=<12929.3, 9743.4, 6.0>)
+18:33:11 | #####
+18:33:41 | Chat("[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)): ᐅ TO NA SAFE GREM 
+18:35:27 | Player "Survivor"(id=BkZ5t2x8fcqkQlObY_BmsQaXB3y7FRZWSJLMV1tWFAY=) has been disconnected
+18:38:11 | ##### PlayerList log: 1 players
+18:38:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<3720.3, 5996.0, 402.6>)
+18:38:11 | #####
+18:43:11 | ##### PlayerList log: 1 players
+18:43:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<3252.3, 5932.6, 294.5>)
+18:43:11 | #####
+18:48:11 | ##### PlayerList log: 1 players
+18:48:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<3704.8, 5673.5, 332.3>)
+18:48:11 | #####
+18:51:44 | Player "[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=) has been disconnected
+19:07:11 | Player "[U.S.A] SOBRAL " is connected (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)
+19:07:43 | [U.S.A] SOBRAL  conectou
+19:08:11 | ##### PlayerList log: 1 players
+19:08:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<5467.7, 5453.4, 299.0>)
+19:08:11 | #####
+19:13:11 | ##### PlayerList log: 1 players
+19:13:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6006.7, 4871.0, 150.4>)
+19:13:11 | #####
+19:18:11 | ##### PlayerList log: 1 players
+19:18:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6284.8, 3427.3, 34.2>)
+19:18:11 | #####
+19:23:11 | ##### PlayerList log: 1 players
+19:23:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6599.8, 4868.4, 243.8>)
+19:23:11 | #####
+19:26:51 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6555.1, 5602.1, 397.4>)[HP: 99.7787] hit by FallDamage
+19:28:11 | ##### PlayerList log: 1 players
+19:28:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6545.5, 5314.8, 355.5>)
+19:28:11 | #####
+19:33:11 | ##### PlayerList log: 1 players
+19:33:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<7387.0, 6246.3, 217.1>)
+19:33:11 | #####
+19:38:11 | ##### PlayerList log: 1 players
+19:38:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<7595.1, 7363.2, 317.7>)
+19:38:11 | #####
+19:43:11 | ##### PlayerList log: 1 players
+19:43:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<9064.4, 6568.7, 288.4>)
+19:43:11 | #####
+19:46:18 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<9066.9, 6570.6, 287.2>)[HP: 99.9046] hit by FallDamage
+19:48:11 | ##### PlayerList log: 1 players
+19:48:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<9250.7, 6749.7, 225.5>)
+19:48:11 | #####
+19:53:11 | ##### PlayerList log: 1 players
+19:53:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<10587.5, 7901.4, 195.6>)
+19:53:11 | #####
+19:58:11 | ##### PlayerList log: 1 players
+19:58:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11418.4, 8778.1, 147.0>)
+19:58:11 | #####
+20:00:17 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11837.8, 9203.5, 54.3>)[HP: 98.9375] hit by Infected into Torso(1) for 1.0625 damage (MeleeZombie)
+20:00:19 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11836.4, 9204.8, 54.3>)[HP: 97.9025] hit by Infected into RightLeg(3) for 4.5 damage (MeleeZombie)
+20:03:11 | ##### PlayerList log: 1 players
+20:03:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12061.9, 9529.6, 24.9>)
+20:03:11 | #####
+20:08:11 | ##### PlayerList log: 1 players
+20:08:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12257.4, 9810.8, 19.5>)
+20:08:11 | #####
+20:09:37 | Player "[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2022-09-10 at 20:10:13
+20:16:35 | Player "[U.S.A] SOBRAL " is connected (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)
+20:16:51 | [U.S.A] SOBRAL  conectou
+20:21:28 | ##### PlayerList log: 1 players
+20:21:28 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12243.2, 9798.2, 10.8>)
+20:21:28 | #####
+20:26:28 | ##### PlayerList log: 1 players
+20:26:28 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12253.8, 9810.2, 22.9>)
+20:26:28 | #####
+20:29:56 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12250.4, 9821.9, 11.4>)[HP: 33.0174] hit by FallDamage
+20:29:57 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12250.9, 9821.9, 11.3>) is unconscious
+20:29:58 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12250.1, 9822.0, 10.7>) regained consciousness
+20:29:58 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12250.1, 9822.0, 10.7>) is unconscious
+20:30:03 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12250, 9822.1, 10.7>) died. Stats> Water: 1032.08 Energy: 2580.71 Bleed sources: 0
+20:30:18 | [U.S.A] SOBRAL  conectou
+20:31:28 | ##### PlayerList log: 1 players
+20:31:28 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13235.6, 7241.8, 2.0>)
+20:31:28 | #####
+20:36:09 | Player "[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=) has been disconnected
+21:03:31 | Player "[u.s.a.] eder" is connected (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU=)
+21:03:48 | [u.s.a.] eder conectou
+21:06:28 | ##### PlayerList log: 1 players
+21:06:28 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4916.6, 10239.6, 339.1>)
+21:06:28 | #####
+21:11:28 | ##### PlayerList log: 1 players
+21:11:28 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4876.8, 10121.1, 339.0>)
+21:11:28 | #####
+21:12:44 | Player "[u.s.a.] eder"(id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU=) has been disconnected
+12:31:42 | Player "Yanfri" is connected (id=XKGHRq0vI_U-Djmt5aql0oE7GrRnmUh5a9JmiivcH6s=)
+12:32:42 | Yanfri conectou
+12:32:42 | Yanfri registro criado!
+12:35:50 | Player "Yanfri"(id=XKGHRq0vI_U-Djmt5aql0oE7GrRnmUh5a9JmiivcH6s=) has been disconnected
+14:21:30 | Player "LwShutt" is connected (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)
+14:21:44 | LwShutt conectou
+14:21:44 | LwShutt registro criado!
+14:26:43 | ##### PlayerList log: 1 players
+14:26:43 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6118.0, 7756.0, 301.2>)
+14:26:43 | #####
+14:29:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6003.6, 7730.6, 302.8>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+14:29:52 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6004.7, 7735.2, 302.3>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+14:31:43 | ##### PlayerList log: 1 players
+14:31:43 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6013.3, 7742.4, 301.9>)
+14:31:43 | #####
+14:33:34 | Chat("LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)): ᐅ uai man
+14:33:38 | Chat("LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)): ᐅ kkkkkkk é tu??
+14:36:43 | ##### PlayerList log: 1 players
+14:36:43 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6013, 7742.5, 301.9>)
+14:36:43 | #####
+14:41:43 | ##### PlayerList log: 1 players
+14:41:43 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6011.3, 7742.4, 301.9>)
+14:41:43 | #####
+14:46:43 | ##### PlayerList log: 1 players
+14:46:43 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6011.3, 7742.4, 301.9>)
+14:46:43 | #####
+14:51:43 | ##### PlayerList log: 1 players
+14:51:43 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6011.3, 7742.5, 301.9>)
+14:51:43 | #####
+14:56:43 | ##### PlayerList log: 1 players
+14:56:43 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6010.8, 7743.0, 301.9>)
+14:56:43 | #####
+15:01:44 | ##### PlayerList log: 1 players
+15:01:44 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6010.8, 7743.0, 301.9>)
+15:01:44 | #####
+15:06:44 | ##### PlayerList log: 1 players
+15:06:44 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6011.4, 7742.6, 301.9>)
+15:06:44 | #####
+15:11:44 | ##### PlayerList log: 1 players
+15:11:44 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6013.3, 7742.7, 301.9>)
+15:11:44 | #####
+15:16:44 | ##### PlayerList log: 1 players
+15:16:44 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6204.0, 7613.5, 298.0>)
+15:16:44 | #####
+15:21:45 | ##### PlayerList log: 1 players
+15:21:45 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6341.7, 7641.9, 300.2>)
+15:21:45 | #####
+15:23:07 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6378.5, 7788.3, 305.0>)[HP: 81.5798] hit by Infected into Torso(1) for 9 damage (MeleeZombieSoldier)
+15:23:12 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6387.6, 7791.0, 305.0>)[HP: 72.5066] hit by Infected into Torso(1) for 9 damage (MeleeZombieSoldier)
+15:23:14 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6389.2, 7784.8, 305.0>)[HP: 63.405] hit by Infected into Torso(1) for 9 damage (MeleeZombieSoldier)
+15:23:17 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6375.9, 7787.2, 305.6>)[HP: 62.3426] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+15:24:10 | Player "LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) has been disconnected
+18:07:21 | Player "LwShutt" is connected (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)
+18:07:34 | LwShutt conectou
+18:09:30 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6346.1, 7786.1, 305.0>)[HP: 50.1776] hit by explosion (FlashGrenade_Ammo)
+18:09:31 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6346.1, 7786.1, 305.0>)[HP: 40.8276] hit by explosion (FlashGrenade_Ammo)
+18:10:22 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6357.9, 7797.9, 305.0>)[HP: 38.8866] hit by FallDamage
+18:11:49 | ##### PlayerList log: 1 players
+18:11:49 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6323.1, 7781.3, 305.2>)
+18:11:49 | #####
+18:16:50 | ##### PlayerList log: 1 players
+18:16:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6327.5, 7778.3, 305.2>)
+18:16:50 | #####
+18:21:50 | ##### PlayerList log: 1 players
+18:21:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6114.1, 7685.5, 302.0>)
+18:21:50 | #####
+18:24:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6030.6, 7807.5, 301.0>)[HP: 21.1146] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieMale)
+18:24:39 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6032.3, 7817.3, 300.8>)[HP: 19.3647] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieMale)
+18:24:41 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6033.5, 7822.7, 300.7>)[HP: 17.5756] hit by Infected into Torso(1) for 1.6875 damage (MeleeZombieFemale)
+18:24:42 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6033.9, 7824.3, 300.9>)[HP: 15.9273] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieFemale)
+18:24:43 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6033.9, 7824.3, 300.9>)[HP: 14.1894] hit by Infected into Torso(1) for 1.6875 damage (MeleeZombieFemale)
+18:24:44 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6033.9, 7824.3, 300.9>)[HP: 13.389] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+18:24:44 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6033.9, 7824.3, 300.9>)[HP: 11.7907] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieFemale)
+18:24:46 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6033.9, 7824.3, 300.9>)[HP: 10.0528] hit by Infected into Torso(1) for 1.6875 damage (MeleeZombieMale)
+18:24:46 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6033.9, 7824.3, 300.9>)[HP: 9.25235] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieFemale)
+18:24:46 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6033.9, 7824.4, 300.9>) is unconscious
+18:24:47 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6034.0, 7825.4, 300.9>)[HP: 7.60121] hit by Infected into Torso(1) for 1.6875 damage (MeleeZombieMale)
+18:24:47 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6034.0, 7825.4, 300.9>)[HP: 5.91371] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieMale)
+18:24:47 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6033.6, 7825.8, 300.9>)[HP: 4.22621] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombieFemale)
+18:24:48 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6032.5, 7826.1, 300.9>)[HP: 2.48831] hit by Infected into Torso(1) for 1.6875 damage (MeleeZombieMale)
+18:24:48 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6032.5, 7826.1, 300.9>)[HP: 0.800808] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieMale)
+18:25:19 | Player "LwShutt" (DEAD) (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6032.5, 7826.1, 300.9>) died. Stats> Water: 1316.5 Energy: 0 Bleed sources: 0
+18:25:39 | LwShutt conectou
+18:26:50 | ##### PlayerList log: 1 players
+18:26:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<8545.0, 2622.2, 8.4>)
+18:26:50 | #####
+18:31:50 | ##### PlayerList log: 1 players
+18:31:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<7933.4, 4310.7, 206.2>)
+18:31:50 | #####
+18:36:50 | ##### PlayerList log: 1 players
+18:36:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<7566.1, 5168.0, 214.9>)
+18:36:50 | #####
+18:41:50 | ##### PlayerList log: 1 players
+18:41:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<7277.9, 6248.0, 240.2>)
+18:41:50 | #####
+18:46:50 | ##### PlayerList log: 1 players
+18:46:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6236.2, 7644.0, 298.1>)
+18:46:50 | #####
+18:47:39 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6033.2, 7828.1, 300.9>)[HP: 98.9375] hit by Infected into RightLeg(3) for 4.25 damage (MeleeZombie)
+18:48:25 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6048.0, 7785.8, 301.0>)[HP: 98.9375] hit by Infected into LeftLeg(8) for 4.25 damage (MeleeZombie)
+18:51:50 | ##### PlayerList log: 1 players
+18:51:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6307.3, 7810.4, 305.0>)
+18:51:50 | #####
+18:56:51 | ##### PlayerList log: 1 players
+18:56:51 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6347.0, 7512.5, 284.6>)
+18:56:51 | #####
+19:01:51 | ##### PlayerList log: 1 players
+19:01:51 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<5579.0, 8730.2, 323.0>)
+19:01:51 | #####
+19:06:51 | ##### PlayerList log: 1 players
+19:06:51 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<5299.1, 9781.4, 337.2>)
+19:06:51 | #####
+19:11:52 | ##### PlayerList log: 1 players
+19:11:52 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<5294.1, 9817.0, 337.0>)
+19:11:52 | #####
+19:16:52 | ##### PlayerList log: 1 players
+19:16:52 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<5049.9, 9813.1, 339.3>)
+19:16:52 | #####
+19:21:52 | ##### PlayerList log: 1 players
+19:21:52 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<5007.9, 9982.5, 339.0>)
+19:21:52 | #####
+19:26:52 | ##### PlayerList log: 1 players
+19:26:52 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4960.6, 9950.0, 339.1>)
+19:26:52 | #####
+19:31:52 | ##### PlayerList log: 1 players
+19:31:52 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4891.2, 10171.1, 339.0>)
+19:31:52 | #####
+19:36:52 | ##### PlayerList log: 1 players
+19:36:52 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4814.4, 10178.1, 339.1>)
+19:36:52 | #####
+19:41:53 | ##### PlayerList log: 1 players
+19:41:53 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4974.3, 10027, 339.0>)
+19:41:53 | #####
+19:46:53 | ##### PlayerList log: 1 players
+19:46:53 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4944.6, 10068.9, 339.8>)
+19:46:53 | #####
+19:51:54 | ##### PlayerList log: 1 players
+19:51:54 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4844.8, 10317.3, 339.0>)
+19:51:54 | #####
+19:56:54 | ##### PlayerList log: 1 players
+19:56:54 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4931.5, 10237.1, 339.1>)
+19:56:54 | #####
+20:01:54 | ##### PlayerList log: 1 players
+20:01:54 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4932.0, 10245, 339.1>)
+20:01:54 | #####
+20:06:54 | ##### PlayerList log: 1 players
+20:06:54 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4916.4, 10243.3, 339.1>)
+20:06:54 | #####
+20:11:54 | ##### PlayerList log: 1 players
+20:11:54 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4339.4, 10803.1, 339.5>)
+20:11:54 | #####
+20:16:43 | Player "LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) has been disconnected
+21:57:19 | Player "LwShutt" is connected (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)
+21:57:33 | LwShutt conectou
+21:58:35 | Player "AngelParadise"(id=Unknown) has been disconnected
+22:01:58 | ##### PlayerList log: 1 players
+22:01:58 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4905.3, 10248, 339.5>)
+22:01:58 | #####
+22:06:58 | ##### PlayerList log: 1 players
+22:06:58 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4930.0, 10240.5, 339.1>)
+22:06:58 | #####
+22:09:05 | Player "LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) has been disconnected
+22:34:37 | Player "LwShutt" is connected (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)
+22:34:41 | Player "LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) has been disconnected
+22:36:17 | Player "LwShutt" is connected (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)
+22:36:36 | LwShutt conectou
+22:37:00 | ##### PlayerList log: 1 players
+22:37:00 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4924.5, 10239.2, 339.1>)
+22:37:00 | #####
+22:42:00 | ##### PlayerList log: 1 players
+22:42:00 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4907.1, 10246.9, 339.2>)
+22:42:00 | #####
+22:44:43 | Player "LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) has been disconnected
+22:47:55 | Player "LwShutt" is connected (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)
+22:48:09 | LwShutt conectou
+22:52:01 | ##### PlayerList log: 1 players
+22:52:01 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4927.8, 10233.5, 339.1>)
+22:52:01 | #####
+22:57:01 | ##### PlayerList log: 1 players
+22:57:01 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4931.9, 10244.8, 339.1>)
+22:57:01 | #####
+23:02:01 | ##### PlayerList log: 1 players
+23:02:01 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4925.1, 10236, 339.1>)
+23:02:01 | #####
+23:07:01 | ##### PlayerList log: 1 players
+23:07:01 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4917.5, 10244.6, 339.1>)
+23:07:01 | #####
+23:12:01 | ##### PlayerList log: 1 players
+23:12:01 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4915.0, 10242.2, 339.1>)
+23:12:01 | #####
+23:16:32 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4908.6, 10246.9, 338.9>)[HP: 97.875] hit by Infected into Torso(1) for 2.125 damage (MeleeZombieSoldier)
+23:17:01 | ##### PlayerList log: 1 players
+23:17:01 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4918.0, 10232.2, 338.9>)
+23:17:01 | #####
+23:22:01 | ##### PlayerList log: 1 players
+23:22:01 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4916.2, 10246.8, 339.6>)
+23:22:01 | #####
+23:27:12 | ##### PlayerList log: 1 players
+23:27:12 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4906.6, 10245.7, 338.9>)
+23:27:12 | #####
+23:32:12 | ##### PlayerList log: 1 players
+23:32:12 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<5113.7, 9323.4, 347.7>)
+23:32:12 | #####
+23:37:12 | ##### PlayerList log: 1 players
+23:37:12 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6356.3, 7475.1, 288.9>)
+23:37:12 | #####
+23:42:12 | ##### PlayerList log: 1 players
+23:42:12 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6428.0, 7560.0, 287.9>)
+23:42:12 | #####
+23:45:56 | Player "LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) has been disconnected
+
+
+**********************************EOF****************************************

@@ -1,0 +1,256 @@
+
+
+=====================================================================
+== C:\SERVICES\ni7063137_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe
+== "C:\SERVICES\ni7063137_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe" -ip=31.214.158.194 -port=12800 -cpuCount=4 -limitFPS=100 -adminlog -config=serverDZ.cfg "-mod=@CF;@AutoRUN;@dbo_surfaces;@DabsFramework;@DayZEditorLoader;@BuilderItems;@BaseBuildingPlus;@CodeLock;@Breachingcharge;@VPPAdminTools;@TraderPlus;@InventoryDump;@BurnAlive;@GunnerTruckOshkosh;@MuchStuffPack;@SNAFU;@CannabisPlus;@MMG;@VanillaPlusPlusMap;@UnknownGhillieMod;@MassA2Assets;@SchanaParty;@PseudoGiant;@InventoryMoveSounds;@Notifications;@AdvancedWeaponScopes;@CarsForAll;@SchanaModGlobalChat;@StaminaSettings;@DrugsPLUS;@GoreZ;@PackSouthAmericanPlague;@RedFalcon" -profiles=C:\SERVICES\ni7063137_1_SHARE\ftproot\dayzstandalone/config -BEPath=C:\SERVICES\ni7063137_1_SHARE\ftproot\dayzstandalone\battleye -noFilePatching -nologs -freezecheck
+=====================================================================
+Exe timestamp: 2022/07/28 08:30:35
+Current time:  2022/10/12 23:03:45
+
+Version 1.18.155069
+23:03:45.357 [Inputs] Loading inputs default "bin/constants.xml"
+23:03:45.372 [Inputs] Loading inputs default "bin/specific.xml"
+23:03:45.372 [Inputs] Loading inputs default "BBP_keybind/data/modded_Inputs.xml"
+23:03:45.372 [Inputs] Loading inputs default "InventoryMoveSounds/Scripts/Data/Inputs.xml"
+23:03:45.372 [Inputs] Loading inputs default "SIX_Autorun/Scripts/Inputs.xml"
+23:03:45.372 [Inputs] Loading inputs default "SpardaTextura/inputs/Inputs.xml"
+23:03:45.372 [Inputs] Loading inputs default "VanillaPPMap/data/modded_Inputs.xml"
+23:03:45.372 [Inputs] Loading inputs default "VehiclesVipNemesis/inputs/Inputs.xml"
+23:03:45.372 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+23:03:45.388 [Inputs] Loading inputs default "CarLock/scripts/3_Game/inputs.xml"
+23:03:45.388 [Inputs] Loading inputs default "Ghost/InventoryDump/Client/Data/modded_inputs.xml"
+23:03:45.388 [Inputs] Loading inputs default "Notifications/inputs/inputs.xml"
+23:03:45.388 [Inputs] Loading inputs default "RFFSHeli_Core/modded_Inputs.xml"
+23:03:45.388 [Inputs] Loading inputs default "SchanaModGlobalChat/Data/Inputs.xml"
+23:03:45.388 [Inputs] Loading inputs default "SchanaModParty/Data/Inputs.xml"
+23:03:45.388 !!! [Inputs] Cannot load inputs default "", file does not exist
+23:03:45.388 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+23:03:45.388 [Inputs] Loading inputs cfg "C:\SERVICES\ni7063137_1_SHARE\ftproot\dayzstandalone/config\Users\Survivor\Server.core.xml"
+23:03:45.403 [Inputs] Exporting inputs cfg "C:\SERVICES\ni7063137_1_SHARE\ftproot\dayzstandalone/config\Users\Survivor\Server.core.xml"
+23:04:22.152 [CE][Hive] :: Initializing OFFLINE
+23:04:22.152 [CE][Hive] :: Loading core data ... 
+23:04:22.167 [CE][CoreData] :: 7 root classes, 18 defaults, 0 updaters...
+23:04:29.790 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+23:04:29.790 [CE][TypeSetup] :: 470 classes setuped...
+23:04:29.822 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+23:04:29.837 [CE][TypeSetup] :: 377 classes setuped...
+23:04:32.24 [CE][RegisterBind] :: 0 classes binded...
+23:04:32.24 [CE][RegisterConfig] :: 17183 config classes registered, 0 sub-counters...
+23:04:32.24 [CE][Hive] :: Loading map data ... 
+23:04:32.40 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+23:04:32.87 [CE][LoadPrototype] :: loaded 368 prototypes
+23:04:32.87   754 containers, 9611 points
+23:04:32.87   32 dispatches, 115 proxies
+23:04:32.87 !!! [CE][LoadPrototype] 14 groups have no points...
+23:04:32.87 !!![CE][LoadPrototype]  2 groups have wrong points...
+23:04:32.87 [CE][LoadPrototype] :: last group name: StaticObj_Wreck_Ural_DE...
+23:04:32.102 [CE][LoadPrototype] :: loaded 0 prototypes
+23:04:32.102   0 containers, 0 points
+23:04:32.102   0 dispatches, 0 proxies
+23:04:32.102 [CE][LoadPrototype] :: last group name: Rail9...
+23:04:33.305 [CE][LoadMap] "Group" :: loaded 11620 groups, groups failed: 0, largest group range: 34.2
+23:04:33.305 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.2
+23:04:33.711 [CE][Links] found 1888 total links between groups, of 11620
+23:04:33.711 [CE][LoadClusters] "Cluster" :: Loading files...
+23:04:33.899 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+23:04:34.102 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+23:04:34.305 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+23:04:34.508 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+23:04:34.586 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17347 instances
+23:04:34.602 [CE][Storage] ver:21 stamp:180393, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin"
+23:04:34.602 [CE][Storage] ver:21 stamp:180114, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\types.001"
+23:04:34.602 [CE][Storage] ver:21 stamp:180112, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\types.002"
+23:04:34.602 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin".
+23:04:34.836 !!! [CE][offlineDB] :: No Shutdown message present.
+23:04:34.852 [CE][offlineDB] :: Loaded 46 dynamic events 302 total types.
+23:04:34.867 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+23:04:34.914 [CE][Storage] ver:21 stamp:180393, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin"
+23:04:34.914 [CE][Storage] ver:21 stamp:180114, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\events.001"
+23:04:34.914 [CE][Storage] ver:21 stamp:180112, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\events.002"
+23:04:34.914 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin".
+23:04:34.914 [CE][DynamicEvent] Load  Events:[46] Primary spawners: 46 Secondary spawners: 3
+23:04:34.914 [CE][Storage] ver:25 stamp:180393, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin"
+23:04:34.914 [CE][Storage] ver:25 stamp:180114, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.001"
+23:04:34.914 [CE][Storage] ver:25 stamp:180112, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.002"
+23:04:34.914 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin" 839 items.
+23:04:35.508   839 items loaded. (0 failed)
+23:04:35.508 [CE][Storage] ver:25 stamp:180393, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin"
+23:04:35.523 [CE][Storage] ver:25 stamp:180114, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.001"
+23:04:35.523 [CE][Storage] ver:25 stamp:180112, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.002"
+23:04:35.523 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin" 1747 items.
+23:04:36.554   1747 items loaded. (0 failed)
+23:04:36.554 [CE][Storage] ver:25 stamp:180393, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin"
+23:04:36.554 [CE][Storage] ver:25 stamp:180114, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.001"
+23:04:36.570 [CE][Storage] ver:25 stamp:180112, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.002"
+23:04:36.570 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin" 2413 items.
+23:04:37.460   2413 items loaded. (0 failed)
+23:04:37.460 [CE][Storage] ver:25 stamp:180393, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.bin"
+23:04:37.460 [CE][Storage] ver:25 stamp:180114, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.001"
+23:04:37.460 [CE][Storage] ver:25 stamp:180112, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.002"
+23:04:37.460 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.bin" 2339 items.
+23:04:38.398   2339 items loaded. (0 failed)
+23:04:38.398 [CE][Storage] ver:25 stamp:180393, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.bin"
+23:04:38.398 [CE][Storage] ver:25 stamp:180114, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.001"
+23:04:38.398 [CE][Storage] ver:25 stamp:180112, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.002"
+23:04:38.398 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.bin" 1866 items.
+23:04:39.132   1866 items loaded. (0 failed)
+23:04:39.132 [CE][Storage] ver:25 stamp:180393, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.bin"
+23:04:39.132 [CE][Storage] ver:25 stamp:180114, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.001"
+23:04:39.132 [CE][Storage] ver:25 stamp:180112, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.002"
+23:04:39.132 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.bin" 2000 items.
+23:04:39.835   2000 items loaded. (0 failed)
+23:04:39.835 [CE][Storage] ver:25 stamp:180393, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.bin"
+23:04:39.835 [CE][Storage] ver:25 stamp:180114, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.001"
+23:04:39.835 [CE][Storage] ver:25 stamp:180112, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.002"
+23:04:39.835 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.bin" 1486 items.
+23:04:40.397   1486 items loaded. (0 failed)
+23:04:40.397 [CE][Storage] ver:25 stamp:180393, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.bin"
+23:04:40.397 [CE][Storage] ver:25 stamp:180114, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.001"
+23:04:40.397 [CE][Storage] ver:25 stamp:180112, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.002"
+23:04:40.397 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.bin" 1497 items.
+23:04:41.53   1497 items loaded. (0 failed)
+23:04:41.53 [CE][Storage] ver:25 stamp:180393, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.bin"
+23:04:41.69 [CE][Storage] ver:25 stamp:180114, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.001"
+23:04:41.69 [CE][Storage] ver:25 stamp:180112, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.002"
+23:04:41.69 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.bin" 2053 items.
+23:04:41.834   2053 items loaded. (0 failed)
+23:04:41.850 [CE][Storage] ver:25 stamp:180393, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.bin"
+23:04:41.850 [CE][Storage] ver:25 stamp:180114, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.001"
+23:04:41.850 [CE][Storage] ver:25 stamp:180112, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.002"
+23:04:41.850 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.bin" 2583 items.
+23:04:42.959   2583 items loaded. (0 failed)
+23:04:42.959 [CE][Storage] ver:25 stamp:180393, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.bin"
+23:04:42.975 [CE][Storage] ver:25 stamp:180114, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.001"
+23:04:42.975 [CE][Storage] ver:25 stamp:180112, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.002"
+23:04:42.975 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.bin" 1879 items.
+23:04:43.709   1879 items loaded. (0 failed)
+23:04:43.709 [CE][Storage] ver:25 stamp:180393, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.bin"
+23:04:43.709 [CE][Storage] ver:25 stamp:180114, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.001"
+23:04:43.709 [CE][Storage] ver:25 stamp:180112, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.002"
+23:04:43.709 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.bin" 258 items.
+23:04:44.271   258 items loaded. (0 failed)
+23:04:44.271 [CE][Storage] ver:26 stamp:180393, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\building.bin"
+23:04:44.271 [CE][Storage] ver:26 stamp:180114, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\building.001"
+23:04:44.271 [CE][Storage] ver:26 stamp:180112, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\building.002"
+23:04:44.271 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\building.bin" 5 items.
+23:04:44.271   5 items loaded. (0 failed)
+23:04:44.287 [CE][Storage] ver:25 stamp:180393, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.bin"
+23:04:44.287 [CE][Storage] ver:25 stamp:180114, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.001"
+23:04:44.287 [CE][Storage] ver:25 stamp:180112, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.002"
+23:04:44.287 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.bin" 177 items.
+23:04:45.06   177 items loaded. (0 failed)
+23:04:45.21 [CE][Hive] :: Storage load took:10.11 seconds, recovery stamp:180393
+23:04:45.21   entity: 27113, building: 5
+23:04:45.21   no lifetime: 68
+23:04:45.21   skipped: 1
+23:04:45.21   pathgraph's: 814
+23:04:45.37 [CE][Hive] :: Initializing ... 
+23:04:45.68 [CE][InitializeMap] :: initialized: 4
+23:04:45.68 [CE][Hive] :: Initializing spawners ... 
+23:04:45.271 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+23:04:45.271 [CE][DE][SPAWNS] :: Total positions: 1165
+23:04:45.271 [CE][DE][GROUPS] :: Total eventgroups defined: 21, Eventgroups in use: 21
+23:04:47.937 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:27715, Total in Map: 20242 at 0 (sec)
+23:04:47.937   tests:0, repeats:0 fails:0, overtime:0
+23:04:47.937 [CE][DynEvent] :: 46 types
+23:04:47.937 [00] AmbientHen
+23:04:47.937   Primary Spawner: "Ambient", active: yes, repeat: 1
+23:04:47.937 [01] AnimalBear
+23:04:47.937   Primary Spawner: "Animal", active: yes, repeat: 1
+23:04:47.937 [02] AnimalCow
+23:04:47.937   Primary Spawner: "Animal", active: yes, repeat: 1
+23:04:47.937 [03] AnimalDeer
+23:04:47.937   Primary Spawner: "Animal", active: yes, repeat: 1
+23:04:47.937 [04] AnimalGoat
+23:04:47.937   Primary Spawner: "Animal", active: yes, repeat: 1
+23:04:47.937 [05] AnimalPig
+23:04:47.937   Primary Spawner: "Animal", active: yes, repeat: 1
+23:04:47.937 [06] AnimalRoeDeer
+23:04:47.937   Primary Spawner: "Animal", active: yes, repeat: 1
+23:04:47.937 [07] AnimalSheep
+23:04:47.937   Primary Spawner: "Animal", active: yes, repeat: 1
+23:04:47.937 [08] AnimalWildBoar
+23:04:47.937   Primary Spawner: "Animal", active: yes, repeat: 1
+23:04:47.937 [09] AnimalWolf
+23:04:47.937   Primary Spawner: "Animal", active: yes, repeat: 1
+23:04:47.937 [10] InfectedBoss
+23:04:47.937   Primary Spawner: "Infected", active: yes, repeat: 1
+23:04:47.937 [11] InfectedArmy
+23:04:47.937   Primary Spawner: "Infected", active: yes, repeat: 1
+23:04:47.937 [12] InfectedArmyHard
+23:04:47.937   Primary Spawner: "Infected", active: yes, repeat: 1
+23:04:47.937 [13] InfectedCity
+23:04:47.937   Primary Spawner: "Infected", active: yes, repeat: 1
+23:04:47.937 [14] InfectedCityTier1
+23:04:47.937   Primary Spawner: "Infected", active: yes, repeat: 1
+23:04:47.937 [15] InfectedFirefighter
+23:04:47.937   Primary Spawner: "Infected", active: yes, repeat: 1
+23:04:47.937 [16] InfectedIndustrial
+23:04:47.937   Primary Spawner: "Infected", active: yes, repeat: 1
+23:04:47.937 [17] InfectedMedic
+23:04:47.937   Primary Spawner: "Infected", active: yes, repeat: 1
+23:04:47.937 [18] InfectedNBC
+23:04:47.937   Primary Spawner: "Infected", active: yes, repeat: 1
+23:04:47.937 [19] InfectedNBCYellow
+23:04:47.937   Primary Spawner: "Infected", active: yes, repeat: 1
+23:04:47.937 [20] InfectedPolice
+23:04:47.937   Primary Spawner: "Infected", active: yes, repeat: 1
+23:04:47.937 [21] InfectedPoliceHard
+23:04:47.937   Primary Spawner: "Infected", active: yes, repeat: 1
+23:04:47.937 [22] InfectedPrisoner
+23:04:47.937   Primary Spawner: "Infected", active: yes, repeat: 1
+23:04:47.937 [23] InfectedReligious
+23:04:47.937   Primary Spawner: "Infected", active: yes, repeat: 1
+23:04:47.937 [24] InfectedSolitude
+23:04:47.937   Primary Spawner: "Infected", active: yes, repeat: 1
+23:04:47.937 [25] InfectedVillage
+23:04:47.937   Primary Spawner: "Infected", active: yes, repeat: 1
+23:04:47.937 [26] InfectedVillageTier1
+23:04:47.937   Primary Spawner: "Infected", active: yes, repeat: 1
+23:04:47.937 [27] ItemPlanks
+23:04:47.937   Primary Spawner: "Item", active: yes, repeat: 1
+23:04:47.937 [28] Loot
+23:04:47.937   Primary Spawner: "Loot", active: yes, repeat: 2
+23:04:47.937 [29] StaticContaminatedArea
+23:04:47.937   Primary Spawner: "Static", active: yes, repeat: 1
+23:04:47.937 [30] StaticHeliCrash
+23:04:47.937   Primary Spawner: "Static", active: yes, repeat: 1
+23:04:47.937   Secondary Spawner: "Infected", active: yes, repeat: 1
+23:04:47.937 [31] StaticPoliceCar
+23:04:47.937   Primary Spawner: "Static", active: yes, repeat: 1
+23:04:47.937   Secondary Spawner: "Infected", active: yes, repeat: 1
+23:04:47.937 [32] StaticTrain
+23:04:47.937   Primary Spawner: "Static", active: yes, repeat: 1
+23:04:47.937   Secondary Spawner: "Infected", active: yes, repeat: 1
+23:04:47.937 [33] TrajectoryApple
+23:04:47.937   Primary Spawner: "Trajectory", active: yes, repeat: 1
+23:04:47.937 [34] TrajectoryConiferous
+23:04:47.937   Primary Spawner: "Trajectory", active: yes, repeat: 1
+23:04:47.937 [35] TrajectoryDeciduous
+23:04:47.937   Primary Spawner: "Trajectory", active: yes, repeat: 1
+23:04:47.937 [36] TrajectoryHumus
+23:04:47.937   Primary Spawner: "Trajectory", active: yes, repeat: 1
+23:04:47.937 [37] TrajectoryPear
+23:04:47.937   Primary Spawner: "Trajectory", active: yes, repeat: 1
+23:04:47.937 [38] TrajectoryPlum
+23:04:47.937   Primary Spawner: "Trajectory", active: yes, repeat: 1
+23:04:47.937 [39] TrajectoryStones
+23:04:47.937   Primary Spawner: "Trajectory", active: yes, repeat: 1
+23:04:47.937 [40] VehicleCivilianSedan
+23:04:47.937   Primary Spawner: "Vehicle", active: yes, repeat: 1
+23:04:47.937 [41] VehicleHatchback02
+23:04:47.937   Primary Spawner: "Vehicle", active: yes, repeat: 1
+23:04:47.937 [42] VehicleOffroadHatchback
+23:04:47.937   Primary Spawner: "Vehicle", active: yes, repeat: 1
+23:04:47.937 [43] VehicleSedan02
+23:04:47.937   Primary Spawner: "Vehicle", active: yes, repeat: 1
+23:04:47.937 [44] VehicleTruck01
+23:04:47.937   Primary Spawner: "Vehicle", active: yes, repeat: 1
+23:04:47.937 [45] VehicleHelicopter
+23:04:47.937   Primary Spawner: "Vehicle", active: yes, repeat: 1
+23:04:47.937 [CE][Hive] :: Initializing of spawners done.
+23:04:47.953 [CE][Hive] :: Init sequence finished.
+23:04:47.953 Player connect enabled
+23:04:48.796 [IdleMode] Entering IN - save processed
+23:05:08.963 [UNLOCK] Server was unlocked.
+ 5:09:07.56  --- Termination successfully completed --- 

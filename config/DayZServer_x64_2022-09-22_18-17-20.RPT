@@ -1,0 +1,453 @@
+
+
+=====================================================================
+== C:\SERVICES\ni7063137_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe
+== "C:\SERVICES\ni7063137_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe" -ip=31.214.158.194 -port=12800 -cpuCount=4 -limitFPS=100 -adminlog -config=serverDZ.cfg "-mod=@CF;@AutoRUN;@dbo_surfaces;@DabsFramework;@DayZEditorLoader;@BuilderItems;@BaseBuildingPlus;@CodeLock;@Breachingcharge;@VPPAdminTools;@TraderPlus;@InventoryDump;@BurnAlive;@GunnerTruckOshkosh;@MuchStuffPack;@SNAFU;@CannabisPlus;@MMG;@VanillaPlusPlusMap;@UnknownGhillieMod;@MassA2Assets;@SchanaParty;@PseudoGiant;@InventoryMoveSounds;@Notifications;@AdvancedWeaponScopes;@CarsForAll;@SchanaModGlobalChat;@StaminaSettings;@DrugsPLUS;@GoreZ;@PackSouthAmericanPlague;@RedFalcon" -profiles=C:\SERVICES\ni7063137_1_SHARE\ftproot\dayzstandalone/config -BEPath=C:\SERVICES\ni7063137_1_SHARE\ftproot\dayzstandalone\battleye -noFilePatching -nologs -freezecheck
+=====================================================================
+Exe timestamp: 2022/07/28 08:30:35
+Current time:  2022/09/22 18:17:27
+
+Version 1.18.155069
+18:17:27.900 [Inputs] Loading inputs default "bin/constants.xml"
+18:17:27.915 [Inputs] Loading inputs default "bin/specific.xml"
+18:17:27.915 [Inputs] Loading inputs default "BBP_keybind/data/modded_Inputs.xml"
+18:17:27.915 [Inputs] Loading inputs default "InventoryMoveSounds/Scripts/Data/Inputs.xml"
+18:17:27.915 [Inputs] Loading inputs default "SIX_Autorun/Scripts/Inputs.xml"
+18:17:27.915 [Inputs] Loading inputs default "SpardaTextura/inputs/Inputs.xml"
+18:17:27.915 [Inputs] Loading inputs default "VanillaPPMap/data/modded_Inputs.xml"
+18:17:27.915 [Inputs] Loading inputs default "VehiclesVipNemesis/inputs/Inputs.xml"
+18:17:27.915 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+18:17:27.915 [Inputs] Loading inputs default "CarLock/scripts/3_Game/inputs.xml"
+18:17:27.915 [Inputs] Loading inputs default "Ghost/InventoryDump/Client/Data/modded_inputs.xml"
+18:17:27.915 [Inputs] Loading inputs default "Notifications/inputs/inputs.xml"
+18:17:27.915 [Inputs] Loading inputs default "RFFSHeli_Core/modded_Inputs.xml"
+18:17:27.931 [Inputs] Loading inputs default "SchanaModGlobalChat/Data/Inputs.xml"
+18:17:27.931 [Inputs] Loading inputs default "SchanaModParty/Data/Inputs.xml"
+18:17:27.931 !!! [Inputs] Cannot load inputs default "", file does not exist
+18:17:27.931 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+18:17:27.931 [Inputs] Loading inputs cfg "C:\SERVICES\ni7063137_1_SHARE\ftproot\dayzstandalone/config\Users\Survivor\Server.core.xml"
+18:17:27.931 [Inputs] Exporting inputs cfg "C:\SERVICES\ni7063137_1_SHARE\ftproot\dayzstandalone/config\Users\Survivor\Server.core.xml"
+18:18:03.573 [CE][Hive] :: Initializing OFFLINE
+18:18:03.589 [CE][Hive] :: Loading core data ... 
+18:18:03.589 [CE][CoreData] :: 7 root classes, 18 defaults, 0 updaters...
+18:18:10.212 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+18:18:10.212 [CE][TypeSetup] :: 470 classes setuped...
+18:18:10.228 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+18:18:10.244 [CE][TypeSetup] :: 377 classes setuped...
+18:18:12.524 [CE][RegisterBind] :: 0 classes binded...
+18:18:12.524 [CE][RegisterConfig] :: 17183 config classes registered, 0 sub-counters...
+18:18:12.524 [CE][Hive] :: Loading map data ... 
+18:18:12.524 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+18:18:12.587 [CE][LoadPrototype] :: loaded 368 prototypes
+18:18:12.587   754 containers, 9611 points
+18:18:12.587   32 dispatches, 115 proxies
+18:18:12.587 !!! [CE][LoadPrototype] 14 groups have no points...
+18:18:12.587 !!![CE][LoadPrototype]  2 groups have wrong points...
+18:18:12.587 [CE][LoadPrototype] :: last group name: StaticObj_Wreck_Ural_DE...
+18:18:12.603 [CE][LoadPrototype] :: loaded 0 prototypes
+18:18:12.603   0 containers, 0 points
+18:18:12.603   0 dispatches, 0 proxies
+18:18:12.603 [CE][LoadPrototype] :: last group name: Rail9...
+18:18:13.634 [CE][LoadMap] "Group" :: loaded 11620 groups, groups failed: 0, largest group range: 34.2
+18:18:13.649 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.2
+18:18:14.55 [CE][Links] found 1888 total links between groups, of 11620
+18:18:14.55 [CE][LoadClusters] "Cluster" :: Loading files...
+18:18:14.243 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+18:18:14.446 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+18:18:14.649 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+18:18:14.868 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+18:18:14.961 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17347 instances
+18:18:14.977 [CE][Storage] ver:21 stamp:138983, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin"
+18:18:14.977 [CE][Storage] ver:21 stamp:138982, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\types.001"
+18:18:14.977 [CE][Storage] ver:21 stamp:138893, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\types.002"
+18:18:14.977 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin".
+18:18:15.227 !!! [CE][offlineDB] :: No Shutdown message present.
+18:18:15.227 [CE][offlineDB] :: Loaded 46 dynamic events 302 total types.
+18:18:15.258 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+18:18:15.305 [CE][Storage] ver:21 stamp:138983, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin"
+18:18:15.305 [CE][Storage] ver:21 stamp:138982, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\events.001"
+18:18:15.305 [CE][Storage] ver:21 stamp:138893, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\events.002"
+18:18:15.305 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin".
+18:18:15.305 [CE][DynamicEvent] Load  Events:[46] Primary spawners: 46 Secondary spawners: 3
+18:18:15.305 [CE][Storage] ver:25 stamp:138983, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin"
+18:18:15.305 [CE][Storage] ver:25 stamp:138982, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.001"
+18:18:15.321 [CE][Storage] ver:25 stamp:138893, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.002"
+18:18:15.321 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin" 811 items.
+18:18:15.914   811 items loaded. (0 failed)
+18:18:15.930 [CE][Storage] ver:25 stamp:138983, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin"
+18:18:15.930 [CE][Storage] ver:25 stamp:138982, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.001"
+18:18:15.930 [CE][Storage] ver:25 stamp:138893, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.002"
+18:18:15.930 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin" 1744 items.
+18:18:16.883   1744 items loaded. (0 failed)
+18:18:16.883 [CE][Storage] ver:25 stamp:138983, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin"
+18:18:16.883 [CE][Storage] ver:25 stamp:138982, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.001"
+18:18:16.883 [CE][Storage] ver:25 stamp:138893, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.002"
+18:18:16.883 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin" 2381 items.
+18:18:17.805   2381 items loaded. (0 failed)
+18:18:17.805 [CE][Storage] ver:25 stamp:138983, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.bin"
+18:18:17.805 [CE][Storage] ver:25 stamp:138982, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.001"
+18:18:17.805 [CE][Storage] ver:25 stamp:138893, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.002"
+18:18:17.805 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.bin" 2462 items.
+18:18:18.945   2462 items loaded. (0 failed)
+18:18:18.945 [CE][Storage] ver:25 stamp:138983, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.bin"
+18:18:18.945 [CE][Storage] ver:25 stamp:138982, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.001"
+18:18:18.945 [CE][Storage] ver:25 stamp:138893, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.002"
+18:18:18.945 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.bin" 1887 items.
+18:18:19.804   1887 items loaded. (0 failed)
+18:18:19.804 [CE][Storage] ver:25 stamp:138983, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.bin"
+18:18:19.804 [CE][Storage] ver:25 stamp:138982, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.001"
+18:18:19.820 [CE][Storage] ver:25 stamp:138893, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.002"
+18:18:19.820 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.bin" 2015 items.
+18:18:20.585   2015 items loaded. (0 failed)
+18:18:20.585 [CE][Storage] ver:25 stamp:138983, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.bin"
+18:18:20.585 [CE][Storage] ver:25 stamp:138982, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.001"
+18:18:20.601 [CE][Storage] ver:25 stamp:138893, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.002"
+18:18:20.601 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.bin" 1526 items.
+18:18:21.210   1526 items loaded. (0 failed)
+18:18:21.210 [CE][Storage] ver:25 stamp:138983, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.bin"
+18:18:21.210 [CE][Storage] ver:25 stamp:138982, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.001"
+18:18:21.226 [CE][Storage] ver:25 stamp:138893, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.002"
+18:18:21.226 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.bin" 1501 items.
+18:18:21.913   1501 items loaded. (0 failed)
+18:18:21.913 [CE][Storage] ver:25 stamp:138983, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.bin"
+18:18:21.929 [CE][Storage] ver:25 stamp:138982, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.001"
+18:18:21.929 [CE][Storage] ver:25 stamp:138893, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.002"
+18:18:21.929 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.bin" 2099 items.
+18:18:22.788   2099 items loaded. (0 failed)
+18:18:22.788 [CE][Storage] ver:25 stamp:138983, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.bin"
+18:18:22.788 [CE][Storage] ver:25 stamp:138982, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.001"
+18:18:22.788 [CE][Storage] ver:25 stamp:138893, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.002"
+18:18:22.788 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.bin" 2631 items.
+18:18:23.928   2631 items loaded. (0 failed)
+18:18:23.928 [CE][Storage] ver:25 stamp:138983, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.bin"
+18:18:23.944 [CE][Storage] ver:25 stamp:138982, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.001"
+18:18:23.944 [CE][Storage] ver:25 stamp:138893, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.002"
+18:18:23.944 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.bin" 1783 items.
+18:18:24.725   1783 items loaded. (0 failed)
+18:18:24.725 [CE][Storage] ver:25 stamp:138983, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.bin"
+18:18:24.725 [CE][Storage] ver:25 stamp:138982, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.001"
+18:18:24.725 [CE][Storage] ver:25 stamp:138893, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.002"
+18:18:24.725 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.bin" 208 items.
+18:18:25.22   208 items loaded. (0 failed)
+18:18:25.22 [CE][Storage] ver:26 stamp:138983, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\building.bin"
+18:18:25.37 [CE][Storage] ver:26 stamp:138982, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\building.001"
+18:18:25.37 [CE][Storage] ver:26 stamp:138893, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\building.002"
+18:18:25.37 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\building.bin" 1 items.
+18:18:25.37   1 items loaded. (0 failed)
+18:18:25.37 [CE][Storage] ver:25 stamp:138983, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.bin"
+18:18:25.37 [CE][Storage] ver:25 stamp:138982, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.001"
+18:18:25.37 [CE][Storage] ver:25 stamp:138893, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.002"
+18:18:25.37 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.bin" 143 items.
+18:18:25.740   143 items loaded. (0 failed)
+18:18:25.756 [CE][Hive] :: Storage load took:10.44 seconds, recovery stamp:138983
+18:18:25.756   entity: 25721, building: 1
+18:18:25.756   no lifetime: 68
+18:18:25.756   skipped: 1
+18:18:25.756   pathgraph's: 667
+18:18:25.756 [CE][Hive] :: Initializing ... 
+18:18:25.803 [CE][InitializeMap] :: initialized: 1
+18:18:25.803 [CE][Hive] :: Initializing spawners ... 
+18:18:26.21 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+18:18:26.37 [CE][DE][SPAWNS] :: Total positions: 1165
+18:18:26.37 [CE][DE][GROUPS] :: Total eventgroups defined: 21, Eventgroups in use: 21
+18:18:28.552 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:27680, Total in Map: 20243 at 0 (sec)
+18:18:28.552   tests:0, repeats:0 fails:0, overtime:0
+18:18:28.552 [CE][DynEvent] :: 46 types
+18:18:28.552 [00] AmbientHen
+18:18:28.552   Primary Spawner: "Ambient", active: yes, repeat: 1
+18:18:28.552 [01] AnimalBear
+18:18:28.552   Primary Spawner: "Animal", active: yes, repeat: 1
+18:18:28.552 [02] AnimalCow
+18:18:28.552   Primary Spawner: "Animal", active: yes, repeat: 1
+18:18:28.552 [03] AnimalDeer
+18:18:28.552   Primary Spawner: "Animal", active: yes, repeat: 1
+18:18:28.552 [04] AnimalGoat
+18:18:28.552   Primary Spawner: "Animal", active: yes, repeat: 1
+18:18:28.552 [05] AnimalPig
+18:18:28.552   Primary Spawner: "Animal", active: yes, repeat: 1
+18:18:28.552 [06] AnimalRoeDeer
+18:18:28.552   Primary Spawner: "Animal", active: yes, repeat: 1
+18:18:28.552 [07] AnimalSheep
+18:18:28.552   Primary Spawner: "Animal", active: yes, repeat: 1
+18:18:28.552 [08] AnimalWildBoar
+18:18:28.552   Primary Spawner: "Animal", active: yes, repeat: 1
+18:18:28.552 [09] AnimalWolf
+18:18:28.552   Primary Spawner: "Animal", active: yes, repeat: 1
+18:18:28.552 [10] InfectedBoss
+18:18:28.552   Primary Spawner: "Infected", active: yes, repeat: 1
+18:18:28.552 [11] InfectedArmy
+18:18:28.552   Primary Spawner: "Infected", active: yes, repeat: 1
+18:18:28.552 [12] InfectedArmyHard
+18:18:28.552   Primary Spawner: "Infected", active: yes, repeat: 1
+18:18:28.552 [13] InfectedCity
+18:18:28.552   Primary Spawner: "Infected", active: yes, repeat: 1
+18:18:28.552 [14] InfectedCityTier1
+18:18:28.552   Primary Spawner: "Infected", active: yes, repeat: 1
+18:18:28.552 [15] InfectedFirefighter
+18:18:28.552   Primary Spawner: "Infected", active: yes, repeat: 1
+18:18:28.552 [16] InfectedIndustrial
+18:18:28.552   Primary Spawner: "Infected", active: yes, repeat: 1
+18:18:28.552 [17] InfectedMedic
+18:18:28.552   Primary Spawner: "Infected", active: yes, repeat: 1
+18:18:28.552 [18] InfectedNBC
+18:18:28.552   Primary Spawner: "Infected", active: yes, repeat: 1
+18:18:28.552 [19] InfectedNBCYellow
+18:18:28.552   Primary Spawner: "Infected", active: yes, repeat: 1
+18:18:28.552 [20] InfectedPolice
+18:18:28.552   Primary Spawner: "Infected", active: yes, repeat: 1
+18:18:28.552 [21] InfectedPoliceHard
+18:18:28.552   Primary Spawner: "Infected", active: yes, repeat: 1
+18:18:28.552 [22] InfectedPrisoner
+18:18:28.552   Primary Spawner: "Infected", active: yes, repeat: 1
+18:18:28.552 [23] InfectedReligious
+18:18:28.552   Primary Spawner: "Infected", active: yes, repeat: 1
+18:18:28.552 [24] InfectedSolitude
+18:18:28.552   Primary Spawner: "Infected", active: yes, repeat: 1
+18:18:28.552 [25] InfectedVillage
+18:18:28.552   Primary Spawner: "Infected", active: yes, repeat: 1
+18:18:28.552 [26] InfectedVillageTier1
+18:18:28.552   Primary Spawner: "Infected", active: yes, repeat: 1
+18:18:28.552 [27] ItemPlanks
+18:18:28.552   Primary Spawner: "Item", active: yes, repeat: 1
+18:18:28.552 [28] Loot
+18:18:28.552   Primary Spawner: "Loot", active: yes, repeat: 2
+18:18:28.552 [29] StaticContaminatedArea
+18:18:28.552   Primary Spawner: "Static", active: yes, repeat: 1
+18:18:28.552 [30] StaticHeliCrash
+18:18:28.552   Primary Spawner: "Static", active: yes, repeat: 1
+18:18:28.552   Secondary Spawner: "Infected", active: yes, repeat: 1
+18:18:28.552 [31] StaticPoliceCar
+18:18:28.552   Primary Spawner: "Static", active: yes, repeat: 1
+18:18:28.552   Secondary Spawner: "Infected", active: yes, repeat: 1
+18:18:28.552 [32] StaticTrain
+18:18:28.552   Primary Spawner: "Static", active: yes, repeat: 1
+18:18:28.552   Secondary Spawner: "Infected", active: yes, repeat: 1
+18:18:28.552 [33] TrajectoryApple
+18:18:28.552   Primary Spawner: "Trajectory", active: yes, repeat: 1
+18:18:28.552 [34] TrajectoryConiferous
+18:18:28.552   Primary Spawner: "Trajectory", active: yes, repeat: 1
+18:18:28.552 [35] TrajectoryDeciduous
+18:18:28.552   Primary Spawner: "Trajectory", active: yes, repeat: 1
+18:18:28.552 [36] TrajectoryHumus
+18:18:28.552   Primary Spawner: "Trajectory", active: yes, repeat: 1
+18:18:28.552 [37] TrajectoryPear
+18:18:28.552   Primary Spawner: "Trajectory", active: yes, repeat: 1
+18:18:28.552 [38] TrajectoryPlum
+18:18:28.552   Primary Spawner: "Trajectory", active: yes, repeat: 1
+18:18:28.552 [39] TrajectoryStones
+18:18:28.552   Primary Spawner: "Trajectory", active: yes, repeat: 1
+18:18:28.552 [40] VehicleCivilianSedan
+18:18:28.552   Primary Spawner: "Vehicle", active: yes, repeat: 1
+18:18:28.552 [41] VehicleHatchback02
+18:18:28.552   Primary Spawner: "Vehicle", active: yes, repeat: 1
+18:18:28.552 [42] VehicleOffroadHatchback
+18:18:28.552   Primary Spawner: "Vehicle", active: yes, repeat: 1
+18:18:28.552 [43] VehicleSedan02
+18:18:28.552   Primary Spawner: "Vehicle", active: yes, repeat: 1
+18:18:28.552 [44] VehicleTruck01
+18:18:28.552   Primary Spawner: "Vehicle", active: yes, repeat: 1
+18:18:28.552 [45] VehicleHelicopter
+18:18:28.552   Primary Spawner: "Vehicle", active: yes, repeat: 1
+18:18:28.552 [CE][Hive] :: Initializing of spawners done.
+18:18:28.568 [CE][Hive] :: Init sequence finished.
+18:18:28.568 Player connect enabled
+18:18:29.411 [IdleMode] Entering IN - save processed
+18:18:38.128 [UNLOCK] Server was unlocked.
+18:45:04.187 [Login]: Adding player NaNoBiTs (29148016) to login queue at position 0
+18:45:04.187 [LoginMachine]: Add player NaNoBiTs (29148016 179.177.13.28:12802)
+18:45:04.187 [StateMachine]: Player NaNoBiTs (dpnid 29148016 uid ) Entering AuthPlayerLoginState
+18:45:05.30 [IdleMode] Leaving OUT
+18:45:05.827 [StateMachine]: Player NaNoBiTs (dpnid 29148016 uid ) State Error (AuthPlayerLoginState)
+18:45:05.827 Player Unknown (29148016) kicked from server: 146 (Client has a more recent version. Please wait until server updates. (RedFalcon Flight System Heliz (PBO: PBO: D:\ESTEAM\steamapps\common\DayZ\!dzsal\@RedFalcon Flight System Heliz\addons\rffsheli_apache.pbo (ClientVersion: 22090322 | ServerVersion: 22080121) )))
+18:45:05.827 [StateMachine]: Kick player NaNoBiTs (dpnid 29148016 uid ) State AuthPlayerLoginState
+18:45:05.842 [Disconnect]: Client 29148016 early disconnect
+18:45:05.858 [Disconnect]: No identity -> remove player info 29148016 
+18:45:05.858 [Disconnect]: DisconnectPlayerFinish 29148016
+18:45:05.858 [Disconnect]: Remove player info 29148016
+18:45:05.858 [Disconnect]: Player destroy 29148016 
+18:45:29.196 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "Snafu_ScarH_Tan_GUN"
+18:45:29.306 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "Ammo_556x45"
+18:45:29.415 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "Ammo_45ACP"
+18:45:29.525 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "Ammo_308WinTracer"
+18:45:29.634 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "Ammo_762x39Tracer"
+18:45:29.743 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "SR3_Vikhr_Mag"
+18:45:29.853 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "Ammo_545x39"
+18:45:29.962 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "Snafu_ScarH_25RND_Mag_OD"
+18:45:30.71 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "SNAFUAPS_20rdMag"
+18:45:30.181 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "Snafu_ScarH_Snow_GUN"
+18:45:30.290 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "Snafu_ScarH_Black_GUN"
+18:45:30.399 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "SNAFU_PL14HQP_Mag"
+18:45:30.509 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "SNAFUUzi_72rdMag"
+18:45:30.618 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "CZ61"
+18:45:30.727 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "SNAFUVECTOR_9mm_Mag"
+18:45:30.837 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "Snafu_ScarH_25RND_Mag_Snow"
+18:45:30.946 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "AmmoBox_380_35rnd"
+18:45:31.55 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "SNAFUAUG_30rdMag"
+18:45:31.165 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "Snafu_ScarH_25RND_Mag_DKMC"
+18:45:58.497 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "Snafu_ScarH_25RND_Mag_DKMC"
+18:46:01.121 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+18:46:40.176 [IdleMode] Entering IN - save processed
+18:48:15.34 [Login]: Adding player NaNoBiTs (28195947) to login queue at position 0
+18:48:15.34 [LoginMachine]: Add player NaNoBiTs (28195947 179.177.13.28:12802)
+18:48:15.34 [StateMachine]: Player NaNoBiTs (dpnid 28195947 uid ) Entering AuthPlayerLoginState
+18:48:16.659 [StateMachine]: Player NaNoBiTs (dpnid 28195947 uid ) State Error (AuthPlayerLoginState)
+18:48:16.659 Player Unknown (28195947) kicked from server: 146 (Client has a more recent version. Please wait until server updates. (RedFalcon Flight System Heliz (PBO: PBO: D:\ESTEAM\steamapps\common\DayZ\!dzsal\@RedFalcon Flight System Heliz\addons\rffsheli_apache.pbo (ClientVersion: 22090322 | ServerVersion: 22080121) )))
+18:48:16.659 [StateMachine]: Kick player NaNoBiTs (dpnid 28195947 uid ) State AuthPlayerLoginState
+18:48:16.674 [Disconnect]: Client 28195947 early disconnect
+18:48:16.674 [Disconnect]: No identity -> remove player info 28195947 
+18:48:16.674 [Disconnect]: DisconnectPlayerFinish 28195947
+18:48:16.674 [Disconnect]: Remove player info 28195947
+18:48:16.674 [Disconnect]: Player destroy 28195947 
+ 4:50:45.198 [Login]: Adding player Survivor (25012219) to login queue at position 0
+ 4:50:45.198 [LoginMachine]: Add player Survivor (25012219 177.43.27.30:12802)
+ 4:50:45.198 [StateMachine]: Player Survivor (dpnid 25012219 uid ) Entering AuthPlayerLoginState
+ 4:50:47.135 [StateMachine]: Player Survivor (dpnid 25012219 uid ) State Error (AuthPlayerLoginState)
+ 4:50:47.135 Player Unknown (25012219) kicked from server: 146 (Client has a more recent version. Please wait until server updates. (RedFalcon Flight System Heliz (PBO: PBO: C:\Program Files (x86)\Steam\steamapps\common\DayZ\!Workshop\@RedFalcon Flight System Heliz\addons\rffsheli_apache.pbo (ClientVersion: 22090322 | ServerVersion: 22080121) )))
+ 4:50:47.135 [StateMachine]: Kick player Survivor (dpnid 25012219 uid ) State AuthPlayerLoginState
+ 4:50:47.151 [Disconnect]: Client 25012219 early disconnect
+ 4:50:47.166 [Disconnect]: No identity -> remove player info 25012219 
+ 4:50:47.166 [Disconnect]: DisconnectPlayerFinish 25012219
+ 4:50:47.166 [Disconnect]: Remove player info 25012219
+ 4:50:47.166 [Disconnect]: Player destroy 25012219 
+ 4:51:46.764 [Login]: Adding player Survivor (21976265) to login queue at position 0
+ 4:51:46.764 [LoginMachine]: Add player Survivor (21976265 177.43.27.30:12802)
+ 4:51:46.764 [StateMachine]: Player Survivor (dpnid 21976265 uid ) Entering AuthPlayerLoginState
+ 4:51:48.103 [IdleMode] Leaving OUT
+ 4:51:48.696 [StateMachine]: Player Survivor (dpnid 21976265 uid ) State Error (AuthPlayerLoginState)
+ 4:51:48.696 Player Unknown (21976265) kicked from server: 146 (Client has a more recent version. Please wait until server updates. (RedFalcon Flight System Heliz (PBO: PBO: C:\Program Files (x86)\Steam\steamapps\common\DayZ\!Workshop\@RedFalcon Flight System Heliz\addons\rffsheli_apache.pbo (ClientVersion: 22090322 | ServerVersion: 22080121) )))
+ 4:51:48.696 [StateMachine]: Kick player Survivor (dpnid 21976265 uid ) State AuthPlayerLoginState
+ 4:51:48.711 [Disconnect]: Client 21976265 early disconnect
+ 4:51:48.727 [Disconnect]: No identity -> remove player info 21976265 
+ 4:51:48.727 [Disconnect]: DisconnectPlayerFinish 21976265
+ 4:51:48.727 [Disconnect]: Remove player info 21976265
+ 4:51:48.727 [Disconnect]: Player destroy 21976265 
+ 4:52:17.408 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+ 4:53:24.231 [IdleMode] Entering IN - save processed
+ 7:52:55.379 [Login]: Adding player [SE7E]kpetinha (201998657) to login queue at position 0
+ 7:52:55.379 [LoginMachine]: Add player [SE7E]kpetinha (201998657 187.74.44.156:12802)
+ 7:52:55.379 [StateMachine]: Player [SE7E]kpetinha (dpnid 201998657 uid ) Entering AuthPlayerLoginState
+ 7:52:56.144 [IdleMode] Leaving OUT
+ 7:52:56.800 [StateMachine]: Player [SE7E]kpetinha (dpnid 201998657 uid ) State Error (AuthPlayerLoginState)
+ 7:52:56.800 Player Unknown (201998657) kicked from server: 146 (Client has a more recent version. Please wait until server updates. (RedFalcon Flight System Heliz (PBO: PBO: C:\Program Files (x86)\Steam\steamapps\common\DayZ\!Workshop\@RedFalcon Flight System Heliz\addons\rffsheli_apache.pbo (ClientVersion: 22090322 | ServerVersion: 22080121) )))
+ 7:52:56.800 [StateMachine]: Kick player [SE7E]kpetinha (dpnid 201998657 uid ) State AuthPlayerLoginState
+ 7:52:56.816 [Disconnect]: Client 201998657 early disconnect
+ 7:52:56.832 [Disconnect]: No identity -> remove player info 201998657 
+ 7:52:56.832 [Disconnect]: DisconnectPlayerFinish 201998657
+ 7:52:56.832 [Disconnect]: Remove player info 201998657
+ 7:52:56.832 [Disconnect]: Player destroy 201998657 
+ 7:53:24.794 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+ 7:54:31.477 [IdleMode] Entering IN - save processed
+ 8:04:45.279 [Login]: Adding player Survivor (27718397) to login queue at position 0
+ 8:04:45.279 [LoginMachine]: Add player Survivor (27718397 177.43.27.30:12802)
+ 8:04:45.279 [StateMachine]: Player Survivor (dpnid 27718397 uid ) Entering AuthPlayerLoginState
+ 8:04:45.951 [StateMachine]: Player Survivor (dpnid 27718397 uid ) State Error (AuthPlayerLoginState)
+ 8:04:45.951 Player Unknown (27718397) kicked from server: 115 (Client is missing a mod which is on the server. (TraderPlus; GoreZ; RedFalcon Flight System Heliz; CarsForAll; InventoryMoveSounds; MMG - Mightys Military Gear; S.A.P. Pack; SchanaModGlobalChat; GunnerTruck; dbo_surfaces; StaminaSettings; Notifications; PseudoGiant; DrugsPLUS; Breachingcharge; Burn Alive; 6IX DayZ Auto Run Mod; InventoryDump; MassA2Assets; Unknown Ghillie Mod; DayZ Editor Loader)  (Missing PBO. (C:\Program Files (x86)\Steam\steamapps\common\DayZ\!Workshop\@Community-Online-Tools\addons\gui.pbo)))
+ 8:04:45.951 [StateMachine]: Kick player Survivor (dpnid 27718397 uid ) State AuthPlayerLoginState
+ 8:04:45.967 [Disconnect]: Client 27718397 early disconnect
+ 8:04:45.967 [Disconnect]: No identity -> remove player info 27718397 
+ 8:04:45.967 [Disconnect]: DisconnectPlayerFinish 27718397
+ 8:04:45.967 [Disconnect]: Remove player info 27718397
+ 8:04:45.967 [Disconnect]: Player destroy 27718397 
+11:52:59.300 [Login]: Adding player LwShutt (26412428) to login queue at position 0
+11:52:59.300 [LoginMachine]: Add player LwShutt (26412428 186.194.222.4:12802)
+11:52:59.300 [StateMachine]: Player LwShutt (dpnid 26412428 uid ) Entering AuthPlayerLoginState
+11:52:59.769 [IdleMode] Leaving OUT
+11:53:01.18 [StateMachine]: Player LwShutt (dpnid 26412428 uid ) State Error (AuthPlayerLoginState)
+11:53:01.18 Player Unknown (26412428) kicked from server: 146 (Client has a more recent version. Please wait until server updates. (RedFalcon Flight System Heliz (PBO: PBO: C:\Program Files (x86)\Steam\steamapps\common\DayZ\!Workshop\@RedFalcon Flight System Heliz\addons\rffsheli_apache.pbo (ClientVersion: 22090322 | ServerVersion: 22080121) )))
+11:53:01.18 [StateMachine]: Kick player LwShutt (dpnid 26412428 uid ) State AuthPlayerLoginState
+11:53:01.34 [Disconnect]: Client 26412428 early disconnect
+11:53:01.49 [Disconnect]: No identity -> remove player info 26412428 
+11:53:01.49 [Disconnect]: DisconnectPlayerFinish 26412428
+11:53:01.49 [Disconnect]: Remove player info 26412428
+11:53:01.49 [Disconnect]: Player destroy 26412428 
+11:53:27.762 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+11:54:35.147 [IdleMode] Entering IN - save processed
+11:59:35.743 [Login]: Adding player LwShutt (23586303) to login queue at position 0
+11:59:35.743 [LoginMachine]: Add player LwShutt (23586303 186.194.222.4:12802)
+11:59:35.743 [StateMachine]: Player LwShutt (dpnid 23586303 uid ) Entering AuthPlayerLoginState
+11:59:36.571 [IdleMode] Leaving OUT
+11:59:37.493 [StateMachine]: Player LwShutt (dpnid 23586303 uid ) State Error (AuthPlayerLoginState)
+11:59:37.493 Player Unknown (23586303) kicked from server: 146 (Client has a more recent version. Please wait until server updates. (RedFalcon Flight System Heliz (PBO: PBO: C:\Program Files (x86)\Steam\steamapps\common\DayZ\!Workshop\@RedFalcon Flight System Heliz\addons\rffsheli_apache.pbo (ClientVersion: 22090322 | ServerVersion: 22080121) )))
+11:59:37.493 [StateMachine]: Kick player LwShutt (dpnid 23586303 uid ) State AuthPlayerLoginState
+11:59:37.508 [Disconnect]: Client 23586303 early disconnect
+11:59:37.508 [Disconnect]: No identity -> remove player info 23586303 
+11:59:37.508 [Disconnect]: DisconnectPlayerFinish 23586303
+11:59:37.508 [Disconnect]: Remove player info 23586303
+11:59:37.508 [Disconnect]: Player destroy 23586303 
+12:00:03.893 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+12:01:11.926 [IdleMode] Entering IN - save processed
+13:18:47.194 [Login]: Adding player LwShutt (25700546) to login queue at position 0
+13:18:47.194 [LoginMachine]: Add player LwShutt (25700546 186.194.222.4:12802)
+13:18:47.194 [StateMachine]: Player LwShutt (dpnid 25700546 uid ) Entering AuthPlayerLoginState
+13:18:48.907 [StateMachine]: Player LwShutt (dpnid 25700546 uid ) State Error (AuthPlayerLoginState)
+13:18:48.907 Player Unknown (25700546) kicked from server: 146 (Client has a more recent version. Please wait until server updates. (RedFalcon Flight System Heliz (PBO: PBO: C:\Program Files (x86)\Steam\steamapps\common\DayZ\!Workshop\@RedFalcon Flight System Heliz\addons\rffsheli_apache.pbo (ClientVersion: 22090322 | ServerVersion: 22080121) )))
+13:18:48.907 [StateMachine]: Kick player LwShutt (dpnid 25700546 uid ) State AuthPlayerLoginState
+13:18:48.923 [Disconnect]: Client 25700546 early disconnect
+13:18:48.923 [Disconnect]: No identity -> remove player info 25700546 
+13:18:48.923 [Disconnect]: DisconnectPlayerFinish 25700546
+13:18:48.923 [Disconnect]: Remove player info 25700546
+13:18:48.923 [Disconnect]: Player destroy 25700546 
+13:22:43.327 [Login]: Adding player LwShutt (23778192) to login queue at position 0
+13:22:43.327 [LoginMachine]: Add player LwShutt (23778192 186.194.222.4:12802)
+13:22:43.327 [StateMachine]: Player LwShutt (dpnid 23778192 uid ) Entering AuthPlayerLoginState
+13:22:45.46 [StateMachine]: Player LwShutt (dpnid 23778192 uid ) State Error (AuthPlayerLoginState)
+13:22:45.46 Player Unknown (23778192) kicked from server: 146 (Client has a more recent version. Please wait until server updates. (RedFalcon Flight System Heliz (PBO: PBO: C:\Program Files (x86)\Steam\steamapps\common\DayZ\!Workshop\@RedFalcon Flight System Heliz\addons\rffsheli_apache.pbo (ClientVersion: 22090322 | ServerVersion: 22080121) )))
+13:22:45.46 [StateMachine]: Kick player LwShutt (dpnid 23778192 uid ) State AuthPlayerLoginState
+13:22:45.61 [Disconnect]: Client 23778192 early disconnect
+13:22:45.77 [Disconnect]: No identity -> remove player info 23778192 
+13:22:45.77 [Disconnect]: DisconnectPlayerFinish 23778192
+13:22:45.77 [Disconnect]: Remove player info 23778192
+13:22:45.77 [Disconnect]: Player destroy 23778192 
+13:25:17.825 [Login]: Adding player LwShutt (23547835) to login queue at position 0
+13:25:17.825 [LoginMachine]: Add player LwShutt (23547835 186.194.222.4:12802)
+13:25:17.825 [StateMachine]: Player LwShutt (dpnid 23547835 uid ) Entering AuthPlayerLoginState
+13:25:19.543 [StateMachine]: Player LwShutt (dpnid 23547835 uid ) State Error (AuthPlayerLoginState)
+13:25:19.543 Player Unknown (23547835) kicked from server: 146 (Client has a more recent version. Please wait until server updates. (RedFalcon Flight System Heliz (PBO: PBO: C:\Program Files (x86)\Steam\steamapps\common\DayZ\!Workshop\@RedFalcon Flight System Heliz\addons\rffsheli_apache.pbo (ClientVersion: 22090322 | ServerVersion: 22080121) )))
+13:25:19.543 [StateMachine]: Kick player LwShutt (dpnid 23547835 uid ) State AuthPlayerLoginState
+13:25:19.559 [Disconnect]: Client 23547835 early disconnect
+13:25:19.559 [Disconnect]: No identity -> remove player info 23547835 
+13:25:19.559 [Disconnect]: DisconnectPlayerFinish 23547835
+13:25:19.559 [Disconnect]: Remove player info 23547835
+13:25:19.559 [Disconnect]: Player destroy 23547835 
+13:27:24.967 [Login]: Adding player LwShutt (23425893) to login queue at position 0
+13:27:24.967 [LoginMachine]: Add player LwShutt (23425893 186.194.222.4:12802)
+13:27:24.967 [StateMachine]: Player LwShutt (dpnid 23425893 uid ) Entering AuthPlayerLoginState
+13:27:25.951 [IdleMode] Leaving OUT
+13:27:26.670 [StateMachine]: Player LwShutt (dpnid 23425893 uid ) State Error (AuthPlayerLoginState)
+13:27:26.670 Player Unknown (23425893) kicked from server: 146 (Client has a more recent version. Please wait until server updates. (RedFalcon Flight System Heliz (PBO: PBO: C:\Program Files (x86)\Steam\steamapps\common\DayZ\!Workshop\@RedFalcon Flight System Heliz\addons\rffsheli_apache.pbo (ClientVersion: 22090322 | ServerVersion: 22080121) )))
+13:27:26.670 [StateMachine]: Kick player LwShutt (dpnid 23425893 uid ) State AuthPlayerLoginState
+13:27:26.685 [Disconnect]: Client 23425893 early disconnect
+13:27:26.701 [Disconnect]: No identity -> remove player info 23425893 
+13:27:26.701 [Disconnect]: DisconnectPlayerFinish 23425893
+13:27:26.701 [Disconnect]: Remove player info 23425893
+13:27:26.701 [Disconnect]: Player destroy 23425893 
+13:27:52.618 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+13:28:19.377 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "M65Jacket_Khaki"
+13:28:54.12 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+13:29:01.244 [IdleMode] Entering IN - save processed
+13:29:40.626 [Login]: Adding player LwShutt (23514733) to login queue at position 0
+13:29:40.626 [LoginMachine]: Add player LwShutt (23514733 186.194.222.4:12802)
+13:29:40.626 [StateMachine]: Player LwShutt (dpnid 23514733 uid ) Entering AuthPlayerLoginState
+13:29:42.329 [StateMachine]: Player LwShutt (dpnid 23514733 uid ) State Error (AuthPlayerLoginState)
+13:29:42.329 Player Unknown (23514733) kicked from server: 146 (Client has a more recent version. Please wait until server updates. (RedFalcon Flight System Heliz (PBO: PBO: C:\Program Files (x86)\Steam\steamapps\common\DayZ\!Workshop\@RedFalcon Flight System Heliz\addons\rffsheli_apache.pbo (ClientVersion: 22090322 | ServerVersion: 22080121) )))
+13:29:42.329 [StateMachine]: Kick player LwShutt (dpnid 23514733 uid ) State AuthPlayerLoginState
+13:29:42.345 [Disconnect]: Client 23514733 early disconnect
+13:29:42.345 [Disconnect]: No identity -> remove player info 23514733 
+13:29:42.345 [Disconnect]: DisconnectPlayerFinish 23514733
+13:29:42.345 [Disconnect]: Remove player info 23514733
+13:29:42.345 [Disconnect]: Player destroy 23514733 
+13:31:03.298 [Login]: Adding player TraficanteNATO4i20 (37339966) to login queue at position 0
+13:31:03.298 [LoginMachine]: Add player TraficanteNATO4i20 (37339966 31.50.32.57:12802)
+13:31:03.298 [StateMachine]: Player TraficanteNATO4i20 (dpnid 37339966 uid ) Entering AuthPlayerLoginState
+13:31:04.16 [StateMachine]: Player TraficanteNATO4i20 (dpnid 37339966 uid ) State Error (AuthPlayerLoginState)
+13:31:04.16 Player Unknown (37339966) kicked from server: 115 (Client is missing a mod which is on the server. (TraderPlus; CarsForAll; InventoryMoveSounds; MMG - Mightys Military Gear; S.A.P. Pack; SchanaModGlobalChat; GunnerTruck; dbo_surfaces; StaminaSettings; PseudoGiant; Breachingcharge; Advanced Weapon Scopes; VanillaPlusPlusMap; Burn Alive; InventoryDump; MassA2Assets; Dabs Framework; SchanaParty; DayZ Editor Loader)  (Missing PBO. (C:\Program Files (x86)\Steam\steamapps\common\DayZ\!Workshop\@BBPItemPack\addons\bbpitempack.pbo)))
+13:31:04.16 [StateMachine]: Kick player TraficanteNATO4i20 (dpnid 37339966 uid ) State AuthPlayerLoginState
+13:31:04.32 [Disconnect]: Client 37339966 early disconnect
+13:31:04.32 [Disconnect]: No identity -> remove player info 37339966 
+13:31:04.32 [Disconnect]: DisconnectPlayerFinish 37339966
+13:31:04.32 [Disconnect]: Remove player info 37339966
+13:31:04.32 [Disconnect]: Player destroy 37339966 
+13:33:28.566 [Login]: Adding player LwShutt (23011431) to login queue at position 0
+13:33:28.566 [LoginMachine]: Add player LwShutt (23011431 186.194.222.4:12802)
+13:33:28.566 [StateMachine]: Player LwShutt (dpnid 23011431 uid ) Entering AuthPlayerLoginState
+13:33:30.268 [StateMachine]: Player LwShutt (dpnid 23011431 uid ) State Error 

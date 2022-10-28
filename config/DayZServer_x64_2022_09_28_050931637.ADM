@@ -1,0 +1,384 @@
+
+
+******************************************************************************
+AdminLog started on 2022-09-27 at 05:09:28
+
+
+******************************************************************************
+AdminLog started on 2022-09-27 at 11:02:04
+11:24:56 | Player "Survivor"(id=Unknown) has been disconnected
+11:25:03 | Player "Survivor"(id=Unknown) has been disconnected
+13:31:34 | Player "Survivor"(id=Unknown) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2022-09-27 at 13:33:51
+13:42:39 | Player "Survivor" is connected (id=BkZ5t2x8fcqkQlObY_BmsQaXB3y7FRZWSJLMV1tWFAY=)
+13:43:03 | Survivor conectou
+13:45:04 | ##### PlayerList log: 1 players
+13:45:04 | Player "Survivor" (id=BkZ5t2x8fcqkQlObY_BmsQaXB3y7FRZWSJLMV1tWFAY= pos=<3602.9, 6186.1, 370.2>)
+13:45:04 | #####
+13:50:04 | ##### PlayerList log: 1 players
+13:50:04 | Player "Survivor" (id=BkZ5t2x8fcqkQlObY_BmsQaXB3y7FRZWSJLMV1tWFAY= pos=<8555.0, 2738.2, 10.8>)
+13:50:04 | #####
+13:55:04 | ##### PlayerList log: 1 players
+13:55:04 | Player "Survivor" (id=BkZ5t2x8fcqkQlObY_BmsQaXB3y7FRZWSJLMV1tWFAY= pos=<3688.1, 5994.9, 402.0>)
+13:55:04 | #####
+14:00:04 | ##### PlayerList log: 1 players
+14:00:04 | Player "Survivor" (id=BkZ5t2x8fcqkQlObY_BmsQaXB3y7FRZWSJLMV1tWFAY= pos=<3682.3, 5989.1, 402.0>)
+14:00:04 | #####
+14:05:04 | ##### PlayerList log: 1 players
+14:05:04 | Player "Survivor" (id=BkZ5t2x8fcqkQlObY_BmsQaXB3y7FRZWSJLMV1tWFAY= pos=<3682.3, 5989.1, 402.0>)
+14:05:04 | #####
+14:10:04 | ##### PlayerList log: 1 players
+14:10:04 | Player "Survivor" (id=BkZ5t2x8fcqkQlObY_BmsQaXB3y7FRZWSJLMV1tWFAY= pos=<3682.3, 5989.1, 402.0>)
+14:10:04 | #####
+14:11:01 | Player "Survivor"(id=BkZ5t2x8fcqkQlObY_BmsQaXB3y7FRZWSJLMV1tWFAY=) has been disconnected
+14:15:10 | Player "S.o.B.r.A.l.Z.i.N" is connected (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)
+14:15:34 | S.o.B.r.A.l.Z.i.N conectou
+14:15:34 | S.o.B.r.A.l.Z.i.N registro criado!
+14:16:46 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11423.3, 10614.1, 156.9>)[HP: 98.3125] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieMale)
+14:17:05 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11427.1, 10635.4, 159.5>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+14:17:05 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11427.1, 10635.4, 159.5>) killed by  with 6-M7 Frag Grenade
+14:17:23 | S.o.B.r.A.l.Z.i.N conectou
+14:18:38 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<14710.7, 13273.2, 13.0>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+14:18:38 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<14710.7, 13273.2, 13.0>) killed by  with 6-M7 Frag Grenade
+14:18:58 | S.o.B.r.A.l.Z.i.N conectou
+14:20:04 | ##### PlayerList log: 1 players
+14:20:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11051.6, 2918.1, 4.1>)
+14:20:04 | #####
+14:20:52 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11007.6, 2824.6, 6.5>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+14:20:52 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11007.6, 2824.6, 6.5>) killed by  with 6-M7 Frag Grenade
+14:20:52 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11007.6, 2824.6, 6.5>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+14:20:52 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11007.6, 2824.6, 6.5>)[HP: 0] hit by explosion (FlashGrenade_Ammo)
+14:20:56 | S.o.B.r.A.l.Z.i.N conectou
+14:25:04 | ##### PlayerList log: 1 players
+14:25:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12814.4, 8624.2, 5.9>)
+14:25:04 | #####
+14:25:39 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12831.6, 8636.0, 6.5>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+14:25:39 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12831.6, 8636.0, 6.5>) killed by  with 6-M7 Frag Grenade
+14:25:43 | S.o.B.r.A.l.Z.i.N conectou
+14:27:11 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6147, 2057.9, 1.6>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+14:27:11 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6147, 2057.9, 1.6>) killed by  with 6-M7 Frag Grenade
+14:27:14 | S.o.B.r.A.l.Z.i.N conectou
+14:30:04 | ##### PlayerList log: 1 players
+14:30:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12647.9, 9529.4, 6.0>)
+14:30:04 | #####
+14:33:16 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12663.2, 9794.0, 6.0>)[HP: 99.5] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+14:35:04 | ##### PlayerList log: 1 players
+14:35:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12254.5, 9802.7, 12.4>)
+14:35:04 | #####
+14:40:04 | ##### PlayerList log: 1 players
+14:40:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12254.2, 9812.6, 22.9>)
+14:40:04 | #####
+14:40:20 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12251.7, 9804.7, 10.6>)[HP: 26.7689] hit by FallDamage
+14:40:21 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12251.3, 9804.4, 10.6>) is unconscious
+14:40:24 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12251.5, 9804.7, 10.6>) died. Stats> Water: 2206.14 Energy: 4606.98 Bleed sources: 0
+14:40:39 | S.o.B.r.A.l.Z.i.N conectou
+14:45:04 | ##### PlayerList log: 1 players
+14:45:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12254.2, 9813.0, 22.9>)
+14:45:04 | #####
+14:47:32 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12250.8, 9814.9, 22.9>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+14:47:32 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12250.8, 9814.9, 22.9>) killed by  with 6-M7 Frag Grenade
+14:47:35 | Player "S.o.B.r.A.l.Z.i.N"(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=) has been disconnected
+14:47:42 | Player "S.o.B.r.A.l.Z.i.N" is connected (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)
+14:47:54 | S.o.B.r.A.l.Z.i.N conectou
+14:50:04 | ##### PlayerList log: 1 players
+14:50:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<7293.6, 3037.3, 25.4>)
+14:50:04 | #####
+14:52:23 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<7156.6, 3201.2, 15.0>)[HP: 86.9605] hit by FallDamage
+14:55:04 | ##### PlayerList log: 1 players
+14:55:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6503.1, 3607.0, 60.6>)
+14:55:04 | #####
+15:00:04 | ##### PlayerList log: 1 players
+15:00:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<5221.7, 5002.6, 272.8>)
+15:00:04 | #####
+15:05:04 | ##### PlayerList log: 1 players
+15:05:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<3821.2, 5972.3, 400.1>)
+15:05:04 | #####
+15:10:04 | ##### PlayerList log: 1 players
+15:10:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<3702.3, 6018.9, 402.0>)
+15:10:04 | #####
+15:15:04 | ##### PlayerList log: 1 players
+15:15:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<3697.7, 5998.4, 402.0>)
+15:15:04 | #####
+15:20:04 | ##### PlayerList log: 1 players
+15:20:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<3706.1, 6003.6, 402.0>)
+15:20:04 | #####
+15:25:04 | ##### PlayerList log: 1 players
+15:25:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<3699.4, 6002.8, 402.0>)
+15:25:04 | #####
+15:30:04 | ##### PlayerList log: 1 players
+15:30:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<3720.6, 5996.3, 402.6>)
+15:30:04 | #####
+15:35:04 | ##### PlayerList log: 1 players
+15:35:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<3719.2, 5999.5, 402.0>)
+15:35:04 | #####
+15:40:04 | ##### PlayerList log: 1 players
+15:40:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<3705.1, 6034.8, 401.0>)
+15:40:04 | #####
+15:45:04 | ##### PlayerList log: 1 players
+15:45:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<2815.2, 7943.6, 326.2>)
+15:45:04 | #####
+15:50:04 | ##### PlayerList log: 1 players
+15:50:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<1755.8, 10151.3, 257.3>)
+15:50:04 | #####
+15:55:04 | ##### PlayerList log: 1 players
+15:55:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<1881.7, 10687.9, 245.9>)
+15:55:04 | #####
+16:00:03 | ##### PlayerList log: 1 players
+16:00:03 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<1203.3, 12087.3, 302.1>)
+16:00:03 | #####
+16:05:03 | ##### PlayerList log: 1 players
+16:05:03 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<1159.2, 12325.4, 379.2>)
+16:05:03 | #####
+16:10:03 | ##### PlayerList log: 1 players
+16:10:03 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<2075.5, 12242.4, 247.9>)
+16:10:03 | #####
+16:15:03 | ##### PlayerList log: 1 players
+16:15:03 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<5003.4, 12464.9, 198.8>)
+16:15:03 | #####
+16:20:03 | ##### PlayerList log: 1 players
+16:20:03 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<7996.4, 12073.8, 173.9>)
+16:20:03 | #####
+16:25:04 | ##### PlayerList log: 1 players
+16:25:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8840.0, 12048.9, 190.9>)
+16:25:04 | #####
+16:30:04 | ##### PlayerList log: 1 players
+16:30:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8839.0, 12046.4, 190.6>)
+16:30:04 | #####
+16:31:59 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<9551.6, 11806.5, 242.3>)[HP: 97.75] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+16:32:03 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<9553.7, 11806.8, 242.3>)[HP: 96.8404] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+16:35:04 | ##### PlayerList log: 1 players
+16:35:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<9952.0, 11255.7, 221.6>)
+16:35:04 | #####
+16:40:04 | ##### PlayerList log: 1 players
+16:40:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11347.3, 10392.7, 121.4>)
+16:40:04 | #####
+16:42:09 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12227.8, 9810.9, 11.4>)[HP: 91.3847] hit by FallDamage
+16:45:04 | ##### PlayerList log: 1 players
+16:45:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12258.1, 9797.4, 10.6>)
+16:45:04 | #####
+16:50:04 | ##### PlayerList log: 1 players
+16:50:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12263, 9804.6, 19.5>)
+16:50:04 | #####
+16:51:05 | Player 'S.o.B.r.A.l.Z.i.N' (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=) committed suicide.
+16:51:07 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12258.2, 9810.8, 22.9>) died. Stats> Water: 1158.74 Energy: 3209.6 Bleed sources: 0
+16:51:13 | S.o.B.r.A.l.Z.i.N conectou
+16:52:00 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<14345.5, 12861.8, 3.8>)[HP: 73.7006] hit by explosion (M67Grenade_Ammo)
+16:52:21 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<14345.6, 12862.4, 3.8>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+16:52:21 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<14345.6, 12862.4, 3.8>) killed by  with 6-M7 Frag Grenade
+16:52:26 | S.o.B.r.A.l.Z.i.N conectou
+16:53:14 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6209.9, 2079.8, -0.4>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+16:53:14 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6209.9, 2079.8, -0.4>) killed by  with 6-M7 Frag Grenade
+16:53:32 | S.o.B.r.A.l.Z.i.N conectou
+16:55:04 | ##### PlayerList log: 1 players
+16:55:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12642, 9580.1, 6.2>)
+16:55:04 | #####
+17:00:04 | ##### PlayerList log: 1 players
+17:00:04 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12265.2, 9805.7, 19.5>)
+17:00:04 | #####
+17:03:17 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12259.7, 9802.8, 10.6>)[HP: 52.2332] hit by FallDamage
+17:03:18 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12259.2, 9802.9, 10.6>) is unconscious
+17:03:20 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12259.9, 9803.2, 10.6>) died. Stats> Water: 2359.38 Energy: 4808.57 Bleed sources: 0
+17:03:22 | S.o.B.r.A.l.Z.i.N conectou
+17:04:51 | Player "S.o.B.r.A.l.Z.i.N"(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2022-09-27 at 17:05:25
+17:06:59 | Player "S.o.B.r.A.l.Z.i.N" is connected (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)
+17:07:14 | S.o.B.r.A.l.Z.i.N conectou
+17:10:23 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8406.6, 2431.7, 2.3>) committed suicide
+17:10:23 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8406.6, 2431.7, 2.3>) died. Stats> Water: 2418.97 Energy: 4883.87 Bleed sources: 0
+17:10:41 | S.o.B.r.A.l.Z.i.N conectou
+17:11:34 | ##### PlayerList log: 1 players
+17:11:34 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8383.6, 2464.5, 6.8>)
+17:11:34 | #####
+17:16:34 | ##### PlayerList log: 1 players
+17:16:34 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8511.5, 2426.8, 2.9>)
+17:16:34 | #####
+17:21:34 | ##### PlayerList log: 1 players
+17:21:34 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8470.9, 2426.1, 0.0>)
+17:21:34 | #####
+17:26:34 | ##### PlayerList log: 1 players
+17:26:34 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8336.5, 2381.6, 1.0>)
+17:26:34 | #####
+17:29:09 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8336.6, 2388.7, 1.8>) committed suicide
+17:29:09 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8336.6, 2388.7, 1.8>) died. Stats> Water: 2315.69 Energy: 4701.65 Bleed sources: 0
+17:29:12 | S.o.B.r.A.l.Z.i.N conectou
+17:29:59 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8335.8, 2388.1, 1.8>) committed suicide
+17:29:59 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8335.8, 2388.1, 1.8>) died. Stats> Water: 2490.69 Energy: 4986.78 Bleed sources: 0
+17:30:03 | S.o.B.r.A.l.Z.i.N conectou
+17:31:05 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6263.0, 2164.5, 3.9>) committed suicide
+17:31:05 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6263.0, 2164.5, 3.9>) died. Stats> Water: 2488.18 Energy: 4983.42 Bleed sources: 0
+17:31:23 | S.o.B.r.A.l.Z.i.N conectou
+17:31:34 | ##### PlayerList log: 1 players
+17:31:34 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<7100, 2487, 2.0>)
+17:31:34 | #####
+17:32:11 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<7124.8, 2493.3, -1.2>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+17:32:11 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<7124.8, 2493.3, -1.2>) killed by  with 6-M7 Frag Grenade
+17:32:14 | S.o.B.r.A.l.Z.i.N conectou
+17:33:33 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6229.0, 2109.1, 2.4>)[HP: 86.747] hit by explosion (FlashGrenade_Ammo)
+17:33:40 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6229.0, 2109.1, 2.4>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+17:33:40 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6229.0, 2109.1, 2.4>) killed by  with 6-M7 Frag Grenade
+17:33:44 | S.o.B.r.A.l.Z.i.N conectou
+17:34:14 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13209.1, 10307.5, 4.0>)[HP: 86.9437] hit by explosion (FlashGrenade_Ammo)
+17:34:29 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13209.3, 10305.7, 3.9>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+17:34:29 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13209.3, 10305.7, 3.9>) killed by  with 6-M7 Frag Grenade
+17:35:02 | S.o.B.r.A.l.Z.i.N conectou
+17:35:24 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6115.6, 2029.9, 3.6>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+17:35:24 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6115.6, 2029.9, 3.6>) killed by  with 6-M7 Frag Grenade
+17:35:27 | S.o.B.r.A.l.Z.i.N conectou
+17:36:20 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8479.1, 2423.5, -0.0>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+17:36:20 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8479.1, 2423.5, -0.0>) killed by  with 6-M7 Frag Grenade
+17:36:24 | S.o.B.r.A.l.Z.i.N conectou
+17:36:34 | ##### PlayerList log: 1 players
+17:36:34 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<14253.9, 13048.8, 3.0>)
+17:36:34 | #####
+17:36:52 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<14253.7, 13065.2, 3.3>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+17:36:52 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<14253.7, 13065.2, 3.3>) killed by  with 6-M7 Frag Grenade
+17:36:56 | S.o.B.r.A.l.Z.i.N conectou
+17:37:36 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13017.9, 8054.1, 9.6>)[HP: 98.875] hit by Infected into RightLeg(3) for 4.5 damage (MeleeZombie)
+17:37:41 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13017.9, 8055.1, 9.4>)[HP: 97.3717] hit by Infected into Torso(1) for 1.59375 damage (MeleeZombieMale)
+17:38:12 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13007.2, 8054.9, 12.9>)[HP: 97.2334] hit by Infected into Torso(1) for 1.0625 damage (MeleeZombie)
+17:38:13 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13007, 8054.6, 13.0>)[HP: 96.7334] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+17:38:14 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13007.5, 8053.8, 12.9>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+17:38:14 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13007.5, 8053.8, 12.9>) killed by  with 6-M7 Frag Grenade
+17:38:18 | S.o.B.r.A.l.Z.i.N conectou
+17:38:37 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6217.0, 2106.2, 3.0>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+17:38:37 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6217.0, 2106.2, 3.0>) killed by  with 6-M7 Frag Grenade
+17:38:57 | S.o.B.r.A.l.Z.i.N conectou
+17:39:19 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<7094.4, 2506.1, 2.8>) committed suicide
+17:39:19 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<7094.4, 2506.1, 2.8>) died. Stats> Water: 2497.43 Energy: 4995.67 Bleed sources: 0
+17:39:38 | S.o.B.r.A.l.Z.i.N conectou
+17:39:53 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13331, 7018, 2.1>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+17:39:53 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13331, 7018, 2.1>) killed by  with 6-M7 Frag Grenade
+17:40:12 | S.o.B.r.A.l.Z.i.N conectou
+17:40:35 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8040.1, 2820.4, 3.4>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+17:40:35 | Player "S.o.B.r.A.l.Z.i.N" (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<8040.1, 2820.4, 3.4>) killed by  with 6-M7 Frag Grenade
+17:40:53 | S.o.B.r.A.l.Z.i.N conectou
+17:41:34 | ##### PlayerList log: 1 players
+17:41:34 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12835.9, 9446.0, 6.0>)
+17:41:34 | #####
+17:43:34 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12642.8, 9630.9, 6.0>)[HP: 72.7277] hit by explosion (M67Grenade_Ammo)
+17:43:34 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12642.8, 9630.9, 6.0>)[HP: 48.3126] hit by explosion (M67Grenade_Ammo)
+17:46:34 | ##### PlayerList log: 1 players
+17:46:34 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12247.1, 9809.4, 22.9>)
+17:46:34 | #####
+17:51:34 | ##### PlayerList log: 1 players
+17:51:34 | Player "S.o.B.r.A.l.Z.i.N" (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12250.8, 9796.3, 10.9>)
+17:51:34 | #####
+17:54:11 | Player "S.o.B.r.A.l.Z.i.N"(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=) has been disconnected
+21:20:12 | Player "NanoBits" is connected (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM=)
+21:20:29 | NanoBits conectou
+21:20:29 | NanoBits registro criado!
+21:21:33 | ##### PlayerList log: 1 players
+21:21:33 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<2527.4, 5067.8, 193.6>)
+21:21:33 | #####
+21:21:49 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<2591.5, 5052.8, 194.9>)[HP: 89.1694] hit by Infected into Torso(1) for 2.25 damage (MeleeZombieSoldier)
+21:22:14 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<2708.6, 5165.4, 199.4>)[HP: 87.6635] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+21:26:33 | ##### PlayerList log: 1 players
+21:26:33 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<3677.6, 5980.4, 402.0>)
+21:26:33 | #####
+21:31:33 | ##### PlayerList log: 1 players
+21:31:33 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<3416.8, 6413.8, 343.3>)
+21:31:33 | #####
+21:36:34 | ##### PlayerList log: 1 players
+21:36:34 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<2902.7, 7307.3, 331.5>)
+21:36:34 | #####
+21:39:52 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<3127.0, 8093.1, 303.3>)[HP: 98.637] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+21:41:33 | ##### PlayerList log: 1 players
+21:41:33 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<3601.5, 8517.8, 297.8>)
+21:41:33 | #####
+21:46:33 | ##### PlayerList log: 1 players
+21:46:33 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<3877.9, 9003.4, 311.6>)
+21:46:33 | #####
+21:51:33 | ##### PlayerList log: 1 players
+21:51:33 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<3449.0, 8511.1, 292.9>)
+21:51:33 | #####
+21:56:33 | ##### PlayerList log: 1 players
+21:56:33 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<2585.7, 9815.5, 260.4>)
+21:56:33 | #####
+22:01:33 | ##### PlayerList log: 1 players
+22:01:33 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<2348.7, 11225.6, 272.1>)
+22:01:33 | #####
+22:06:33 | ##### PlayerList log: 1 players
+22:06:33 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<2865.7, 9805.0, 273.5>)
+22:06:33 | #####
+22:06:56 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<2858.7, 9756.6, 271.7>)[HP: 98.875] hit by Infected into LeftLeg(8) for 4.5 damage (MeleeZombie)
+22:11:33 | ##### PlayerList log: 1 players
+22:11:33 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<3874.4, 8882.8, 311.0>)
+22:11:33 | #####
+22:12:25 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<3901.4, 8817.3, 312.2>)[HP: 98.3125] hit by Infected into Torso(1) for 1.6875 damage (MeleeZombieMale)
+22:12:30 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<3911.5, 8806.2, 312.3>)[HP: 96.7542] hit by Infected into Torso(1) for 1.6875 damage (MeleeZombieMale)
+22:12:32 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<3911.6, 8806.1, 312.2>)[HP: 95.0667] hit by Infected into Torso(1) for 1.6875 damage (MeleeZombieMale)
+22:16:33 | ##### PlayerList log: 1 players
+22:16:33 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<4285.3, 8862.2, 325.4>)
+22:16:33 | #####
+22:21:33 | ##### PlayerList log: 1 players
+22:21:33 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<5475.8, 8400.1, 336.3>)
+22:21:33 | #####
+22:26:33 | ##### PlayerList log: 1 players
+22:26:33 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<5192.0, 9678.5, 342.4>)
+22:26:33 | #####
+22:31:33 | ##### PlayerList log: 1 players
+22:31:33 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<4807.3, 10338.3, 339.0>)
+22:31:33 | #####
+22:36:33 | ##### PlayerList log: 1 players
+22:36:33 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<4926.7, 10244.9, 339.1>)
+22:36:33 | #####
+22:41:33 | ##### PlayerList log: 1 players
+22:41:33 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<4440.2, 9160.7, 328.8>)
+22:41:33 | #####
+22:46:33 | ##### PlayerList log: 1 players
+22:46:33 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<3763.5, 8731.2, 307.0>)
+22:46:33 | #####
+22:51:34 | ##### PlayerList log: 1 players
+22:51:34 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<3447.1, 7255.3, 331.0>)
+22:51:34 | #####
+22:56:34 | ##### PlayerList log: 1 players
+22:56:34 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<3690.3, 6000.1, 402.1>)
+22:56:34 | #####
+23:01:34 | ##### PlayerList log: 1 players
+23:01:34 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<3002, 5508.7, 227.0>)
+23:01:34 | #####
+23:02:49 | Player "NanoBits"(id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2022-09-27 at 23:03:24
+23:05:52 | Player "NanoBits" is connected (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM=)
+23:06:04 | NanoBits conectou
+23:09:43 | ##### PlayerList log: 1 players
+23:09:43 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<3725.4, 6011.2, 402.1>)
+23:09:43 | #####
+23:14:42 | ##### PlayerList log: 1 players
+23:14:43 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<4404.2, 6405.9, 301.3>)
+23:14:43 | #####
+23:19:42 | ##### PlayerList log: 1 players
+23:19:42 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<4524.7, 8284.3, 318.9>)
+23:19:42 | #####
+23:20:15 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<4515.1, 8284.3, 316.2>)[HP: 98.9181] hit by FallDamage
+23:21:46 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<4525.4, 8314.4, 317.6>)[HP: 99] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+23:21:49 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<4525.5, 8314, 317.6>)[HP: 98.055] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+23:21:50 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<4525.6, 8313.7, 317.6>)[HP: 95.86] hit by Infected into Torso(1) for 2.25 damage (MeleeZombieSoldier)
+23:21:51 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<4525.8, 8313.6, 317.6>)[HP: 93.61] hit by Infected into Torso(1) for 2.25 damage (MeleeZombieSoldier)
+23:21:53 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<4526.2, 8313.7, 317.6>)[HP: 92.6651] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+23:21:55 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<4526.3, 8313.7, 317.6>)[HP: 90.4151] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
+23:24:42 | ##### PlayerList log: 1 players
+23:24:42 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<4541.9, 8293.2, 317.2>)
+23:24:42 | #####
+23:29:42 | ##### PlayerList log: 1 players
+23:29:42 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<6106.6, 10590, 259.7>)
+23:29:42 | #####
+23:34:42 | ##### PlayerList log: 1 players
+23:34:42 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<6796.3, 11227.7, 374.4>)
+23:34:42 | #####
+23:39:42 | ##### PlayerList log: 1 players
+23:39:42 | Player "NanoBits" (id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM= pos=<6905.3, 11442.1, 405.3>)
+23:39:42 | #####
+23:39:44 | Player "NanoBits"(id=d_3PalJb2MqsNkuMyyFmVqTWJ9aTJb8Rp8UYlC2lgcM=) has been disconnected
+
+
+**********************************EOF****************************************

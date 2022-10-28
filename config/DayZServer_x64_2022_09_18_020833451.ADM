@@ -1,0 +1,567 @@
+
+
+******************************************************************************
+AdminLog started on 2022-09-17 at 02:08:13
+
+
+******************************************************************************
+AdminLog started on 2022-09-17 at 08:05:12
+10:35:20 | Player "Survivor"(id=Unknown) has been disconnected
+11:29:03 | Player "LwShutt" is connected (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)
+11:29:17 | LwShutt conectou
+11:31:26 | ##### PlayerList log: 1 players
+11:31:26 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11168.6, 13232, 224.8>)
+11:31:26 | #####
+11:36:26 | ##### PlayerList log: 1 players
+11:36:26 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<10944.1, 13406.1, 220.1>)
+11:36:26 | #####
+11:39:01 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<10964.1, 13397.3, 220.1>)[HP: 97.3] hit by Wolf into LeftFoot(28) for 18 damage (MeleeWolf)
+11:41:26 | ##### PlayerList log: 1 players
+11:41:26 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<10969, 13398.5, 220.1>)
+11:41:26 | #####
+11:46:26 | ##### PlayerList log: 1 players
+11:46:26 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<10919.2, 13374.7, 220.1>)
+11:46:26 | #####
+11:51:26 | ##### PlayerList log: 1 players
+11:51:26 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<10963.3, 13399.8, 220.1>)
+11:51:26 | #####
+11:56:26 | ##### PlayerList log: 1 players
+11:56:26 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<10981, 13392.9, 220.3>)
+11:56:26 | #####
+12:01:26 | ##### PlayerList log: 1 players
+12:01:26 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11055.1, 13330.1, 226.0>)
+12:01:26 | #####
+12:06:26 | ##### PlayerList log: 1 players
+12:06:26 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11420.8, 13093.1, 195.6>)
+12:06:26 | #####
+12:09:46 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12138.4, 13511.4, 97.7>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+12:09:51 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12139.2, 13510.8, 97.8>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+12:11:26 | ##### PlayerList log: 1 players
+12:11:26 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12168.3, 13437.7, 103.3>)
+12:11:26 | #####
+12:16:26 | ##### PlayerList log: 1 players
+12:16:26 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12148.6, 13570.9, 97.9>)
+12:16:26 | #####
+12:21:26 | ##### PlayerList log: 1 players
+12:21:26 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12093.1, 13616.2, 97.9>)
+12:21:26 | #####
+12:25:53 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12057.8, 13686.5, 96.4>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+12:26:26 | ##### PlayerList log: 1 players
+12:26:26 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12076.6, 13714.1, 94.8>)
+12:26:26 | #####
+12:26:47 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12041.1, 13734.5, 94.2>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+12:26:52 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12043.6, 13732.7, 94.2>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+12:26:55 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12041.4, 13731, 94.5>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+12:31:26 | ##### PlayerList log: 1 players
+12:31:26 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12118.2, 13718.6, 96.2>)
+12:31:26 | #####
+12:33:58 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12214, 13704.3, 94.3>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+12:34:03 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12216.1, 13706.4, 94.2>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+12:34:07 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12215.8, 13707, 94.3>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+12:34:09 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12211.7, 13707.4, 95.2>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+12:34:14 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12212.4, 13707.4, 95.1>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+12:36:26 | ##### PlayerList log: 1 players
+12:36:26 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12097.6, 13828.2, 94.1>)
+12:36:26 | #####
+12:39:07 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12147.1, 13793.2, 94.5>)[HP: 97.875] hit by Infected into Torso(1) for 2.125 damage (MeleeZombieFirefighter)
+12:39:08 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12148.1, 13791.7, 94.5>)[HP: 97.875] hit by Infected into Block(-1) for 0 damage 
+12:39:13 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12146.8, 13807.1, 94.3>)[HP: 96.4621] hit by Infected into Torso(1) for 1.59375 damage (MeleeZombieFemale)
+12:39:14 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12146.6, 13808.2, 94.3>)[HP: 94.3371] hit by Infected into Torso(1) for 2.125 damage (MeleeZombieFirefighter)
+12:39:14 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12147, 13808.7, 94.3>)[HP: 92.6496] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieFemale)
+12:41:26 | ##### PlayerList log: 1 players
+12:41:26 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12245, 13782.2, 93.6>)
+12:41:26 | #####
+12:46:26 | ##### PlayerList log: 1 players
+12:46:26 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12116.9, 13898.9, 92.4>)
+12:46:26 | #####
+12:51:26 | ##### PlayerList log: 1 players
+12:51:26 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11800.5, 13888.8, 84.4>)
+12:51:26 | #####
+12:53:36 | Player "LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) has been disconnected
+13:22:32 | Player "LwShutt" is connected (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)
+13:22:46 | LwShutt conectou
+13:26:25 | ##### PlayerList log: 1 players
+13:26:25 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11501.2, 13247.9, 182.1>)
+13:26:25 | #####
+13:29:20 | Player "LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2022-09-17 at 14:07:20
+15:58:47 | Player "brasil deer" is connected (id=iwh9nfxIuRD6GZf5CG4AjV3ujWJEMsSJ-4M_C5ZHy-o=)
+15:59:10 | brasil deer conectou
+16:03:34 | ##### PlayerList log: 1 players
+16:03:34 | Player "brasil deer" (id=iwh9nfxIuRD6GZf5CG4AjV3ujWJEMsSJ-4M_C5ZHy-o= pos=<5949.4, 10296.3, 267.7>)
+16:03:34 | #####
+16:05:07 | Player "brasil deer"(id=iwh9nfxIuRD6GZf5CG4AjV3ujWJEMsSJ-4M_C5ZHy-o=) has been disconnected
+16:26:33 | Player "LwShutt" is connected (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)
+16:26:47 | LwShutt conectou
+16:28:36 | ##### PlayerList log: 1 players
+16:28:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11417.9, 13089.2, 197.0>)
+16:28:36 | #####
+16:33:36 | ##### PlayerList log: 1 players
+16:33:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11942, 13853.9, 91.6>)
+16:33:36 | #####
+16:38:36 | ##### PlayerList log: 1 players
+16:38:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11805.1, 13918.4, 84.4>)
+16:38:36 | #####
+16:43:36 | ##### PlayerList log: 1 players
+16:43:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12164.5, 13411.1, 104.1>)
+16:43:36 | #####
+16:48:36 | ##### PlayerList log: 1 players
+16:48:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12462.2, 12526.7, 140.5>)
+16:48:36 | #####
+16:53:36 | ##### PlayerList log: 1 players
+16:53:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13592.4, 11314.6, 7.8>)
+16:53:36 | #####
+16:58:36 | ##### PlayerList log: 1 players
+16:58:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13134.4, 10476.6, 6.0>)
+16:58:36 | #####
+17:03:36 | ##### PlayerList log: 1 players
+17:03:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13155.4, 10353.3, 7.1>)
+17:03:36 | #####
+17:08:36 | ##### PlayerList log: 1 players
+17:08:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12991.6, 10105.4, 6.0>)
+17:08:36 | #####
+17:13:36 | ##### PlayerList log: 1 players
+17:13:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13013, 9992.2, 6.1>)
+17:13:36 | #####
+17:18:36 | ##### PlayerList log: 1 players
+17:18:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12906.7, 10112.4, 6.1>)
+17:18:36 | #####
+17:23:36 | ##### PlayerList log: 1 players
+17:23:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12997.6, 10279.3, 6.9>)
+17:23:36 | #####
+17:28:36 | ##### PlayerList log: 1 players
+17:28:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12797.5, 10027.2, 5.8>)
+17:28:36 | #####
+17:33:36 | ##### PlayerList log: 1 players
+17:33:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12947, 10067.6, 6.0>)
+17:33:36 | #####
+17:38:36 | ##### PlayerList log: 1 players
+17:38:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12657, 9717.3, 6.0>)
+17:38:36 | #####
+17:39:29 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12629.6, 9768.3, 5.9>)[HP: 99.5] hit by Infected into LeftArm(18) for 5 damage (MeleeZombie)
+17:42:19 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12772.4, 9662.4, 6.0>)[HP: 98.3125] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombieMale)
+17:43:36 | ##### PlayerList log: 1 players
+17:43:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12763.6, 9646.6, 6.0>)
+17:43:36 | #####
+17:48:36 | ##### PlayerList log: 1 players
+17:48:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12640.6, 9740.3, 7.1>)
+17:48:36 | #####
+17:53:36 | ##### PlayerList log: 1 players
+17:53:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12830.6, 9712.5, 6.2>)
+17:53:36 | #####
+17:57:30 | Player "yt4lx" is connected (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=)
+17:58:36 | ##### PlayerList log: 1 players
+17:58:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12669.1, 9477.2, 6.0>)
+17:58:36 | #####
+17:58:43 | yt4lx conectou
+18:00:13 | Chat("yt4lx"(id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=)): ᐅ SLV
+18:00:23 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<5074.6, 12767.1, 165.3>)[HP: 98.3125] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombieMale)
+18:00:38 | Chat("yt4lx"(id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=)): ᐅ dboa?
+18:01:07 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<5026.3, 12775.1, 166.1>)[HP: 98.7415] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+18:03:36 | ##### PlayerList log: 2 players
+18:03:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12459.3, 9526.4, 8.1>)
+18:03:36 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<4938.7, 12939, 169.3>)
+18:03:36 | #####
+18:08:36 | ##### PlayerList log: 2 players
+18:08:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12301.4, 9614.7, 11.4>)
+18:08:36 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<4924.0, 13018.3, 172.0>)
+18:08:36 | #####
+18:08:36 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<4924.0, 13018.3, 172.0>)[HP: 99.5] hit by Infected into LeftArm(18) for 5 damage (MeleeZombie)
+18:13:36 | ##### PlayerList log: 2 players
+18:13:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12170.5, 9560.8, 16.4>)
+18:13:36 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<4365.5, 13059, 176.1>)
+18:13:36 | #####
+18:14:01 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<4267.0, 13088.1, 179.7>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+18:14:04 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<4265.0, 13087.8, 179.7>)[HP: 99.25] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieMale)
+18:14:06 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<4266.7, 13087.5, 179.7>)[HP: 97.6455] hit by Infected into Torso(1) for 1.6875 damage (MeleeZombieMale)
+18:15:50 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<4133.9, 13139.3, 182.9>)[HP: 98.3125] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombieFemale)
+18:16:43 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<4116.2, 13107.8, 181.8>)[HP: 98.1345] hit by Infected into Torso(1) for 1.6875 damage (MeleeZombieFemale)
+18:18:36 | ##### PlayerList log: 2 players
+18:18:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12994.9, 10005, 5.9>)
+18:18:36 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<3952.8, 13004.5, 187.0>)
+18:18:36 | #####
+18:20:20 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12881.4, 10215.4, 5.9>)[HP: 99.5] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+18:20:28 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12877.3, 10216.6, 5.9>)[HP: 98.6184] hit by Infected into Torso(1) for 1.0625 damage (MeleeZombie)
+18:20:29 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12877.3, 10216.6, 5.9>)[HP: 97.6463] hit by Infected into Torso(1) for 1.0625 damage (MeleeZombie)
+18:23:36 | ##### PlayerList log: 2 players
+18:23:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13113.1, 10393.6, 7.1>)
+18:23:36 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<3644.8, 13018.7, 190.8>)
+18:23:36 | #####
+18:28:36 | ##### PlayerList log: 2 players
+18:28:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13615.6, 11797.9, 27.6>)
+18:28:36 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<3387.3, 13167.5, 198.8>)
+18:28:36 | #####
+18:33:36 | ##### PlayerList log: 2 players
+18:33:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13642.8, 13759.6, 5.6>)
+18:33:36 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<3312.8, 12985.8, 199.3>)
+18:33:36 | #####
+18:38:14 | Player "yt4lx"(id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=) has been disconnected
+18:38:36 | ##### PlayerList log: 1 players
+18:38:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13598.5, 14084.2, 14.7>)
+18:38:36 | #####
+18:43:36 | ##### PlayerList log: 1 players
+18:43:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13696.8, 14995.8, 106.5>)
+18:43:36 | #####
+18:48:36 | ##### PlayerList log: 1 players
+18:48:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14583.6, 14972.1, 130.3>)
+18:48:36 | #####
+18:53:36 | ##### PlayerList log: 1 players
+18:53:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14584, 14969.7, 130.3>)
+18:53:36 | #####
+18:58:36 | ##### PlayerList log: 1 players
+18:58:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14586.2, 14970.5, 130.3>)
+18:58:36 | #####
+19:03:36 | ##### PlayerList log: 1 players
+19:03:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14592.7, 14968.7, 130.3>)
+19:03:36 | #####
+19:08:36 | ##### PlayerList log: 1 players
+19:08:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14581.9, 14968.6, 130.3>)
+19:08:36 | #####
+19:13:36 | ##### PlayerList log: 1 players
+19:13:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14585.8, 14969.1, 130.3>)
+19:13:36 | #####
+19:18:36 | ##### PlayerList log: 1 players
+19:18:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14582.1, 14968.9, 130.3>)
+19:18:36 | #####
+19:23:36 | ##### PlayerList log: 1 players
+19:23:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14582.9, 14969.3, 130.3>)
+19:23:36 | #####
+19:28:36 | ##### PlayerList log: 1 players
+19:28:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14583.6, 14968.5, 130.3>)
+19:28:36 | #####
+19:33:36 | ##### PlayerList log: 1 players
+19:33:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14588.3, 14972, 130.3>)
+19:33:36 | #####
+19:38:36 | ##### PlayerList log: 1 players
+19:38:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14582.7, 14971.3, 130.3>)
+19:38:36 | #####
+19:43:36 | ##### PlayerList log: 1 players
+19:43:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14598.8, 14970.3, 130.3>)
+19:43:36 | #####
+19:48:36 | ##### PlayerList log: 1 players
+19:48:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14586.9, 14963.5, 127.4>)
+19:48:36 | #####
+19:51:19 | Player "yt4lx" is connected (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=)
+19:52:25 | yt4lx conectou
+19:53:36 | ##### PlayerList log: 2 players
+19:53:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14583.1, 14964.3, 127.9>)
+19:53:36 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<3174.5, 12753, 204.4>)
+19:53:36 | #####
+19:58:36 | ##### PlayerList log: 2 players
+19:58:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14595.2, 14965.1, 130.3>)
+19:58:36 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<2480.9, 11926.3, 242.4>)
+19:58:36 | #####
+20:03:36 | ##### PlayerList log: 2 players
+20:03:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14588, 14962.8, 130.3>)
+20:03:36 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<4691.6, 13951.2, 219.2>)
+20:03:36 | #####
+20:08:36 | ##### PlayerList log: 2 players
+20:08:36 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14567.3, 15014.9, 136.6>)
+20:08:36 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<4558.2, 14972.9, 472.0>)
+20:08:36 | #####
+20:09:58 | Player "LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) has been disconnected
+20:09:58 | Player "yt4lx"(id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2022-09-17 at 20:10:34
+20:11:51 | Player "yt4lx" is connected (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=)
+20:12:13 | yt4lx conectou
+20:14:16 | Player "LwShutt" is connected (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)
+20:14:30 | LwShutt conectou
+20:15:45 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<5053.1, 15126, 475.6>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+20:15:50 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<5053.2, 15125.3, 475.6>)[HP: 98.3125] hit by Infected into Torso(1) for 1.6875 damage (MeleeZombieFemale)
+20:16:11 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<5011.8, 15140.3, 474.8>)[HP: 98.9451] hit by Infected into Block(-1) for 0 damage 
+20:16:12 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<5010.5, 15141.8, 474.7>)[HP: 98.9451] hit by Infected into Block(-1) for 0 damage 
+20:16:48 | ##### PlayerList log: 2 players
+20:16:48 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<4986.0, 15177.5, 474.4>)
+20:16:48 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14593.6, 14974.4, 130.3>)
+20:16:48 | #####
+20:21:48 | ##### PlayerList log: 2 players
+20:21:48 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<5748.8, 15184.5, 475.7>)
+20:21:48 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14589.3, 14962.2, 130.3>)
+20:21:48 | #####
+20:22:03 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<5764.8, 15178.6, 474.6>)[HP: 98.9888] hit by Infected into Block(-1) for 0 damage 
+20:22:06 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<5761.6, 15179, 474.6>)[HP: 97.1489] hit by Infected into Torso(1) for 1.6875 damage (MeleeZombieFemale)
+20:22:08 | Player "yt4lx" (id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA= pos=<5761.4, 15179.8, 474.6>)[HP: 95.4499] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieFemale)
+20:25:43 | Player "yt4lx"(id=dhMrr4xtYdiAKrvnl1DhLFP6a-fUklUL8NhT9gXDhNA=) has been disconnected
+20:26:48 | ##### PlayerList log: 1 players
+20:26:48 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14585.9, 14976.4, 130.3>)
+20:26:48 | #####
+20:31:48 | ##### PlayerList log: 1 players
+20:31:48 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14593.4, 14960.7, 130.3>)
+20:31:48 | #####
+20:36:48 | ##### PlayerList log: 1 players
+20:36:48 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14591, 14966.2, 130.3>)
+20:36:48 | #####
+20:41:48 | ##### PlayerList log: 1 players
+20:41:48 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14587, 14972.2, 130.3>)
+20:41:48 | #####
+20:46:48 | ##### PlayerList log: 1 players
+20:46:48 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14586.4, 14973.9, 130.3>)
+20:46:48 | #####
+20:50:15 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14587, 14979.7, 130.3>)[HP: 75.4418] hit by FallDamage
+20:50:25 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14586, 14975.3, 130.3>)[HP: 71.4736] hit by FallDamage
+20:51:48 | ##### PlayerList log: 1 players
+20:51:48 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14585.9, 14976.7, 131.8>)
+20:51:48 | #####
+20:56:48 | ##### PlayerList log: 1 players
+20:56:48 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14583.1, 14969, 130.3>)
+20:56:48 | #####
+21:01:48 | ##### PlayerList log: 1 players
+21:01:48 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14588.8, 14969.3, 130.3>)
+21:01:48 | #####
+21:03:08 | [BBP] 'LwShutt' (76561199378753491) DISMANTLED [T1] Large Wall using Hatchet LOCATION:<14594.091797, 130.627136, 14960.027344>
+21:03:14 | [BBP] 'LwShutt' (76561199378753491) DISMANTLED [Frame] Large Wall using Hatchet LOCATION:<14594.091797, 130.624985, 14960.025391>
+21:03:53 | [BBP] 'LwShutt' (76561199378753491) DISMANTLED [T1] Roof Hatch using Hatchet LOCATION:<14595.056641, 130.364441, 14963.579102>
+21:04:09 | [BBP] 'LwShutt' (76561199378753491) DISMANTLED [Frame] Roof Hatch using Hatchet LOCATION:<14593.605469, 130.364456, 14962.012695>
+21:05:52 | [BBP] 'LwShutt' (76561199378753491) DISMANTLED [T1] Large Wall using Hatchet LOCATION:<14587.216797, 130.364655, 14963.560547>
+21:06:12 | [BBP] 'LwShutt' (76561199378753491) DISMANTLED [Frame] Large Wall using Hatchet LOCATION:<14587.627930, 130.364655, 14963.478516>
+21:06:31 | [BBP] 'LwShutt' (76561199378753491) DISMANTLED [T1] Large Wall using Hatchet LOCATION:<14589.110352, 130.364471, 14961.176758>
+21:06:36 | [BBP] 'LwShutt' (76561199378753491) DISMANTLED [Frame] Large Wall using Hatchet LOCATION:<14589.111328, 130.364487, 14961.177734>
+21:06:48 | ##### PlayerList log: 1 players
+21:06:48 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14589.2, 14961.6, 130.3>)
+21:06:48 | #####
+21:08:06 | [BBP] 'LwShutt' (76561199378753491) DISMANTLED [T1] Large Wall using Hatchet LOCATION:<14596.578125, 130.364456, 14961.730469>
+21:08:11 | [BBP] 'LwShutt' (76561199378753491) DISMANTLED [Frame] Large Wall using Hatchet LOCATION:<14596.576172, 130.364456, 14961.729492>
+21:09:10 | [BBP] 'LwShutt' (76561199378753491) DISMANTLED [T1] Foundation using Hatchet LOCATION:<14590.951172, 130.364655, 14962.735352>
+21:09:25 | [BBP] 'LwShutt' (76561199378753491) DISMANTLED [Frame] Foundation using Hatchet LOCATION:<14592.259766, 130.364456, 14962.536133>
+21:09:44 | [BBP] 'LwShutt' (76561199378753491) DISMANTLED [T1] Foundation using Hatchet LOCATION:<14594.938477, 130.364456, 14963.379883>
+21:09:59 | [BBP] 'LwShutt' (76561199378753491) DISMANTLED [Frame] Foundation using Hatchet LOCATION:<14597.678711, 130.364380, 14964.639648>
+21:11:49 | ##### PlayerList log: 1 players
+21:11:49 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14586, 14955.1, 126.4>)
+21:11:49 | #####
+21:15:23 | Player "Ricardo Tomaz" is connected (id=g0PlHfJlpq2DSX_ATGd72eLjhDn8DHxpVk1qv1U7obE=)
+21:15:38 | Ricardo Tomaz conectou
+21:15:38 | Ricardo Tomaz registro criado!
+21:16:48 | ##### PlayerList log: 2 players
+21:16:48 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14589.6, 14947.8, 125.5>)
+21:16:48 | Player "Ricardo Tomaz" (id=g0PlHfJlpq2DSX_ATGd72eLjhDn8DHxpVk1qv1U7obE= pos=<13206.4, 7135.9, 6.4>)
+21:16:48 | #####
+21:16:53 | Player "Ricardo Tomaz" (id=g0PlHfJlpq2DSX_ATGd72eLjhDn8DHxpVk1qv1U7obE= pos=<13190.3, 7135.2, 7.2>)[HP: 99.5] hit by Infected into LeftArm(18) for 5 damage (MeleeZombie)
+21:16:54 | Player "Ricardo Tomaz" (id=g0PlHfJlpq2DSX_ATGd72eLjhDn8DHxpVk1qv1U7obE= pos=<13190.6, 7135.6, 7.1>)[HP: 99.09] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+21:17:58 | Player "Ricardo Tomaz"(id=g0PlHfJlpq2DSX_ATGd72eLjhDn8DHxpVk1qv1U7obE=) has been disconnected
+21:21:48 | ##### PlayerList log: 1 players
+21:21:48 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14577.5, 14966.7, 128.9>)
+21:21:48 | #####
+21:26:06 | [BBP] 'LwShutt' (76561199378753491) DISMANTLED [T1] Large Door using Hatchet LOCATION:<14585.382813, 130.364456, 14977.656250>
+21:26:15 | [BBP] 'LwShutt' (76561199378753491) DISMANTLED [T1] Large Door using Hatchet LOCATION:<14584.950195, 130.364426, 14978.131836>
+21:26:21 | [BBP] 'LwShutt' (76561199378753491) DISMANTLED [Frame] Large Door using Hatchet LOCATION:<14584.966797, 130.364426, 14978.067383>
+21:26:48 | ##### PlayerList log: 1 players
+21:26:48 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14587.1, 14952.1, 130.2>)
+21:26:48 | #####
+21:28:17 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14595.8, 14961.6, 126.5>)[HP: 89.7801] hit by FallDamage
+21:31:48 | ##### PlayerList log: 1 players
+21:31:48 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14583.9, 14969.2, 130.3>)
+21:31:48 | #####
+21:36:50 | ##### PlayerList log: 1 players
+21:36:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14568.2, 15034, 140.3>)
+21:36:50 | #####
+21:41:50 | ##### PlayerList log: 1 players
+21:41:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14580.4, 14964.8, 128.3>)
+21:41:50 | #####
+21:46:50 | ##### PlayerList log: 1 players
+21:46:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14423, 14869, 132.5>)
+21:46:50 | #####
+21:48:37 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14067.6, 15044.8, 139.0>)[HP: 98.875] hit by Infected into RightLeg(3) for 4.5 damage (MeleeZombie)
+21:48:41 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14066.5, 15044.4, 139.0>)[HP: 97.9025] hit by Infected into Torso(1) for 1.0625 damage (MeleeZombie)
+21:48:45 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14071.6, 15041.6, 138.8>)[HP: 98.0829] hit by Infected into Block(-1) for 0 damage 
+21:48:45 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14072.3, 15042.6, 138.9>)[HP: 98.0829] hit by Infected into Block(-1) for 0 damage 
+21:48:47 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14072.9, 15043.9, 138.8>)[HP: 96.9579] hit by Infected into RightLeg(3) for 4.5 damage (MeleeZombie)
+21:48:51 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14079.4, 15044.4, 138.8>)[HP: 97.0481] hit by Infected into Block(-1) for 0 damage 
+21:48:55 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14078.5, 15044.2, 138.7>)[HP: 97.2285] hit by Infected into Block(-1) for 0 damage 
+21:49:26 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14023.9, 15060.3, 139.4>)[HP: 98.132] hit by Infected into Block(-1) for 0 damage 
+21:49:27 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14024.3, 15060.5, 139.4>)[HP: 98.222] hit by Infected into Block(-1) for 0 damage 
+21:49:28 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14024.9, 15060.5, 139.4>)[HP: 98.222] hit by Infected into Block(-1) for 0 damage 
+21:51:50 | ##### PlayerList log: 1 players
+21:51:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13677.4, 14983.6, 102.3>)
+21:51:50 | #####
+21:56:50 | ##### PlayerList log: 1 players
+21:56:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12794.1, 15117.1, 60.4>)
+21:56:50 | #####
+21:58:03 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12869.6, 15129.3, 63.0>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+22:01:49 | ##### PlayerList log: 1 players
+22:01:49 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12945.8, 15096.8, 64.0>)
+22:01:49 | #####
+22:06:49 | ##### PlayerList log: 1 players
+22:06:49 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12945.8, 15096.8, 64.0>)
+22:06:49 | #####
+22:11:49 | ##### PlayerList log: 1 players
+22:11:49 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13050.6, 15062.3, 63.1>)
+22:11:49 | #####
+22:16:49 | ##### PlayerList log: 1 players
+22:16:49 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13123.5, 14362.7, 54.8>)
+22:16:49 | #####
+22:20:44 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13056.9, 14503.1, 90.9>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+22:21:49 | ##### PlayerList log: 1 players
+22:21:49 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12824, 14542.4, 81.5>)
+22:21:49 | #####
+22:24:46 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12687.7, 14668.8, 98.1>)[HP: 99.5] hit by Infected into LeftArm(18) for 5 damage (MeleeZombie)
+22:26:49 | ##### PlayerList log: 1 players
+22:26:49 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12480.7, 14843.6, 118.4>)
+22:26:49 | #####
+22:31:49 | ##### PlayerList log: 1 players
+22:31:49 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12766.9, 14568.9, 87.5>)
+22:31:49 | #####
+22:36:49 | ##### PlayerList log: 1 players
+22:36:49 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13534.4, 14190.9, 20.0>)
+22:36:49 | #####
+22:41:49 | ##### PlayerList log: 1 players
+22:41:49 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13596.2, 14083.5, 14.8>)
+22:41:49 | #####
+22:46:50 | ##### PlayerList log: 1 players
+22:46:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14043.3, 15090.4, 140.4>)
+22:46:50 | #####
+22:51:50 | ##### PlayerList log: 1 players
+22:51:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14012.8, 15079.5, 140.5>)
+22:51:50 | #####
+22:56:50 | ##### PlayerList log: 1 players
+22:56:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14013.1, 15079.3, 140.5>)
+22:56:50 | #####
+23:00:21 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14032.6, 15056, 139.4>)[HP: 39.9541] hit by Infected into RightLeg(3) for 4.5 damage (MeleeZombie)
+23:01:50 | ##### PlayerList log: 1 players
+23:01:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14076.1, 15032.5, 138.5>)
+23:01:50 | #####
+23:06:50 | ##### PlayerList log: 1 players
+23:06:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14581.4, 14977, 130.4>)
+23:06:50 | #####
+23:11:50 | ##### PlayerList log: 1 players
+23:11:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14584.2, 14969, 130.3>)
+23:11:50 | #####
+23:16:50 | ##### PlayerList log: 1 players
+23:16:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14616, 14970.9, 124.8>)
+23:16:50 | #####
+23:21:50 | ##### PlayerList log: 1 players
+23:21:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14577, 14974.4, 130.3>)
+23:21:50 | #####
+23:26:50 | ##### PlayerList log: 1 players
+23:26:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14587.6, 14950.1, 130.2>)
+23:26:50 | #####
+23:31:50 | ##### PlayerList log: 1 players
+23:31:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14586.4, 14947.3, 130.2>)
+23:31:50 | #####
+23:36:50 | ##### PlayerList log: 1 players
+23:36:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14616.7, 14996.9, 128.1>)
+23:36:50 | #####
+23:41:50 | ##### PlayerList log: 1 players
+23:41:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14654.2, 14946.4, 121.9>)
+23:41:50 | #####
+23:46:50 | ##### PlayerList log: 1 players
+23:46:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14589, 14952, 130.2>)
+23:46:50 | #####
+23:51:50 | ##### PlayerList log: 1 players
+23:51:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14582.6, 14969, 130.3>)
+23:51:50 | #####
+23:56:50 | ##### PlayerList log: 1 players
+23:56:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14585.9, 14959.7, 127.1>)
+23:56:50 | #####
+00:01:50 | ##### PlayerList log: 1 players
+00:01:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14587.1, 14960, 127.8>)
+00:01:50 | #####
+00:05:51 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14579.5, 14967.1, 128.8>)[HP: 99.89] hit by BBP_BWindow with BarbedWireHit
+00:05:51 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14579.5, 14967.1, 128.8>)[HP: 99.64] hit by BBP_BWindow with BarbedWireHit
+00:06:50 | ##### PlayerList log: 1 players
+00:06:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14587.8, 14953, 130.2>)
+00:06:50 | #####
+00:11:50 | ##### PlayerList log: 1 players
+00:11:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14577.1, 14968.8, 129.3>)
+00:11:50 | #####
+00:16:50 | ##### PlayerList log: 1 players
+00:16:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14586, 14969, 130.3>)
+00:16:50 | #####
+00:21:50 | ##### PlayerList log: 1 players
+00:21:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14585.7, 14947.4, 130.2>)
+00:21:50 | #####
+00:26:50 | ##### PlayerList log: 1 players
+00:26:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14574.6, 14976.9, 132.2>)
+00:26:50 | #####
+00:29:02 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14589.4, 14979.2, 129.9>)[HP: 99.9308] hit by FallDamage
+00:31:50 | ##### PlayerList log: 1 players
+00:31:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14589.9, 14953.5, 130.2>)
+00:31:50 | #####
+00:36:50 | ##### PlayerList log: 1 players
+00:36:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14591.7, 14969.5, 130.3>)
+00:36:50 | #####
+00:38:15 | Player "AngelParadise" is connected (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w=)
+00:38:32 | AngelParadise conectou
+00:41:50 | ##### PlayerList log: 2 players
+00:41:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14588.8, 14953.3, 130.2>)
+00:41:50 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11230.5, 13181.6, 214.9>)
+00:41:50 | #####
+00:46:50 | ##### PlayerList log: 2 players
+00:46:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14586.9, 14950.3, 130.2>)
+00:46:50 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<10958.3, 13398.5, 220.7>)
+00:46:50 | #####
+00:51:50 | ##### PlayerList log: 2 players
+00:51:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14586.4, 14973.8, 130.3>)
+00:51:50 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<10918.5, 13376.7, 220.1>)
+00:51:50 | #####
+00:56:50 | ##### PlayerList log: 2 players
+00:56:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14585.7, 14950.9, 130.2>)
+00:56:50 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11594.3, 14115.4, 58.2>)
+00:56:50 | #####
+01:01:50 | ##### PlayerList log: 2 players
+01:01:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14589.2, 14953.1, 130.2>)
+01:01:50 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<12362.1, 14372.6, 23.5>)
+01:01:50 | #####
+01:06:50 | ##### PlayerList log: 2 players
+01:06:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14589, 14954.1, 130.2>)
+01:06:50 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<12329.2, 14276.4, 21.9>)
+01:06:50 | #####
+01:11:50 | ##### PlayerList log: 2 players
+01:11:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13493.1, 13853.3, 6.7>)
+01:11:50 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<12369.2, 14362.3, 22.3>)
+01:11:50 | #####
+01:16:50 | ##### PlayerList log: 2 players
+01:16:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12302.3, 14331.6, 23.5>)
+01:16:50 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<12303, 14331.3, 23.4>)
+01:16:50 | #####
+01:21:50 | ##### PlayerList log: 2 players
+01:21:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13561.1, 14147.2, 16.6>)
+01:21:50 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<13574.3, 14052.4, 15.4>)
+01:21:50 | #####
+01:26:50 | ##### PlayerList log: 2 players
+01:26:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14576.2, 14979, 131.2>)
+01:26:50 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<14543.4, 14983.8, 134.2>)
+01:26:50 | #####
+01:31:50 | ##### PlayerList log: 2 players
+01:31:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14583.4, 14977.4, 130.3>)
+01:31:50 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<14547, 14984.1, 134.0>)
+01:31:50 | #####
+01:36:50 | ##### PlayerList log: 2 players
+01:36:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13521, 14187.6, 21.2>)
+01:36:50 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<13523.2, 14187.1, 21.0>)
+01:36:50 | #####
+01:41:50 | ##### PlayerList log: 2 players
+01:41:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12350.6, 14202.5, 22.0>)
+01:41:50 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<12344.2, 14200, 22.0>)
+01:41:50 | #####
+01:46:50 | ##### PlayerList log: 2 players
+01:46:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12506.1, 14167.5, 19.5>)
+01:46:50 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<12357.5, 14242.2, 21.8>)
+01:46:50 | #####
+01:51:50 | ##### PlayerList log: 2 players
+01:51:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12367, 14356.7, 22.5>)
+01:51:50 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<12360.1, 14249.6, 21.8>)
+01:51:50 | #####
+01:56:50 | ##### PlayerList log: 2 players
+01:56:50 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13596.8, 13756.3, 5.8>)
+01:56:50 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<13631.4, 13756.6, 5.7>)
+01:56:50 | #####
+02:01:49 | ##### PlayerList log: 2 players
+02:01:49 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13636, 14074.7, 18.3>)
+02:01:49 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<13510.8, 14039.2, 17.0>)
+02:01:49 | #####
+02:02:03 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13641.2, 14076.9, 15.0>)[HP: 99.0014] hit by FallDamage
+02:06:49 | ##### PlayerList log: 2 players
+02:06:49 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13528.6, 14195.5, 20.3>)
+02:06:49 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<13573, 14057.7, 15.6>)
+02:06:49 | #####
+02:07:56 | Player "AngelParadise"(id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w=) has been disconnected
+02:07:56 | Player "LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) has been disconnected
+
+
+**********************************EOF****************************************

@@ -1,0 +1,10 @@
+Authority:  southamericanplague
+Creation:   29/08/2022 18:22:27 (by REMAKE-PC\User)
+
+== PRIVATE KEY ==
+File: C:\Users\User\Desktop\DayZServer\keys\southamericanplague.biprivatekey
+MD5: 7ad9f4512b7f51fa1779f63ba08ccd99
+== PUBLIC KEY ==
+File: C:\Users\User\Desktop\DayZServer\keys\southamericanplague.bikey
+MD5: 22f038e3fef42bb838c2277728d9e045
+

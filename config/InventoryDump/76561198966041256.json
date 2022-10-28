@@ -1,0 +1,220 @@
+{
+    "inventory": [
+        {
+            "name": "roupa1",
+            "datetime": "2022-8M-30 16:5m:43",
+            "data": {
+                "item": "SurvivorM_Niki",
+                "pos": [
+                    3694.959228515625,
+                    402.012451171875,
+                    5983.08203125
+                ],
+                "slot": -1,
+                "quantity": 0,
+                "health": 0.0,
+                "energy": 0.0,
+                "magAmmoCount": 0,
+                "locType": 1,
+                "locIdx": -1,
+                "locRow": -1,
+                "locCol": -1,
+                "locFlip": 0,
+                "childrens": [
+                    {
+                        "item": "TShirt_Black",
+                        "pos": [
+                            3694.959228515625,
+                            402.012451171875,
+                            5983.08203125
+                        ],
+                        "slot": 5119774,
+                        "quantity": 0,
+                        "health": 33.9993896484375,
+                        "energy": 0.0,
+                        "magAmmoCount": 0,
+                        "locType": 2,
+                        "locIdx": -1,
+                        "locRow": -1,
+                        "locCol": -1,
+                        "locFlip": 0,
+                        "childrens": [
+                            {
+                                "item": "BandageDressing",
+                                "pos": [
+                                    3694.959228515625,
+                                    402.012451171875,
+                                    5983.08203125
+                                ],
+                                "slot": -1,
+                                "quantity": 4,
+                                "health": 50.0,
+                                "energy": 0.0,
+                                "magAmmoCount": 0,
+                                "locType": 3,
+                                "locIdx": 0,
+                                "locRow": 0,
+                                "locCol": 0,
+                                "locFlip": 0,
+                                "childrens": []
+                            },
+                            {
+                                "item": "StoneKnife",
+                                "pos": [
+                                    3694.959228515625,
+                                    402.012451171875,
+                                    5983.08203125
+                                ],
+                                "slot": -1,
+                                "quantity": 0,
+                                "health": 40.999542236328128,
+                                "energy": 0.0,
+                                "magAmmoCount": 0,
+                                "locType": 3,
+                                "locIdx": 0,
+                                "locRow": 0,
+                                "locCol": 1,
+                                "locFlip": 0,
+                                "childrens": []
+                            },
+                            {
+                                "item": "Chemlight_White",
+                                "pos": [
+                                    3694.959228515625,
+                                    402.012451171875,
+                                    5983.08203125
+                                ],
+                                "slot": -1,
+                                "quantity": 100,
+                                "health": 16.0,
+                                "energy": 10800.0,
+                                "magAmmoCount": 0,
+                                "locType": 3,
+                                "locIdx": 0,
+                                "locRow": 0,
+                                "locCol": 2,
+                                "locFlip": 0,
+                                "childrens": []
+                            },
+                            {
+                                "item": "Plum",
+                                "pos": [
+                                    3694.959228515625,
+                                    402.012451171875,
+                                    5983.08203125
+                                ],
+                                "slot": -1,
+                                "quantity": 75,
+                                "health": 10.0,
+                                "energy": 0.0,
+                                "magAmmoCount": 0,
+                                "locType": 3,
+                                "locIdx": 0,
+                                "locRow": 0,
+                                "locCol": 3,
+                                "locFlip": 0,
+                                "childrens": []
+                            }
+                        ]
+                    },
+                    {
+                        "item": "CanvasPantsMidi_Beige",
+                        "pos": [
+                            3694.959228515625,
+                            402.012451171875,
+                            5983.08203125
+                        ],
+                        "slot": 5612719,
+                        "quantity": 0,
+                        "health": 42.79926681518555,
+                        "energy": 0.0,
+                        "magAmmoCount": 0,
+                        "locType": 2,
+                        "locIdx": -1,
+                        "locRow": -1,
+                        "locCol": -1,
+                        "locFlip": 0,
+                        "childrens": []
+                    },
+                    {
+                        "item": "AthleticShoes_Black",
+                        "pos": [
+                            3694.959228515625,
+                            402.012451171875,
+                            5983.08203125
+                        ],
+                        "slot": 5308728,
+                        "quantity": 0,
+                        "health": 87.96350860595703,
+                        "energy": 0.0,
+                        "magAmmoCount": 0,
+                        "locType": 2,
+                        "locIdx": -1,
+                        "locRow": -1,
+                        "locCol": -1,
+                        "locFlip": 0,
+                        "childrens": []
+                    },
+                    {
+                        "item": "Snafu_PKP_NBlack_GUN",
+                        "pos": [
+                            3694.8310546875,
+                            403.6141052246094,
+                            5983.14892578125
+                        ],
+                        "slot": -761289206,
+                        "quantity": 0,
+                        "health": 199.761962890625,
+                        "energy": 0.0,
+                        "magAmmoCount": 0,
+                        "locType": 2,
+                        "locIdx": -1,
+                        "locRow": -1,
+                        "locCol": -1,
+                        "locFlip": 0,
+                        "childrens": [
+                            {
+                                "item": "Snafu_PKP_250RND_Mag",
+                                "pos": [
+                                    3694.8310546875,
+                                    403.6141052246094,
+                                    5983.14892578125
+                                ],
+                                "slot": -493635884,
+                                "quantity": 1,
+                                "health": 100.0,
+                                "energy": 0.0,
+                                "magAmmoCount": 211,
+                                "locType": 2,
+                                "locIdx": -1,
+                                "locRow": -1,
+                                "locCol": -1,
+                                "locFlip": 0,
+                                "childrens": []
+                            }
+                        ]
+                    },
+                    {
+                        "item": "MMG_striker_helmet_dark_woodland",
+                        "pos": [
+                            3694.959228515625,
+                            402.012451171875,
+                            5983.08203125
+                        ],
+                        "slot": -1445057555,
+                        "quantity": 0,
+                        "health": 200.0,
+                        "energy": 0.0,
+                        "magAmmoCount": 0,
+                        "locType": 2,
+                        "locIdx": -1,
+                        "locRow": -1,
+                        "locCol": -1,
+                        "locFlip": 0,
+                        "childrens": []
+                    }
+                ]
+            }
+        }
+    ]
+}

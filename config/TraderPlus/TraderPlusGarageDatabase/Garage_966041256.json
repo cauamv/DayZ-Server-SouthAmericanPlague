@@ -1,0 +1,128 @@
+{
+    "OwnerName": "Survivor",
+    "OwnerID": "966041256",
+    "ParkingPosition": [
+        -1.0,
+        -1.0,
+        -1.0
+    ],
+    "ParkingOrientation": [
+        -1.0,
+        -1.0,
+        -1.0
+    ],
+    "Vehicles": [
+        {
+            "VehicleName": "UAZ469_offroad",
+            "VehicleCargoId": 1662144994,
+            "VehicleID": 12345678,
+            "EngineHealth": 7.038275487610475e22,
+            "FuelAmmount": 63.0,
+            "CollateralMoney": 0,
+            "ItemsInCargo": [
+                {
+                    "ItemName": "UAZ469_offroad_Wheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "UAZ469_offroad_Wheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "UAZ469_offroad_Wheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "UAZ469_offroad_Wheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "UAZ469_offroad_Wheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "SparkPlug",
+                    "Amount": 1,
+                    "Health": 20.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CarBattery",
+                    "Amount": 50,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "Amount": 1,
+                    "Health": 10.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "Amount": 1,
+                    "Health": 10.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CarRadiator",
+                    "Amount": 1,
+                    "Health": 250.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "UAZ469_offroad_Doors_trunk",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "UAZ469_offroad_Doors_hood",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "UAZ469_offroad_Doors_Driver",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "UAZ469_offroad_Doors_coDriver",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "UAZ469_offroad_Doors_cargo1",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "UAZ469_offroad_Doors_cargo2",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "UAZ469_offroad_Doors_cargo3",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                }
+            ]
+        }
+    ]
+}

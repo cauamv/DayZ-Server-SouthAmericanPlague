@@ -1,0 +1,10 @@
+{
+    "Version": "2.3",
+    "BankingLogs": 1,
+    "IsCreditCarNeededForTransaction": 0,
+    "TransactionFees": 0.05000000074505806,
+    "DefaultStartCurrency": 25000,
+    "DefaultMaxCurrency": 10000000,
+    "CurrenciesAccepted": [],
+    "TheAmountHasBeenTransferedToTheAccount": "O valor foi enviado com sucesso para a conta de destino!"
+}

@@ -1,0 +1,55 @@
+{
+    "VehicleMustHaveLock": 1,
+    "SaveVehicleCargo": 1,
+    "SaveVehicleHealth": 1,
+    "SaveVehicleFuel": 1,
+    "ParkInCost": 100,
+    "ParkOutCost": 200,
+    "PayWithBankAccount": 1,
+    "WhitelistedObjects": [
+        "SK_LandingPad"
+    ],
+    "NPCs": [
+        {
+            "ClassName": "SurvivorM_Oliver",
+            "Position": [
+				3705.613770,
+				402.100037,
+				5999.938477
+            ],
+            "Orientation": [
+                146.248077,
+                -0.0,
+                -0.0
+            ],
+            "ParkingPosition": [
+				3697.408447,
+				402.164978,
+				6002.235352
+            ],
+            "ParkingOrientation": [
+                162.906006, 
+				0,
+				0
+            ],
+            "Clothes": [
+     	        "Wrench",
+        	    "AviatorGlasses",
+	            "BaseballCap_Camo",
+        	    "BomberJacket_Blue",
+	            "ReflexVest",
+	            "CargoPants_Grey",
+				"WorkingBoots_Brown",
+				"WorkingGloves_Black"
+			]
+        }
+    ],
+    "ParkingNotAvailable": "A área de estacionamento já está ocupada!",
+    "NotEnoughMoney": "Você não tem dinheiro suficiente",
+    "NotRightToPark": "Você não tem o direito de estacionar este veículo!",
+    "CarHasMember": "O veículo ainda tem jogadores dentro!",
+    "ParkInFail": "O veículo não pôde ser armazenado corretamente",
+    "ParkInSuccess": "O veículo foi armazenado com sucesso",
+    "ParkOutFail": "O veículo não foi recuperado!",
+    "ParkOutSuccess": "O veículo foi recuperado com sucesso!"
+}

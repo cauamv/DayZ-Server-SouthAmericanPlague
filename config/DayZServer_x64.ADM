@@ -1,0 +1,108 @@
+
+
+******************************************************************************
+AdminLog started on 2022-10-14 at 05:09:24
+07:02:53 | Player "matiss" is connected (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4=)
+07:03:06 | matiss conectou
+07:03:06 | matiss registro criado!
+07:05:40 | ##### PlayerList log: 1 players
+07:05:40 | Player "matiss" (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4= pos=<12848, 9054, 6.6>)
+07:05:40 | #####
+07:10:40 | ##### PlayerList log: 1 players
+07:10:40 | Player "matiss" (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4= pos=<12301.3, 9058.9, 35.8>)
+07:10:40 | #####
+07:13:18 | Player "matiss" (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4= pos=<12081.5, 9154.5, 53.9>)[HP: 99.5] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+07:15:40 | ##### PlayerList log: 1 players
+07:15:40 | Player "matiss" (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4= pos=<11870.9, 9128.9, 53.8>)
+07:15:40 | #####
+07:20:40 | ##### PlayerList log: 1 players
+07:20:40 | Player "matiss" (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4= pos=<11161.8, 9146.3, 130.9>)
+07:20:40 | #####
+07:24:10 | Player "matiss"(id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4=) has been disconnected
+09:55:46 | Player "Survivor"(id=Unknown) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2022-10-14 at 11:02:13
+14:16:58 | Player "matiss" is connected (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4=)
+14:17:10 | matiss conectou
+14:18:23 | ##### PlayerList log: 1 players
+14:18:23 | Player "matiss" (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4= pos=<10581.7, 9066.2, 171.9>)
+14:18:23 | #####
+14:18:36 | Player "matiss"(id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4=) has been disconnected
+14:36:23 | Player "matiss" is connected (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4=)
+14:36:36 | matiss conectou
+14:36:52 | Player "Bardrik" is connected (id=QI3wMCahyL5a31qCvb5LIDWk_ZcboOPj8t9jcptP88g=)
+14:37:14 | Bardrik conectou
+14:37:28 | Player "matiss"(id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4=) has been disconnected
+14:38:23 | ##### PlayerList log: 1 players
+14:38:23 | Player "Bardrik" (id=QI3wMCahyL5a31qCvb5LIDWk_ZcboOPj8t9jcptP88g= pos=<14268, 13028, 4.7>)
+14:38:23 | #####
+14:39:03 | Player "matiss" is connected (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4=)
+14:39:12 | matiss conectou
+14:43:23 | ##### PlayerList log: 2 players
+14:43:23 | Player "Bardrik" (id=QI3wMCahyL5a31qCvb5LIDWk_ZcboOPj8t9jcptP88g= pos=<14268, 13028.3, 4.6>)
+14:43:23 | Player "matiss" (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4= pos=<9072.2, 9051.6, 371.2>)
+14:43:23 | #####
+14:48:23 | ##### PlayerList log: 2 players
+14:48:23 | Player "Bardrik" (id=QI3wMCahyL5a31qCvb5LIDWk_ZcboOPj8t9jcptP88g= pos=<14150.7, 13150, 8.4>)
+14:48:23 | Player "matiss" (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4= pos=<8123.9, 9182.6, 472.7>)
+14:48:23 | #####
+14:49:53 | Player "Bardrik" (id=QI3wMCahyL5a31qCvb5LIDWk_ZcboOPj8t9jcptP88g= pos=<14156.7, 13148.5, 5.9>)[HP: 99.5953] hit by FallDamage
+14:50:25 | Player "Bardrik" (id=QI3wMCahyL5a31qCvb5LIDWk_ZcboOPj8t9jcptP88g= pos=<14169.5, 13156.4, 3.3>)[HP: 99.5924] hit by FallDamage
+14:53:23 | ##### PlayerList log: 2 players
+14:53:23 | Player "Bardrik" (id=QI3wMCahyL5a31qCvb5LIDWk_ZcboOPj8t9jcptP88g= pos=<14056, 13225.1, 12.0>)
+14:53:23 | Player "matiss" (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4= pos=<6700.6, 9676.5, 368.1>)
+14:53:23 | #####
+14:58:23 | ##### PlayerList log: 2 players
+14:58:23 | Player "Bardrik" (id=QI3wMCahyL5a31qCvb5LIDWk_ZcboOPj8t9jcptP88g= pos=<13878.3, 13119, 21.0>)
+14:58:23 | Player "matiss" (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4= pos=<5851.0, 10013.6, 280.9>)
+14:58:23 | #####
+15:02:07 | Player "matiss" (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4= pos=<5360.9, 9919.8, 332.0>)[HP: 92.3139] hit by FallDamage
+15:02:19 | Player "Bardrik" (id=QI3wMCahyL5a31qCvb5LIDWk_ZcboOPj8t9jcptP88g= pos=<13476.5, 13057.7, 80.6>)[HP: 99.25] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+15:03:23 | ##### PlayerList log: 2 players
+15:03:23 | Player "Bardrik" (id=QI3wMCahyL5a31qCvb5LIDWk_ZcboOPj8t9jcptP88g= pos=<13448.1, 13061.5, 80.1>)
+15:03:23 | Player "matiss" (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4= pos=<5308.7, 9816.1, 337.1>)
+15:03:23 | #####
+15:08:23 | ##### PlayerList log: 2 players
+15:08:23 | Player "Bardrik" (id=QI3wMCahyL5a31qCvb5LIDWk_ZcboOPj8t9jcptP88g= pos=<13317.4, 13036.9, 96.1>)
+15:08:23 | Player "matiss" (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4= pos=<4719.9, 9554.2, 339.2>)
+15:08:23 | #####
+15:13:23 | ##### PlayerList log: 2 players
+15:13:23 | Player "Bardrik" (id=QI3wMCahyL5a31qCvb5LIDWk_ZcboOPj8t9jcptP88g= pos=<12951.6, 12764.3, 215.5>)
+15:13:23 | Player "matiss" (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4= pos=<4521.7, 9690.0, 339.0>)
+15:13:23 | #####
+15:18:23 | ##### PlayerList log: 2 players
+15:18:23 | Player "Bardrik" (id=QI3wMCahyL5a31qCvb5LIDWk_ZcboOPj8t9jcptP88g= pos=<12335.9, 12675.6, 140.3>)
+15:18:23 | Player "matiss" (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4= pos=<4215.2, 8963.8, 324.7>)
+15:18:23 | #####
+15:23:23 | ##### PlayerList log: 2 players
+15:23:23 | Player "Bardrik" (id=QI3wMCahyL5a31qCvb5LIDWk_ZcboOPj8t9jcptP88g= pos=<11958.2, 12490.5, 140.1>)
+15:23:23 | Player "matiss" (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4= pos=<3890.3, 8980.7, 311.6>)
+15:23:23 | #####
+15:25:05 | Player "matiss" (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4= pos=<3759.5, 9297.7, 323.9>)[HP: 98.4063] hit by Infected into Torso(1) for 1.59375 damage (MeleeZombieFemale)
+15:25:06 | Player "matiss" (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4= pos=<3759.1, 9298.2, 323.9>)[HP: 97.6563] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieFemale)
+15:26:48 | Player "Bardrik" (id=QI3wMCahyL5a31qCvb5LIDWk_ZcboOPj8t9jcptP88g= pos=<11884.7, 12548.7, 142.7>)[HP: 83.0609] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+15:26:51 | Player "Bardrik" (id=QI3wMCahyL5a31qCvb5LIDWk_ZcboOPj8t9jcptP88g= pos=<11886.2, 12538.6, 140.0>)[HP: 82.4818] hit by FallDamage
+15:28:23 | ##### PlayerList log: 2 players
+15:28:23 | Player "Bardrik" (id=QI3wMCahyL5a31qCvb5LIDWk_ZcboOPj8t9jcptP88g= pos=<11748.7, 12549.5, 141.1>)
+15:28:23 | Player "matiss" (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4= pos=<3089.7, 10115.6, 302.8>)
+15:28:23 | #####
+15:33:22 | ##### PlayerList log: 2 players
+15:33:22 | Player "Bardrik" (id=QI3wMCahyL5a31qCvb5LIDWk_ZcboOPj8t9jcptP88g= pos=<11813.1, 12574.5, 141.5>)
+15:33:22 | Player "matiss" (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4= pos=<2229.7, 11197.6, 265.2>)
+15:33:23 | #####
+15:34:25 | Player "matiss" (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4= pos=<2051.4, 11345.2, 251.1>)[HP: 99.25] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieMale)
+15:34:26 | Player "matiss" (id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4= pos=<2051.7, 11345.8, 251.1>)[HP: 97.6563] hit by Infected into Torso(1) for 1.59375 damage (MeleeZombieMale)
+15:38:01 | Player "matiss"(id=fbkIk33DlWGETspIAOzxIv8YAwMIxzy_W2t2Gw90Vi4=) has been disconnected
+15:38:22 | ##### PlayerList log: 1 players
+15:38:22 | Player "Bardrik" (id=QI3wMCahyL5a31qCvb5LIDWk_ZcboOPj8t9jcptP88g= pos=<11824.8, 12571.8, 142.6>)
+15:38:22 | #####
+15:42:40 | Player "Bardrik" (id=QI3wMCahyL5a31qCvb5LIDWk_ZcboOPj8t9jcptP88g= pos=<11799.3, 12576.8, 140.9>)[HP: 99.5] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+15:43:22 | ##### PlayerList log: 1 players
+15:43:22 | Player "Bardrik" (id=QI3wMCahyL5a31qCvb5LIDWk_ZcboOPj8t9jcptP88g= pos=<11785.2, 12484.1, 140.0>)
+15:43:22 | #####
+15:48:22 | ##### PlayerList log: 1 players
+15:48:22 | Player "Bardrik" (id=QI3wMCahyL5a31qCvb5LIDWk_ZcboOPj8t9jcptP88g= pos=<11193.8, 11711.2, 229.1>)
+15:48:22 | #####
+15:48:48 | Player "Bardrik"(id=QI3wMCahyL5a31qCvb5LIDWk_ZcboOPj8t9jcptP88g=) has been disconnected

@@ -1,0 +1,1254 @@
+
+
+******************************************************************************
+AdminLog started on 2022-09-05 at 19:39:43
+19:43:03 | Player "Survivor"(id=Unknown) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2022-09-05 at 19:45:24
+19:50:36 | Player "Survivor" is connected (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs=)
+19:50:53 | Survivor conectou
+19:51:34 | ##### PlayerList log: 1 players
+19:51:34 | Player "Survivor" (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs= pos=<13384, 6439, 5.6>)
+19:51:34 | #####
+19:54:17 | 2022/9/5 |  [VPPAdminTools] Player 76561198966041256 attempted login, and failed! Total Attempts: 1
+19:54:44 | 2022/9/5 |  [VPPAdminTools] Player 76561198966041256 attempted login, and failed! Total Attempts: 2
+19:54:46 | 2022/9/5 |  [VPPAdminTools] Player 76561198966041256 attempted login, and failed! Total Attempts: 3
+19:56:34 | ##### PlayerList log: 1 players
+19:56:34 | Player "Survivor" (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs= pos=<3703.1, 5989.1, 402.0>)
+19:56:34 | #####
+19:57:40 | Player "Survivor"(id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2022-09-05 at 20:51:55
+21:02:43 | Player "Survivor"(id=Unknown) has been disconnected
+21:09:18 | Player "Survivor"(id=Unknown) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2022-09-05 at 21:19:48
+21:29:41 | Player "Survivor"(id=Unknown) has been disconnected
+21:30:24 | Player "Survivor" is connected (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs=)
+21:30:45 | Survivor conectou
+21:30:49 | 2022/9/6 |  [VPPAdminTools] Player 76561198966041256 attempted login, and failed! Total Attempts: 1
+21:30:58 | ##### PlayerList log: 1 players
+21:30:58 | Player "Survivor" (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs= pos=<3700.6, 5988.0, 402.0>)
+21:30:58 | #####
+21:31:10 | 2022/9/6 |  [VPPAdminTools] Player 76561198966041256 attempted login, and failed! Total Attempts: 2
+21:35:58 | ##### PlayerList log: 1 players
+21:35:58 | Player "Survivor" (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs= pos=<4544.4, 10086.9, 339.0>)
+21:35:58 | #####
+21:37:51 | Player "Survivor" (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs= pos=<4464.1, 10770.2, 345.4>)[HP: 97.75] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+21:37:52 | Player "Survivor" (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs= pos=<4464.1, 10770.2, 345.4>)[HP: 95.5] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+21:37:53 | Player "Survivor" (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs= pos=<4464.1, 10770.2, 345.4>)[HP: 87.0904] hit by Infected into Torso(1) for 8.5 damage (MeleeZombieSoldier)
+21:37:55 | Player "Survivor" (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs= pos=<4464.1, 10770.2, 345.4>)[HP: 86.0904] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+21:37:56 | Player "Survivor" (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs= pos=<4464.1, 10770.2, 345.4>)[HP: 77.6809] hit by Infected into Torso(1) for 8.5 damage (MeleeZombieSoldier)
+21:37:58 | Player "Survivor" (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs= pos=<4464.1, 10770.2, 345.4>)[HP: 76.6809] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+21:37:58 | Player "Survivor" (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs= pos=<4464.1, 10770.2, 345.4>) is unconscious
+21:37:59 | Player "Survivor" (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs= pos=<4463.7, 10769.9, 345.5>)[HP: 74.5213] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+21:37:59 | Player "Survivor" (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs= pos=<4463.3, 10769.5, 345.5>)[HP: 73.5213] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+21:38:27 | Player "Survivor"(id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2022-09-05 at 21:55:15
+22:00:20 | Player "Survivor" is connected (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs=)
+22:00:37 | Survivor conectou
+22:01:33 | ##### PlayerList log: 1 players
+22:01:33 | Player "Survivor" (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs= pos=<4282.8, 10559.6, 339>)
+22:01:33 | #####
+22:06:18 | Player "Survivor"(id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2022-09-05 at 22:06:50
+22:08:20 | Player "Survivor" is connected (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs=)
+22:08:41 | Player "Survivor"(id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs=) has been disconnected
+22:09:13 | Player "Survivor" is connected (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs=)
+22:09:32 | Survivor conectou
+22:13:02 | ##### PlayerList log: 1 players
+22:13:02 | Player "Survivor" (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs= pos=<4154.3, 10948.2, 338.6>)
+22:13:02 | #####
+22:18:02 | ##### PlayerList log: 1 players
+22:18:02 | Player "Survivor" (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs= pos=<4154.9, 10948.1, 338.6>)
+22:18:02 | #####
+22:23:02 | ##### PlayerList log: 1 players
+22:23:02 | Player "Survivor" (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs= pos=<4154.9, 10948.1, 338.6>)
+22:23:02 | #####
+22:24:55 | Player "Survivor"(id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2022-09-05 at 22:26:29
+22:28:05 | Player "Survivor" is connected (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs=)
+22:28:22 | Survivor conectou
+22:32:40 | ##### PlayerList log: 1 players
+22:32:40 | Player "Survivor" (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs= pos=<13628.9, 2933.9, 43.5>)
+22:32:40 | #####
+22:33:31 | Player "Survivor" (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs= pos=<10139.5, 12062.3, 345.3>)[HP: 38.6592] hit by FallDamage
+22:33:33 | Player "Survivor" (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs= pos=<10140.1, 12062.4, 345.4>) is unconscious
+22:33:35 | Player "Survivor" (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs= pos=<10139.5, 12062, 345.3>) regained consciousness
+22:37:40 | ##### PlayerList log: 1 players
+22:37:40 | Player "Survivor" (id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs= pos=<11867.4, 12615.4, 140>)
+22:37:40 | #####
+22:38:06 | Player "Survivor"(id=CUUGCFtoGjMZC828iIpqy53YtuyvkdWlY4aR__bM2cs=) has been disconnected
+12:08:45 | Player "Survivor"(id=Unknown) has been disconnected
+21:16:02 | Player "Survivor" is connected (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng=)
+21:16:24 | Survivor conectou
+21:18:05 | ##### PlayerList log: 1 players
+21:18:05 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<7259.2, 2686.1, 7.1>)
+21:18:05 | #####
+21:19:09 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<7179.1, 2755.2, 6.0>)[HP: 96.2152] hit by FallDamage
+21:23:05 | ##### PlayerList log: 1 players
+21:23:05 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<7256.5, 2700.2, 16.5>)
+21:23:05 | #####
+21:24:04 | Player "[U.S.A] Edge_Shot" is connected (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g=)
+21:24:17 | [U.S.A] Edge_Shot conectou
+21:24:17 | [U.S.A] Edge_Shot registro criado!
+21:25:19 | Player "[U.S.A] SOBRAL " is connected (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)
+21:25:35 | [U.S.A] SOBRAL  conectou
+21:25:35 | [U.S.A] SOBRAL  registro criado!
+21:28:06 | ##### PlayerList log: 3 players
+21:28:06 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<6800.8, 3228.6, 16.5>)
+21:28:06 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12811.9, 9720.9, 6.0>)
+21:28:06 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<10982.9, 8009.7, 240.3>)
+21:28:06 | #####
+21:28:18 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12839.2, 9760.7, 6.2>)[HP: 90] hit by Carangueijo into Torso(15) for 10 damage (MeleeCrab)
+21:28:36 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12825, 9751.2, 5.9>)[HP: 80.5136] hit by Carangueijo into Torso(16) for 10 damage (MeleeCrab)
+21:28:52 | Player "[U.S.A] TIOSNIPER999" is connected (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU=)
+21:29:10 | [U.S.A] TIOSNIPER999 conectou
+21:29:10 | [U.S.A] TIOSNIPER999 registro criado!
+21:29:48 | Chat("Survivor"(id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng=)): ᐅ oiiiiiiiiiiiiii
+21:30:23 | Chat("[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)): x1 nem clica
+21:30:39 | Chat("[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)): ᐅ x1  nem clica
+21:30:39 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12767.4, 9759.0, 6.1>)[HP: 72.6686] hit by Carangueijo into Head(0) for 5 damage (MeleeCrab)
+21:30:39 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12767.4, 9759.0, 6.1>)[HP: 62.6686] hit by Carangueijo into Head(0) for 5 damage (MeleeCrab)
+21:31:03 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11521.2, 8500.2, 209.6>)[HP: 97.3943] hit by FallDamage
+21:31:40 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<5803.3, 4060.3, 79.9>)[HP: 91.7688] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieFemale)
+21:31:44 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<5798.2, 4061.1, 80.2>)[HP: 90.0189] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombieFemale)
+21:31:46 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<5798.6, 4058.3, 79.9>)[HP: 89.2065] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieFemale)
+21:31:50 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<5802.0, 4057.4, 79.5>)[HP: 88.3948] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieFemale)
+21:32:08 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12745.9, 9792.2, 6.4>)[HP: 63.8554] hit by Infected into Block(-1) for 0 damage 
+21:32:10 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12745.9, 9791.4, 6.4>)[HP: 63.145] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+21:32:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11761.2, 8682.8, 112.4>)[HP: 96.8893] hit by FallDamage
+21:33:06 | ##### PlayerList log: 4 players
+21:33:06 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<5486.8, 4415.3, 196.4>)
+21:33:06 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12783, 9862.3, 6.2>)
+21:33:06 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11941.3, 8937.7, 58.7>)
+21:33:06 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<12454.4, 9505.2, 8.6>)
+21:33:06 | #####
+21:33:06 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11938.7, 8941.2, 56.2>)[HP: 98.2021] hit by FallDamage
+21:35:00 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<12166.6, 9439.6, 26.7>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+21:35:05 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12801.8, 9980.4, 6.1>)[HP: 55.4867] hit by Infected into Torso(1) for 10 damage (MeleeZombieFirefighter)
+21:35:06 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<12161.8, 9439.7, 26.8>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+21:35:08 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12798.2, 9984.8, 6.1>)[HP: 55.5278] hit by Infected into Block(-1) for 0 damage 
+21:35:14 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12798.2, 9986.8, 6.1>)[HP: 55.6102] hit by Infected into Block(-1) for 0 damage 
+21:35:17 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12305.4, 9126.8, 34.5>)[HP: 95.2188] hit by Infected into Torso(1) for 4.78125 damage (MeleeZombieMale)
+21:35:19 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12798.6, 9986.7, 6.1>)[HP: 53.4428] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieFirefighter)
+21:35:19 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12302.6, 9129.8, 34.5>)[HP: 94.5587] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+21:35:20 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12798.9, 9986.6, 6.1>)[HP: 52.4428] hit by Infected into RightArm(17) for 10 damage (MeleeZombieFirefighter)
+21:35:27 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12310.4, 9123.0, 34.5>)[HP: 92.954] hit by Infected into RightLeg(3) for 7.5 damage (MeleeZombieMale)
+21:35:33 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12311.6, 9119.6, 34.5>)[HP: 92.384] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+21:36:58 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<12079.6, 9359.7, 38.4>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+21:38:06 | ##### PlayerList log: 4 players
+21:38:06 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4130.4, 5652.1, 347.7>)
+21:38:06 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12824.9, 9958.6, 6.4>)
+21:38:06 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11975.8, 9208.2, 54.0>)
+21:38:06 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<11986.4, 9171.1, 54.0>)
+21:38:06 | #####
+21:38:54 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12750.9, 10046.2, 5.6>)[HP: 53.0162] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieFemale)
+21:41:51 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12833.8, 10178.3, 5.9>)[HP: 55.1415] hit by Infected into Block(-1) for 0 damage 
+21:43:05 | ##### PlayerList log: 4 players
+21:43:05 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<3713.3, 5964.9, 402.0>)
+21:43:05 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12874.3, 10212.2, 6.0>)
+21:43:05 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12778, 9869.6, 7.1>)
+21:43:05 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<12778.7, 9869.0, 7.1>)
+21:43:05 | #####
+21:44:02 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<12969.9, 10224.4, 6.0>)[HP: 98.4063] hit by Infected into RightLeg(3) for 6.375 damage (MeleeZombieMale)
+21:44:03 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<12969.2, 10224.2, 6.0>)[HP: 93.4063] hit by Infected into Torso(1) for 5 damage (MeleeZombie)
+21:44:06 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<12964.7, 10221.8, 6.0>)[HP: 85.9962] hit by Infected into Torso(1) for 7.5 damage (MeleeZombieMale)
+21:45:10 | Player "[U.S.A] Alexa " is connected (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg=)
+21:45:28 | [U.S.A] Alexa  conectou
+21:45:28 | [U.S.A] Alexa  registro criado!
+21:48:06 | ##### PlayerList log: 5 players
+21:48:06 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<3722.5, 5998.2, 402.0>)
+21:48:06 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<13507.4, 11242.2, 15.1>)
+21:48:06 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13507.1, 11241.5, 15.1>)
+21:48:06 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<13506.5, 11242.5, 15.1>)
+21:48:06 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<7630.5, 3114.9, 4.4>)
+21:48:06 | #####
+21:48:36 | Player "[OST] Teppo" is connected (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY=)
+21:49:19 | [OST] Teppo conectou
+21:49:19 | [OST] Teppo registro criado!
+21:49:24 | Player "Survivor"(id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng=) has been disconnected
+21:49:32 | Player "Survivor" is connected (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng=)
+21:49:41 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<7265.2, 3024.1, 26.7>)[HP: 98.4063] hit by Infected into LeftLeg(8) for 6.375 damage (MeleeZombieMale)
+21:49:42 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<7265.2, 3024.3, 26.7>)[HP: 90.9962] hit by Infected into Torso(1) for 7.5 damage (MeleeZombieMale)
+21:49:46 | Player "Survivor"(id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng=) has been disconnected
+21:51:41 | Player "Survivor" is connected (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng=)
+21:51:45 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<14131.5, 13082.2, 4.0>)[HP: 99.5] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+21:51:51 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<14131.4, 13081.5, 4.0>)[HP: 98.6175] hit by Infected into RightLeg(3) for 4.25 damage (MeleeZombie)
+21:52:04 | Survivor conectou
+21:52:45 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<13536.1, 12766.7, 69.4>)[HP: 57.1912] hit by Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13537, 12766.8, 69.3>) into Torso(25) for 9 damage (MeleeFist) with 15rd Sporter 22 Mag
+21:52:48 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<14018.8, 13105.3, 12.7>)[HP: 95] hit by Infected into Torso(1) for 5 damage (MeleeZombie)
+21:53:06 | ##### PlayerList log: 6 players
+21:53:06 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<13536.2, 12769.3, 69.4>)
+21:53:06 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13539.2, 12767.4, 69.0>)
+21:53:06 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<13418.6, 12725.6, 91.5>)
+21:53:06 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<6568.9, 3042.2, 14.0>)
+21:53:06 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<14008.8, 13097.3, 13.0>)
+21:53:06 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<3722.7, 5998.3, 402.0>)
+21:53:06 | #####
+21:55:34 | Player "[u.s.a.] eder" is connected (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU=)
+21:55:50 | [u.s.a.] eder conectou
+21:55:50 | [u.s.a.] eder registro criado!
+21:56:00 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<12471.3, 12552.9, 140.5>)[HP: 99.25] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+21:58:06 | ##### PlayerList log: 7 players
+21:58:06 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<13137.7, 12558.5, 126.6>)
+21:58:06 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13138, 12557.7, 126.6>)
+21:58:06 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<12448.6, 12528.4, 140.4>)
+21:58:06 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<6091.2, 3199.3, 53.4>)
+21:58:06 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<13138.7, 12558, 126.5>)
+21:58:06 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<3720.6, 5999.1, 402.0>)
+21:58:06 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<13151.9, 10370.5, 6.2>)
+21:58:06 | #####
+21:58:52 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<13140.9, 10371.1, 6.0>)[HP: 93.625] hit by Infected into Torso(1) for 6.375 damage (MeleeZombieMale)
+21:59:04 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<6086.1, 3131.1, 51.8>)[HP: 99.5] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+21:59:13 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<6088.0, 3129.0, 51.2>)[HP: 94.7702] hit by Infected into Torso(1) for 5 damage (MeleeZombie)
+21:59:15 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<6088.0, 3128.2, 51.0>)[HP: 94.2702] hit by Infected into LeftArm(18) for 5 damage (MeleeZombie)
+22:00:41 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<5811.9, 3078.7, 93.6>)[HP: 94.7602] hit by Infected into RightLeg(3) for 8.5 damage (MeleeZombieSoldier)
+22:00:44 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<5812.1, 3078.5, 93.6>)[HP: 97.09] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+22:03:06 | ##### PlayerList log: 7 players
+22:03:06 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<13104.7, 11760.8, 45.2>)
+22:03:06 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12447.5, 12528.9, 140.4>)
+22:03:06 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<12448.6, 12528.4, 140.4>)
+22:03:06 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<5713.4, 3039.8, 91.3>)
+22:03:06 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12447.4, 12532.3, 141.9>)
+22:03:06 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<3720.6, 5999.1, 402.0>)
+22:03:06 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<13084.7, 10602.8, 5.5>)
+22:03:06 | #####
+22:03:18 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<12447.3, 12530.5, 140.4>)[HP: 98.0974] hit by EGER with TransportHit
+22:05:35 | Player "Survivor" (DEAD) (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<10425.9, 9960.4, 120.6>)[HP: 0] hit by FallDamage
+22:05:35 | Player "Survivor" (DEAD) (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<10425.9, 9960.4, 120.6>) died. Stats> Water: 4718.29 Energy: 4794.84 Bleed sources: 0
+22:05:59 | Survivor conectou
+22:08:00 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<12997.9, 11037, 44.9>)[HP: 72.7147] hit by RFFSHeli_Blackhawk_Budhawk with TransportHit
+22:08:00 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12998.3, 11036.9, 43.9>)[HP: 72.7147] hit by RFFSHeli_Blackhawk_Budhawk with TransportHit
+22:08:00 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12998.3, 11036.9, 43.9>)[HP: 45.4294] hit by RFFSHeli_Blackhawk_Budhawk with TransportHit
+22:08:00 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12999, 11037.4, 43.1>)[HP: 72.7147] hit by RFFSHeli_Blackhawk_Budhawk with TransportHit
+22:08:00 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12997.6, 11036.9, 45.5>)[HP: 72.7147] hit by RFFSHeli_Blackhawk_Budhawk with TransportHit
+22:08:00 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12999, 11037.4, 43.1>)[HP: 45.4294] hit by RFFSHeli_Blackhawk_Budhawk with TransportHit
+22:08:00 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<12998.5, 11036.3, 42.5>)[HP: 72.7147] hit by RFFSHeli_Blackhawk_Budhawk with TransportHit
+22:08:01 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12999.2, 11037.3, 43.8>)[HP: 0] hit by explosion (Explosion_NonLethal)
+22:08:01 | Player "[u.s.a.] eder" (DEAD) (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<12998.3, 11037.2, 45.1>)[HP: 0] hit by explosion (Explosion_NonLethal)
+22:08:01 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12996.6, 11037, 44.7>)[HP: 0] hit by explosion (Explosion_NonLethal)
+22:08:01 | Player "[U.S.A] TIOSNIPER999" (DEAD) (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<12998.6, 11036.2, 43.8>)[HP: 0] hit by explosion (Explosion_NonLethal)
+22:08:01 | Player "[U.S.A] Edge_Shot" (DEAD) (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12998.2, 11036.7, 43.7>)[HP: 0] hit by explosion (Explosion_NonLethal)
+22:08:01 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12999.2, 11037.3, 43.8>) killed by ExplosionTest
+22:08:01 | Player "[u.s.a.] eder" (DEAD) (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<12998.3, 11037.2, 45.1>) killed by ExplosionTest
+22:08:01 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12996.6, 11037, 44.7>) killed by ExplosionTest
+22:08:01 | Player "[U.S.A] TIOSNIPER999" (DEAD) (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<12998.6, 11036.2, 43.8>) killed by ExplosionTest
+22:08:01 | Player "[U.S.A] Edge_Shot" (DEAD) (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12998.2, 11036.7, 43.7>) killed by ExplosionTest
+22:08:07 | ##### PlayerList log: 7 players
+22:08:07 | Player "[U.S.A] Edge_Shot" (DEAD) (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12998.2, 11036.7, 44.1>)
+22:08:07 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12999.3, 11037.3, 43.8>)
+22:08:07 | Player "[U.S.A] TIOSNIPER999" (DEAD) (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<12998.6, 11036.2, 43.8>)
+22:08:07 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<7417.2, 4817.6, 560.9>)
+22:08:07 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12994.4, 11036.8, 40.9>)
+22:08:07 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<12395, 10109.4, 34.4>)
+22:08:07 | Player "[u.s.a.] eder" (DEAD) (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<12997.4, 11035.5, 43.8>)
+22:08:07 | #####
+22:08:11 | [OST] Teppo conectou
+22:08:18 | [U.S.A] Edge_Shot conectou
+22:08:29 | [U.S.A] TIOSNIPER999 conectou
+22:08:29 | [u.s.a.] eder conectou
+22:08:32 | [U.S.A] SOBRAL  conectou
+22:10:24 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13115.3, 10533.4, 6.0>)[HP: 95] hit by Infected into Torso(1) for 5 damage (MeleeZombie)
+22:10:31 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<13127.8, 10555.4, 6.0>)[HP: 95.1805] hit by Infected into Block(-1) for 0 damage 
+22:11:04 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12991.4, 11036.3, 40.8>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+22:11:08 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12990.8, 11035.7, 40.7>)[HP: 98.4063] hit by Infected into RightLeg(3) for 6.375 damage (MeleeZombieMale)
+22:11:09 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12990.5, 11034.5, 40.7>)[HP: 96.8125] hit by Infected into LeftLeg(8) for 6.375 damage (MeleeZombieMale)
+22:11:12 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12990.2, 11034, 40.6>)[HP: 95.3087] hit by Infected into LeftLeg(8) for 6.375 damage (MeleeZombieMale)
+22:11:14 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12989.8, 11034.4, 40.6>)[HP: 94.3982] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+22:11:18 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12993.3, 11044.3, 41.4>)[HP: 92.3611] hit by Infected into LeftLeg(8) for 8.5 damage (MeleeZombieSoldier)
+22:11:25 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<13007.5, 11076.9, 44.8>)[HP: 90.4939] hit by Infected into LeftLeg(8) for 8.5 damage (MeleeZombieSoldier)
+22:11:40 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<12933.8, 9981.3, 6.0>)[HP: 95] hit by Infected into Torso(1) for 5 damage (MeleeZombie)
+22:11:44 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<12933.6, 9981.4, 6.0>)[HP: 90.0902] hit by Infected into Torso(1) for 5 damage (MeleeZombie)
+22:11:51 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<13007.2, 11077.2, 45.1>)[HP: 81.1467] hit by Infected into Torso(1) for 10 damage (MeleeZombieSoldier)
+22:11:55 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<13010.1, 11083.7, 43.6>)[HP: 81.3082] hit by Infected into Block(-1) for 0 damage 
+22:12:01 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<13011.9, 11087.3, 43.7>)[HP: 81.4696] hit by Infected into Block(-1) for 0 damage 
+22:12:52 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<5796.0, 3067.4, 93.8>)[HP: 99] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+22:13:06 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<5805.6, 3121.3, 94.5>)[HP: 98.4509] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+22:13:07 | ##### PlayerList log: 7 players
+22:13:07 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12995.3, 11038.7, 41.1>)
+22:13:07 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12999.1, 11036.2, 43.8>)
+22:13:07 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<5801.6, 3129.3, 95.5>)
+22:13:07 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<7891.6, 5198.5, 359.0>)
+22:13:07 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12727.3, 9533.7, 6.0>)
+22:13:07 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<11250.2, 10706, 163.3>)
+22:13:07 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<12912.4, 10149.9, 6.0>)
+22:13:07 | #####
+22:13:09 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<5798.3, 3135.0, 97.3>)[HP: 97.5414] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+22:13:10 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<5796.0, 3136.7, 98.0>)[HP: 95.4164] hit by Infected into LeftLeg(8) for 8.5 damage (MeleeZombieSoldier)
+22:13:12 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<5793.2, 3140.4, 99.1>)[HP: 94.5064] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+22:13:18 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<5794.5, 3140.2, 99.0>)[HP: 92.5584] hit by Infected into LeftLeg(8) for 8.5 damage (MeleeZombieSoldier)
+22:13:27 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<5806.1, 3165.7, 101.6>)[HP: 90.6909] hit by Infected into LeftLeg(8) for 8.5 damage (MeleeZombieSoldier)
+22:13:30 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<5806.9, 3165.8, 101.5>)[HP: 88.6496] hit by Infected into RightLeg(3) for 8.5 damage (MeleeZombieSoldier)
+22:13:37 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<5796.5, 3169.9, 103.0>)[HP: 78.8137] hit by Infected into Torso(1) for 10 damage (MeleeZombieSoldier)
+22:14:20 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12991.9, 11035.9, 40.8>)[HP: 98.6649] hit by FallDamage
+22:14:44 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<10916, 10691.6, 145.2>)[HP: 82.1288] hit by FallDamage
+22:15:07 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12854.5, 9694.1, 7.0>)[HP: 98.3706] hit by FallDamage
+22:15:43 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12986.8, 11021.9, 39.8>)[HP: 85] hit by Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<12987, 11020.8, 39.8>) into Head(0) for 7.5 damage (MeleeFist_Heavy)
+22:17:16 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12991.8, 11036, 40.8>)[HP: 88.5894] hit by FallDamage
+22:18:07 | ##### PlayerList log: 7 players
+22:18:07 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12997.4, 11036.7, 43.8>)
+22:18:07 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12986.5, 11037.9, 40.7>)
+22:18:07 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<4903.8, 2448.4, 78.2>)
+22:18:07 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4903.4, 2447.9, 78.3>)
+22:18:07 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<13060.2, 10231.7, 7.1>)
+22:18:07 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<10731.7, 10783.3, 144.5>)
+22:18:07 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<12997.8, 11035.9, 43.8>)
+22:18:07 | #####
+22:18:08 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12992.3, 11038.8, 41.0>)[HP: 87.4043] hit by FallDamage
+22:18:23 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<12997.3, 11040.8, 41.3>)[HP: 99.7017] hit by FallDamage
+22:20:56 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12994.2, 11038.5, 41.0>)[HP: 97.7463] hit by FallDamage
+22:21:20 | Player "[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=) has been disconnected
+22:22:27 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<10172.5, 10781.8, 153.7>)[HP: 91.5165] hit by Wolf into RightLeg(5) for 18 damage (MeleeWolf)
+22:22:55 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<10105.8, 10810.8, 166.2>)[HP: 89.2894] hit by Wolf into Head(0) for 1.5 damage (MeleeWolf)
+22:23:07 | ##### PlayerList log: 6 players
+22:23:07 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<12727.5, 11661.8, 61.8>)
+22:23:07 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<3309.2, 9401.9, 398.8>)
+22:23:07 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<3308.8, 9402.2, 399.1>)
+22:23:07 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12728.6, 11662.1, 61.7>)
+22:23:07 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<10107.6, 10807.3, 165.7>)
+22:23:07 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<12728, 11662.5, 61.8>)
+22:23:07 | #####
+22:26:53 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<11842.2, 12562.5, 140.0>)[HP: 98.2698] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+22:26:53 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<11863.4, 12560.1, 140.0>)[HP: 80.0321] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+22:27:08 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<11836.9, 12565.4, 140.0>)[HP: 94.1732] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+22:27:17 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<11843.6, 12550.3, 140.0>)[HP: 79.8915] hit by FallDamage
+22:27:23 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<11824.8, 12562.1, 140.0>)[HP: 62.621] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+22:27:34 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<11868.1, 12424.2, 140.1>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+22:27:37 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<11866, 12427.9, 140.1>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+22:27:40 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<11864.3, 12429.9, 140.1>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+22:27:52 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<11830.9, 12572.4, 141.1>)[HP: 56.1852] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+22:28:01 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<11890.5, 12544.4, 140.0>)[HP: 94.9244] hit by FallDamage
+22:28:07 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<11785.4, 12565.6, 141.2>)[HP: 44.3198] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+22:28:08 | ##### PlayerList log: 6 players
+22:28:08 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<11784.4, 12565.7, 141.2>)
+22:28:08 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<7065.1, 10823.2, 685.5>)
+22:28:08 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<5306.7, 11978.4, 217.4>)
+22:28:08 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<11834.3, 12464.2, 140.6>)
+22:28:08 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<9227.1, 10929.8, 263.5>)
+22:28:08 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<11893, 12538.8, 140.0>)
+22:28:08 | #####
+22:28:22 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<11764.2, 12568.2, 141.2>)[HP: 39.1674] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+22:28:36 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<11930.9, 12497.2, 140.0>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+22:28:37 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<11734.8, 12548.1, 143.7>)[HP: 34.4977] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+22:28:40 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<11933.3, 12496.4, 140.0>)[HP: 93.625] hit by Infected into Torso(1) for 6.375 damage (MeleeZombieFemale)
+22:29:06 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<11639.6, 12566.7, 143.8>)[HP: 29.825] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+22:29:13 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<5346.1, 11776.5, 231.6>)[HP: 99] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+22:29:23 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<5350.5, 11781, 231.1>)[HP: 97.1452] hit by Infected into RightLeg(3) for 8.5 damage (MeleeZombieSoldier)
+22:29:25 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<5350.4, 11780.3, 231.1>)[HP: 96.1452] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+22:29:25 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<5350.5, 11780.3, 231.1>)[HP: 95.2352] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+22:29:27 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<5350.4, 11780.2, 231.2>)[HP: 94.2352] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+22:29:32 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<5354.0, 11779.8, 231.1>)[HP: 84.4112] hit by Infected into Torso(1) for 10 damage (MeleeZombieSoldier)
+22:29:34 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<5354.9, 11779.3, 231.0>)[HP: 82.2862] hit by Infected into RightLeg(3) for 8.5 damage (MeleeZombieSoldier)
+22:29:35 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<5355.7, 11779, 231.1>)[HP: 81.3709] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+22:31:16 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<5313.8, 11925.2, 220.7>)[HP: 89.8743] hit by Infected into Torso(1) for 9 damage (MeleeZombieSoldier)
+22:31:21 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<5308.2, 11948.3, 218.5>)[HP: 87.9276] hit by Infected into LeftLeg(8) for 8.5 damage (MeleeZombieSoldier)
+22:33:08 | ##### PlayerList log: 6 players
+22:33:08 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<11281.3, 12144, 193.7>)
+22:33:08 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<6811.3, 11256.7, 376.9>)
+22:33:08 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<7937.1, 12483.3, 193.3>)
+22:33:08 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<11894.3, 12586.8, 140.0>)
+22:33:08 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<10205.6, 11453, 234.1>)
+22:33:08 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<11119.8, 11949.7, 202.7>)
+22:33:08 | #####
+22:33:35 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<10691.5, 11729.8, 255.1>)[HP: 16.3062] hit by FallDamage
+22:33:36 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<10692.6, 11730.1, 254.7>) is unconscious
+22:33:50 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<10692.8, 11729, 254.6>) regained consciousness
+22:34:38 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<11252.3, 12157.3, 194.1>)[HP: 98.3125] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieMale)
+22:35:01 | Player "Survivor" (DEAD) (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<10983.2, 11721.2, 231.3>) died. Stats> Water: 4890.71 Energy: 4950.43 Bleed sources: 0
+22:35:14 | Player "Survivor"(id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng=) has been disconnected
+22:35:49 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<11204.8, 12214.1, 198.9>)[HP: 85.5921] hit by RFFSHeli_Bo105m with TransportHit
+22:35:49 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<11204, 12213.6, 199.2>)[HP: 85.5921] hit by RFFSHeli_Bo105m with TransportHit
+22:35:49 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<11204, 12213.6, 199.2>)[HP: 73.2013] hit by RFFSHeli_Bo105m with TransportHit
+22:35:50 | Player "[U.S.A] Alexa " (DEAD) (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<11204.7, 12213.9, 196.8>)[HP: 0] hit by explosion (Explosion_NonLethal)
+22:35:50 | Player "[U.S.A] Edge_Shot" (DEAD) (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<11203.9, 12213.4, 197.2>)[HP: 0] hit by explosion (Explosion_NonLethal)
+22:35:50 | Player "[U.S.A] Alexa " (DEAD) (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<11204.7, 12213.9, 196.8>) killed by ExplosionTest
+22:35:50 | Player "[U.S.A] Edge_Shot" (DEAD) (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<11203.9, 12213.4, 197.2>) killed by ExplosionTest
+22:35:58 | [U.S.A] Edge_Shot conectou
+22:36:13 | [U.S.A] Alexa  conectou
+22:36:43 | Player "Survivor" is connected (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng=)
+22:37:01 | Survivor conectou
+22:38:08 | ##### PlayerList log: 6 players
+22:38:08 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<8405.0, 2508.8, 8.0>)
+22:38:08 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<9564.0, 11811, 780.2>)
+22:38:08 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<10553.2, 2691.9, 40.6>)
+22:38:08 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<10900.8, 11630.4, 235.4>)
+22:38:08 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<10977.7, 11719.2, 231.6>)
+22:38:08 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<13187.6, 7393.5, 4.4>)
+22:38:08 | #####
+22:43:08 | ##### PlayerList log: 6 players
+22:43:08 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<7866.4, 3141.0, 4.7>)
+22:43:08 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<10462, 10690.8, 135.8>)
+22:43:08 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<9882.0, 2859.3, 79.1>)
+22:43:08 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<10722.6, 10785.3, 143.9>)
+22:43:08 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<10744.9, 10793.7, 144.6>)
+22:43:08 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<13074, 7439.6, 5.8>)
+22:43:08 | #####
+22:45:06 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<11885.3, 9727.7, 21.9>)[HP: 72.7063] hit by FallDamage
+22:45:38 | Player "[U.S.A] TIOSNIPER999"(id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU=) has been disconnected
+22:46:01 | Player "[U.S.A] Alexa "(id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg=) has been disconnected
+22:48:09 | ##### PlayerList log: 4 players
+22:48:09 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<6998.0, 3022.5, 8.3>)
+22:48:09 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<10657.1, 10645.9, 124.9>)
+22:48:09 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<10259.6, 9813.3, 142.1>)
+22:48:09 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<10260.1, 9813.9, 142.0>)
+22:48:09 | #####
+22:52:10 | Player "[U.S.A] Alexa " is connected (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg=)
+22:52:27 | [U.S.A] Alexa  conectou
+22:53:08 | ##### PlayerList log: 5 players
+22:53:08 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<6632.4, 2582.5, 15.2>)
+22:53:08 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<8964.9, 10111.1, 405.1>)
+22:53:08 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<9031.9, 9727.2, 330.7>)
+22:53:08 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<9031.9, 9728, 330.7>)
+22:53:08 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<9701.2, 2911.2, 93.1>)
+22:53:08 | #####
+22:54:34 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<6631.6, 2584.4, 7.6>)[HP: 93.25] hit by Infected into Torso(1) for 6.75 damage (MeleeZombieMale)
+22:58:08 | ##### PlayerList log: 5 players
+22:58:08 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<6450.9, 2323.9, 7.5>)
+22:58:08 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<7657.5, 9696, 421.6>)
+22:58:08 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<7666.7, 9693.0, 422.6>)
+22:58:08 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<7941.4, 9725.5, 444.5>)
+22:58:08 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<8386.5, 3110.9, 5.4>)
+22:58:08 | #####
+23:00:49 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<6780.3, 9774.7, 375.1>) died. Stats> Water: 4664.77 Energy: 4796.13 Bleed sources: 0
+23:00:49 | Player "Survivor" (DEAD) (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<6779.7, 9775.2, 375.0>) died. Stats> Water: 4881.3 Energy: 4941.8 Bleed sources: 0
+23:01:20 | [OST] Teppo conectou
+23:01:25 | Survivor conectou
+23:02:30 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<6146.1, 1995.5, 1.7>)[HP: 86.5] hit by Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<6146.6, 1997.6, 1.6>) into Torso(1) for 13.5 damage (MeleeFist_Heavy)
+23:02:46 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<6137.7, 2027.6, 3.0>)[HP: 82.4606] hit by Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<6146.4, 1994.1, 1.6>) into RightLeg(4) for 70.1575 damage (Bullet_9x39) with REPLACE SR-3 Assault Rifle from 34.6335 meters 
+23:02:55 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<6096.3, 2050.7, 5.5>)[HP: 72.1864] hit by Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<6098.1, 2050.7, 5.6>) into Head(0) for 7.5 damage (MeleeFist_Heavy)
+23:03:14 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<6083.3, 2073.8, 4.9>)[HP: 0] hit by Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<6082.3, 2073.4, 4.9>) into Torso(14) for 87.07 damage (Bullet_762x39) with AK-103 Assault Rifle from 1.11776 meters 
+23:03:14 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<6083.3, 2073.8, 4.9>) killed by Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<6082.3, 2073.4, 4.9>) with AK-103 Assault Rifle from 1.11776 meters 
+23:03:25 | ##### PlayerList log: 5 players
+23:03:25 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<6083.8, 2074.1, 4.9>)
+23:03:25 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<6084.2, 2075.4, 5.0>)
+23:03:25 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<5677.2, 9888.5, 292.4>)
+23:03:25 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<8144.3, 2834.9, 2.2>)
+23:03:25 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<7106.0, 3019.7, 16.7>)
+23:03:25 | #####
+23:03:46 | [OST] Teppo conectou
+23:05:29 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<8445.6, 2573.1, 8.0>) died. Stats> Water: 4999.13 Energy: 4999.73 Bleed sources: 0
+23:05:57 | [OST] Teppo conectou
+23:06:08 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<5357.7, 9917.9, 330.2>)[HP: 88.6028] hit by FallDamage
+23:08:26 | ##### PlayerList log: 5 players
+23:08:26 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<5926.2, 2154.2, 9.4>)
+23:08:26 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<13031.2, 10228.6, 6.0>)
+23:08:26 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<5302.7, 9798.6, 337.2>)
+23:08:26 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<5409.8, 9879.3, 332.8>)
+23:08:26 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<6217.0, 2387.7, 12.1>)
+23:08:26 | #####
+23:13:26 | ##### PlayerList log: 5 players
+23:13:26 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<5810.9, 2157.5, 10.0>)
+23:13:26 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12633.6, 9556.1, 6.1>)
+23:13:26 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<5015.9, 9761.7, 339.0>)
+23:13:26 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<5918.0, 2158.2, 9.7>)
+23:13:26 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<5810.2, 2157.6, 10.0>)
+23:13:26 | #####
+23:13:57 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12610.2, 9534.5, 6.2>)[HP: 99.25] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieMale)
+23:14:00 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12610, 9540.5, 6.2>)[HP: 92.5] hit by Infected into Torso(1) for 6.75 damage (MeleeZombieMale)
+23:14:07 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12608.9, 9551.4, 6.2>)[HP: 91.1762] hit by Infected into LeftLeg(8) for 6.375 damage (MeleeZombieMale)
+23:14:15 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12609.2, 9523, 6.2>)[HP: 84.6062] hit by Infected into Torso(1) for 6.75 damage (MeleeZombieMale)
+23:14:43 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<5126.7, 2290.1, 10.5>)[HP: 83.0133] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+23:14:43 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<5127.1, 2291.1, 10.5>)[HP: 86.2333] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+23:14:52 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12607.5, 9524.4, 6.0>)[HP: 84.7142] hit by Infected into LeftLeg(8) for 4.25 damage (MeleeZombie)
+23:14:56 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12608.2, 9524.7, 6.0>)[HP: 84.3042] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+23:14:57 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12607.3, 9524.9, 6.0>)[HP: 83.3317] hit by Infected into RightLeg(3) for 4.25 damage (MeleeZombie)
+23:15:00 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12608, 9526.4, 6.0>)[HP: 82.3592] hit by Infected into RightLeg(3) for 4.25 damage (MeleeZombie)
+23:15:04 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<5184.9, 2284.8, 10.6>)[HP: 78.6272] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+23:15:04 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<5183.9, 2284.3, 10.6>)[HP: 81.2381] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+23:15:58 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<5143.9, 2267.3, 9.5>)[HP: 97.875] hit by Infected into Torso(1) for 2.125 damage (MeleeZombieSoldier)
+23:16:04 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<5133.3, 2292.4, 9.5>)[HP: 97.055] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+23:16:05 | Player "Survivor" (DEAD) (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<5079.0, 2314.7, 10.7>)[HP: 0] hit by FallDamage
+23:16:05 | Player "Survivor" (DEAD) (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<5079.0, 2314.7, 10.7>) died. Stats> Water: 4947.42 Energy: 4969.1 Bleed sources: 0
+23:16:34 | Survivor conectou
+23:18:26 | ##### PlayerList log: 5 players
+23:18:26 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<3709.7, 2821.4, 25.1>)
+23:18:26 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12222.7, 9226.3, 33.2>)
+23:18:26 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4992.9, 9683.2, 339.6>)
+23:18:26 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<12156.2, 9162.8, 43.5>)
+23:18:26 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<3708.9, 2820.7, 25.1>)
+23:18:26 | #####
+23:18:47 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<12184.2, 9191.5, 34.8>)[HP: 97.875] hit by Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12183.7, 9190.7, 34.8>) into Torso(31) for 2.125 damage (MeleeFist)
+23:21:03 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4657.9, 9589.3, 339.9>)[HP: 97.75] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+23:21:26 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<12077.2, 9072.3, 53.9>)[HP: 99] hit by Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12076.4, 9073.2, 53.9>) into RightArm(17) for 10 damage (MeleeLightBlunt_Heavy) with Handcuffs
+23:21:34 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12075, 9074.2, 53.9>)[HP: 45.2717] hit by Infected into Torso(1) for 4.5 damage (MeleeZombie)
+23:21:35 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12074.9, 9074.2, 53.9>)[HP: 44.1467] hit by Infected into RightLeg(3) for 4.5 damage (MeleeZombie)
+23:21:46 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<12073.4, 9075.5, 53.9>)[HP: 99.0402] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+23:21:47 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<12073.9, 9075.2, 53.9>)[HP: 98.0677] hit by Infected into Torso(1) for 1.0625 damage (MeleeZombie)
+23:21:49 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<12074.1, 9075.2, 53.9>)[HP: 96.9427] hit by Infected into RightLeg(3) for 4.5 damage (MeleeZombie)
+23:21:55 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12074.3, 9075.1, 53.9>)[HP: 0] hit by Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<12072, 9074.7, 53.9>) into Torso(21) for 107.023 damage (Bullet_556x45) with AUR AX from 2.41026 meters 
+23:21:55 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12074.3, 9075.1, 53.9>) killed by Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<12072, 9074.7, 53.9>) with AUR AX from 2.41026 meters 
+23:22:04 | [OST] Teppo conectou
+23:22:05 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<12073.2, 9075.1, 53.9>)[HP: 96.9829] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+23:22:06 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<12073.2, 9075.1, 53.9>)[HP: 95.8579] hit by Infected into LeftLeg(8) for 4.5 damage (MeleeZombie)
+23:22:08 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<12073.2, 9075.1, 53.9>)[HP: 95.4484] hit by Infected into LeftArm(18) for 5 damage (MeleeZombie)
+23:22:09 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<12073.2, 9075.1, 53.9>)[HP: 94.9484] hit by Infected into LeftArm(18) for 5 damage (MeleeZombie)
+23:22:10 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<12073.2, 9075.1, 53.9>)[HP: 93.8859] hit by Infected into Torso(1) for 1.0625 damage (MeleeZombie)
+23:22:11 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<12073.2, 9075.1, 53.9>)[HP: 92.9134] hit by Infected into Torso(1) for 1.0625 damage (MeleeZombie)
+23:22:22 | Player '[OST] Teppo' (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY=) committed suicide.
+23:22:24 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<13523.4, 6452.6, 2.3>) died. Stats> Water: 2499.3 Energy: 4995.44 Bleed sources: 0
+23:22:43 | [OST] Teppo conectou
+23:23:12 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<12148.6, 9023.8, 50.7>)[HP: 94.2148] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+23:23:13 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<12148.6, 9024.0, 50.7>)[HP: 93.1523] hit by Infected into Torso(1) for 1.0625 damage (MeleeZombie)
+23:23:17 | Player '[OST] Teppo' (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY=) committed suicide.
+23:23:19 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<13164, 7481, 3.7>) died. Stats> Water: 2499.52 Energy: 4991.91 Bleed sources: 0
+23:23:26 | ##### PlayerList log: 5 players
+23:23:26 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<3451.7, 3981.4, 197.3>)
+23:23:26 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<13164, 7481, 3.7>)
+23:23:26 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4667.0, 9585.8, 339.9>)
+23:23:26 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<12148, 9023.5, 50.7>)
+23:23:26 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<3451.0, 3980.5, 197.3>)
+23:23:26 | #####
+23:23:35 | [OST] Teppo conectou
+23:24:06 | Player '[OST] Teppo' (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY=) committed suicide.
+23:24:08 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<8305.3, 2404.1, 1.9>) died. Stats> Water: 2497.28 Energy: 4990.57 Bleed sources: 0
+23:24:29 | [OST] Teppo conectou
+23:24:48 | Player '[OST] Teppo' (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY=) committed suicide.
+23:24:50 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<9203, 1955, 6.2>) died. Stats> Water: 2499.74 Energy: 4995.99 Bleed sources: 0
+23:25:10 | [OST] Teppo conectou
+23:25:37 | Player '[OST] Teppo' (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY=) committed suicide.
+23:25:39 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12996, 9497, 1.7>) died. Stats> Water: 2499.62 Energy: 4993.67 Bleed sources: 0
+23:26:48 | [OST] Teppo conectou
+23:27:12 | Player '[OST] Teppo' (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY=) committed suicide.
+23:27:14 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<13066.4, 8104.9, 4.4>) died. Stats> Water: 2499.67 Energy: 4994.5 Bleed sources: 0
+23:27:20 | [OST] Teppo conectou
+23:27:37 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<8674, 2215, 2.1>) died. Stats> Water: 2499.8 Energy: 4996.88 Bleed sources: 0
+23:27:49 | [OST] Teppo conectou
+23:28:26 | ##### PlayerList log: 5 players
+23:28:26 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<2564.6, 5000.3, 195.1>)
+23:28:26 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<14270.8, 12844.9, 2.9>)
+23:28:26 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4660.8, 9599.3, 343.9>)
+23:28:26 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<12069.3, 9086.7, 66.7>)
+23:28:26 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<2563.7, 5000.8, 195.1>)
+23:28:26 | #####
+23:28:31 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<14246.1, 12829.8, 3.5>) died. Stats> Water: 4890.53 Energy: 4988.05 Bleed sources: 0
+23:28:31 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<14246.1, 12829.8, 3.5>) bled out
+23:29:04 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<2536.4, 5084.1, 193.8>)[HP: 99] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+23:29:14 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<14246.8, 12830.2, 3.5>) died. Stats> Water: 4994.69 Energy: 4999.49
+23:30:25 | Player "[OST] Teppo"(id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY=) has been disconnected
+23:30:28 | Player "[OST] Teppo" is connected (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY=)
+23:31:00 | [OST] Teppo conectou
+23:31:17 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<12068.3, 9087.2, 66.5>)[HP: 97.875] hit by Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12069.3, 9087.4, 66.7>) into Torso(31) for 2.125 damage (MeleeFist)
+23:31:18 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<12068.3, 9087.2, 66.5>)[HP: 95.75] hit by Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12069.3, 9087.5, 66.8>) into Torso(31) for 2.125 damage (MeleeFist)
+23:31:22 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12057.5, 9080.3, 53.9>)[HP: 29.9551] hit by FallDamage
+23:31:22 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12056.4, 9081.7, 54.0>) is unconscious
+23:31:24 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12057.2, 9081.3, 53.9>) died. Stats> Water: 4971.23 Energy: 4995.11 Bleed sources: 0
+23:31:24 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12057.2, 9081.3, 53.9>) bled out
+23:31:31 | [OST] Teppo conectou
+23:31:53 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<12060.9, 9078.9, 53.9>)[HP: 94.7054] hit by Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12061.4, 9079.8, 53.9>) into Torso(30) for 2.125 damage (MeleeFist)
+23:32:01 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12073.7, 9075.6, 53.9>) died. Stats> Water: 2493.22 Energy: 4985.25 Bleed sources: 0
+23:32:01 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<12073.7, 9075.6, 53.9>) bled out
+23:32:10 | [OST] Teppo conectou
+23:33:26 | ##### PlayerList log: 5 players
+23:33:26 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<2501.5, 5090.5, 193.4>)
+23:33:26 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4620.9, 9557.2, 342.8>)
+23:33:26 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4586.8, 10225.2, 338.9>)
+23:33:26 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<2486.8, 5134.1, 193.2>)
+23:33:26 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4585.9, 10225.3, 338.9>)
+23:33:26 | #####
+23:33:29 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<2487.6, 5142.4, 190.6>)[HP: 99.5411] hit by FallDamage
+23:33:37 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<2486.5, 5143.5, 190.6>)[HP: 98.5405] hit by FallDamage
+23:35:24 | Player "Survivor" (DEAD) (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4580.2, 9640.5, 339.0>) died. Stats> Water: 4949.87 Energy: 4995.31 Bleed sources: 0
+23:35:49 | Survivor conectou
+23:38:26 | ##### PlayerList log: 5 players
+23:38:26 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<2697.7, 5276.6, 204.4>)
+23:38:26 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4623.1, 9565.8, 339.0>)
+23:38:26 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4610.7, 9565.2, 339.2>)
+23:38:26 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<2832.2, 5271.5, 205.6>)
+23:38:26 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4556.1, 9630.4, 339.5>)
+23:38:26 | #####
+23:39:18 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<2836.4, 5434.7, 211.7>)[HP: 98.3125] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieMale)
+23:39:19 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<2837.7, 5435.7, 211.8>)[HP: 97.5625] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+23:42:09 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4549.3, 9624.6, 339.0>)[HP: 91.2469] hit by FallDamage
+23:43:26 | ##### PlayerList log: 5 players
+23:43:26 | Player "[U.S.A] Edge_Shot" (id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g= pos=<3742.0, 5996.3, 402.8>)
+23:43:26 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<8230.4, 9025.3, 469.3>)
+23:43:26 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<8231.5, 9025.9, 469.3>)
+23:43:26 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<3719.2, 6003.5, 401.8>)
+23:43:26 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4632.1, 9585.0, 339.0>)
+23:43:26 | #####
+23:48:14 | Player "[U.S.A] Edge_Shot"(id=nckrym04esEnpiSF-1C_epC3iTVFuUtdFyAcDS0Yw6g=) has been disconnected
+23:48:24 | Player "[U.S.A] Alexa "(id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg=) has been disconnected
+23:48:27 | ##### PlayerList log: 3 players
+23:48:27 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<8230.4, 9025.3, 469.3>)
+23:48:27 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<3684.2, 5992.3, 402.0>)
+23:48:27 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<5025.3, 9705.1, 339.0>)
+23:48:27 | #####
+23:53:27 | ##### PlayerList log: 3 players
+23:53:27 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<8230.8, 9025.5, 469.3>)
+23:53:27 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<3710.0, 5953.3, 405.7>)
+23:53:27 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<5029.9, 9964.1, 339.0>)
+23:53:27 | #####
+23:58:27 | ##### PlayerList log: 3 players
+23:58:27 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<8229.8, 9026.1, 469.3>)
+23:58:27 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<8230.7, 9026.4, 469.3>)
+23:58:27 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4866.2, 10181.4, 339.0>)
+23:58:27 | #####
+00:03:28 | ##### PlayerList log: 3 players
+00:03:28 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<8230.1, 9025.1, 469.3>)
+00:03:28 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<8230.8, 9026.0, 469.3>)
+00:03:28 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4611.9, 10451.8, 339.0>)
+00:03:28 | #####
+00:08:28 | ##### PlayerList log: 3 players
+00:08:28 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<7635.0, 8889.8, 406.4>)
+00:08:28 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4605.8, 10695.2, 339.1>)
+00:08:28 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4631.0, 10687.6, 339.1>)
+00:08:28 | #####
+00:09:35 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4561.1, 10762.8, 339.1>)[HP: 97.75] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+00:09:36 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4559.7, 10762.9, 339.1>)[HP: 96.84] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+00:09:56 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4555.0, 10736.3, 339.1>)[HP: 96.6302] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieFemale)
+00:10:46 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4518.9, 10726.4, 339.6>)[HP: 91.2969] hit by FallDamage
+00:13:28 | ##### PlayerList log: 3 players
+00:13:28 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<5939.4, 9796.3, 290.0>)
+00:13:28 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4474.3, 10743.5, 343.1>)
+00:13:28 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4413.4, 10832.4, 338.8>)
+00:13:28 | #####
+00:17:58 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4200.4, 11003.7, 338.4>)[HP: 99.0792] hit by FallDamage
+00:18:28 | ##### PlayerList log: 3 players
+00:18:28 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4927.1, 10255.5, 339.1>)
+00:18:28 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4216.9, 10999.7, 341.2>)
+00:18:28 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4198.9, 10986.6, 338.4>)
+00:18:28 | #####
+00:19:31 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4176.5, 11056, 339.9>)[HP: 88.4446] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+00:20:00 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4217.8, 11048.9, 341.2>)[HP: 73.8631] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+00:20:15 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4209.4, 11023.6, 342.4>)[HP: 80.96] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+00:20:30 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4193.2, 11005.6, 339.8>)[HP: 90.9309] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+00:20:30 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4209.4, 11023.6, 342.4>)[HP: 80.1405] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+00:20:31 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4232.4, 11040.7, 338.4>)[HP: 68.7827] hit by FallDamage
+00:20:56 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4438.4, 10890.5, 338.6>)[HP: 68.0189] hit by FallDamage
+00:21:36 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4300.3, 10908, 339.6>)[HP: 93.6107] hit by FallDamage
+00:23:29 | ##### PlayerList log: 3 players
+00:23:29 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4899.6, 10254.4, 338.9>)
+00:23:29 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4374.7, 10404.5, 532.9>)
+00:23:29 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4029.9, 10653.1, 339.0>)
+00:23:29 | #####
+00:23:34 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4413.1, 10429.6, 341.7>)[HP: 95.8511] hit by RFFSHeli_Mi2_Hornet with TransportHit
+00:23:34 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4413.1, 10429.6, 341.7>)[HP: 94.4935] hit by RFFSHeli_Mi2_Hornet with TransportHit
+00:23:35 | Player "Survivor" (DEAD) (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4413.0, 10429.6, 341.0>)[HP: 0] hit by explosion (Explosion_NonLethal)
+00:23:35 | Player "Survivor" (DEAD) (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4413.0, 10429.6, 341.0>) killed by ExplosionTest
+00:23:55 | Survivor conectou
+00:25:26 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4840.9, 10341.1, 338.9>)[HP: 99] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+00:26:34 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4813.3, 10373.2, 344.5>)[HP: 97.6141] hit by FallDamage
+00:27:25 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4386.1, 10444.1, 339.9>)[HP: 97.75] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
+00:28:29 | ##### PlayerList log: 3 players
+00:28:29 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4895.7, 10268.6, 338.9>)
+00:28:29 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4898.1, 10256.7, 338.9>)
+00:28:29 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4883.3, 10287.7, 338.9>)
+00:28:29 | #####
+00:31:48 | Player "Survivor" (DEAD) (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4925.1, 10243.2, 339.1>) died. Stats> Water: 2449.83 Energy: 4933.09 Bleed sources: 0
+00:32:20 | Survivor conectou
+00:33:29 | ##### PlayerList log: 3 players
+00:33:29 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4923.5, 10242.2, 339.1>)
+00:33:29 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<8042, 2822, 3.5>)
+00:33:29 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4925.7, 10238.5, 339.1>)
+00:33:29 | #####
+00:35:07 | Player "[u.s.a.] eder" (DEAD) (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4924.5, 10242.3, 339.1>) died. Stats> Water: 4022.76 Energy: 4093.43 Bleed sources: 0
+00:36:34 | Player "[u.s.a.] eder" (DEAD) (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4918.1, 10241, 339.1>) died. Stats> Water: 4957.48 Energy: 4999.21
+00:36:55 | [u.s.a.] eder conectou
+00:37:58 | Player "Survivor" (DEAD) (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4919.6, 10245.7, 339.1>)[HP: 0] hit by Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4925.6, 10250.5, 339.1>) into Head(0) for 127.297 damage (Bullet_308Win) with SNAFU Scar-H OD from 7.65086 meters 
+00:37:58 | Player "Survivor" (DEAD) (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4919.6, 10245.7, 339.1>) killed by Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4925.6, 10250.5, 339.1>) with SNAFU Scar-H OD from 7.65086 meters 
+00:37:58 | Player "Survivor" (DEAD) (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4919.6, 10245.7, 339.1>)[HP: 0] hit by Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4925.6, 10250.5, 339.1>) into Brain(37) for 127.297 damage (Bullet_308Win) with SNAFU Scar-H OD from 7.65086 meters 
+00:37:58 | Player "Survivor" (DEAD) (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4919.6, 10245.7, 339.1>)[HP: 0] hit by Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4925.6, 10250.5, 339.1>) into Torso(39) for 38.189 damage (Bullet_308Win) with SNAFU Scar-H OD from 7.65086 meters 
+00:38:10 | Survivor conectou
+00:38:29 | ##### PlayerList log: 3 players
+00:38:29 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4927.3, 10255.4, 339.1>)
+00:38:29 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4923.9, 10255.4, 339.1>)
+00:38:29 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4919.5, 10245.5, 339.1>)
+00:38:29 | #####
+00:43:29 | ##### PlayerList log: 3 players
+00:43:29 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4917.0, 10254.8, 339.1>)
+00:43:29 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4915.2, 10245.9, 339.1>)
+00:43:29 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4918.5, 10245.2, 339.1>)
+00:43:29 | #####
+00:46:13 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<1536.2, 13557.9, 439.0>)[HP: 73.6349] hit by FallDamage
+00:48:29 | ##### PlayerList log: 3 players
+00:48:29 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4900.5, 10257.7, 338.9>)
+00:48:29 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4917.9, 10238.5, 339.1>)
+00:48:29 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4900.3, 10250.5, 338.9>)
+00:48:29 | #####
+00:50:10 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4743.9, 10500.8, 339.3>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+00:50:10 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4743.9, 10500.8, 339.3>) killed by  with 6-M7 Frag Grenade
+00:51:08 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4742.7, 10499.3, 339.4>) died. Stats> Water: 4999.47 Energy: 4999.53
+00:51:53 | Player "[OST] Teppo" (DEAD) (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4741.7, 10494.8, 339.4>) died. Stats> Water: 4998.86 Energy: 4998.92
+00:52:18 | [OST] Teppo conectou
+00:53:29 | ##### PlayerList log: 3 players
+00:53:29 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4600.6, 10796.4, 339.6>)
+00:53:29 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4747.3, 10509.6, 348.7>)
+00:53:29 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4742.6, 10497.7, 339.4>)
+00:53:29 | #####
+00:55:13 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4469.9, 10832.4, 339.0>)[HP: 99] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+00:55:14 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4469.1, 10830.9, 339.0>)[HP: 98] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+00:55:18 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4473.6, 10824.7, 338.8>)[HP: 97.0905] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+00:58:29 | ##### PlayerList log: 3 players
+00:58:29 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4251.5, 10988.9, 339.0>)
+00:58:29 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4217.4, 11047, 341.5>)
+00:58:29 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4312.9, 10982.6, 341.4>)
+00:58:29 | #####
+01:00:51 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4242.6, 11026.2, 339.1>)[HP: 81.3064] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+01:00:51 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4252.7, 11012.6, 339.1>)[HP: 83.06] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+01:03:30 | ##### PlayerList log: 3 players
+01:03:30 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4206.1, 10997.9, 338.4>)
+01:03:30 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4270.4, 11014.7, 338.4>)
+01:03:30 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4190.5, 11056.7, 338.4>)
+01:03:30 | #####
+01:05:05 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4427.3, 10795.8, 338.9>)[HP: 96.4162] hit by FallDamage
+01:05:10 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4423.1, 10793.9, 338.9>)[HP: 94.4714] hit by Infected into Torso(1) for 2.125 damage (MeleeZombieSoldier)
+01:08:19 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4900.5, 10244.9, 338.9>)[HP: 99] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+01:08:25 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4906.5, 10220.6, 339.0>)[HP: 98.18] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+01:08:30 | ##### PlayerList log: 3 players
+01:08:30 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4105.9, 11274.8, 346.1>)
+01:08:30 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4904.9, 10224.5, 339.0>)
+01:08:30 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4098.2, 11238, 343.8>)
+01:08:30 | #####
+01:08:31 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4903.7, 10225.2, 339.0>)[HP: 96.1092] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+01:08:31 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4902.7, 10226.6, 339.0>)[HP: 96.1092] hit by Infected into Block(-1) for 0 damage 
+01:08:35 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4901.8, 10229.6, 339.0>)[HP: 95.1971] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+01:08:37 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4901.9, 10230, 339.0>)[HP: 93.1578] hit by Infected into Torso(1) for 2.125 damage (MeleeZombieSoldier)
+01:09:40 | Player "Survivor" (DEAD) (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4918.8, 10246.7, 339.1>) died. Stats> Water: 4929.59 Energy: 4929.61 Bleed sources: 0
+01:10:03 | Survivor conectou
+01:12:55 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4209.5, 11219.9, 344.7>)[HP: 99.0442] hit by FallDamage
+01:13:19 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4631.7, 10592.7, 339.0>)[HP: 99.189] hit by FallDamage
+01:13:28 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4744.2, 10475.2, 339.2>)[HP: 96.18] hit by FallDamage
+01:13:30 | ##### PlayerList log: 3 players
+01:13:30 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4022.0, 11788, 376.0>)
+01:13:30 | Player "Survivor" (id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng= pos=<4744.3, 10474.5, 339.2>)
+01:13:30 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4066.9, 11793.4, 379.4>)
+01:13:30 | #####
+01:14:44 | Player "Survivor"(id=ipJb1pqdo6VChEDUoCyqR6x77c3L2dgSwzSZYnoe-ng=) has been disconnected
+01:15:51 | Player "[u.s.a.] eder" (DEAD) (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<3979.5, 11799.1, 375.9>)[HP: 0] hit by explosion (M67Grenade_Ammo)
+01:15:51 | Player "[u.s.a.] eder" (DEAD) (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<3979.5, 11799.1, 375.9>) killed by  with 6-M7 Frag Grenade
+01:16:04 | [u.s.a.] eder conectou
+01:18:30 | ##### PlayerList log: 2 players
+01:18:30 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<6992.5, 3257.1, 6.5>)
+01:18:30 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<3990.9, 11826.2, 376.0>)
+01:18:30 | #####
+01:23:31 | ##### PlayerList log: 2 players
+01:23:31 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<6383.8, 5157.3, 283.1>)
+01:23:31 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<3981.9, 11776.8, 375.8>)
+01:23:31 | #####
+01:28:31 | ##### PlayerList log: 2 players
+01:28:31 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<5687.9, 7042.8, 322.1>)
+01:28:31 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4055.3, 11594.7, 369.9>)
+01:28:31 | #####
+01:33:31 | ##### PlayerList log: 2 players
+01:33:31 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<5061.0, 8923.5, 349.9>)
+01:33:31 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4455, 10906.2, 338.7>)
+01:33:31 | #####
+01:38:31 | ##### PlayerList log: 2 players
+01:38:31 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<5051.0, 9799.3, 339.2>)
+01:38:31 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4430.7, 10674.7, 339.2>)
+01:38:31 | #####
+01:43:32 | ##### PlayerList log: 2 players
+01:43:32 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4919.5, 10241.3, 339.1>)
+01:43:32 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4866.7, 10398.4, 339.3>)
+01:43:32 | #####
+01:48:32 | ##### PlayerList log: 2 players
+01:48:32 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4916.8, 10255.2, 339.1>)
+01:48:32 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4917.7, 10247, 339.1>)
+01:48:32 | #####
+01:51:55 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4904.7, 10246.2, 338.9>)[HP: 99] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+01:53:32 | ##### PlayerList log: 2 players
+01:53:32 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4917.0, 10255.1, 339.1>)
+01:53:32 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4915.5, 10253.9, 339.1>)
+01:53:32 | #####
+01:58:32 | ##### PlayerList log: 2 players
+01:58:32 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4916.6, 10254.9, 339.1>)
+01:58:32 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4916.4, 10253.9, 339.1>)
+01:58:32 | #####
+02:03:32 | ##### PlayerList log: 2 players
+02:03:32 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4936.7, 9908.3, 339.9>)
+02:03:32 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4937.7, 9900.1, 339.7>)
+02:03:32 | #####
+02:08:32 | ##### PlayerList log: 2 players
+02:08:32 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4559.4, 8328.5, 318.3>)
+02:08:32 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4534.3, 8336.7, 317.9>)
+02:08:32 | #####
+02:13:32 | ##### PlayerList log: 2 players
+02:13:32 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4579.5, 8236.1, 318.8>)
+02:13:32 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4553.4, 8270.5, 317.6>)
+02:13:32 | #####
+02:17:51 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4545.3, 8344.6, 317.9>)[HP: 97.75] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
+02:17:52 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4546.5, 8344.1, 317.9>)[HP: 95.625] hit by Infected into Torso(1) for 2.125 damage (MeleeZombieSoldier)
+02:17:54 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4548.1, 8342.9, 317.9>)[HP: 94.715] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+02:17:59 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4551.3, 8341.5, 317.9>)[HP: 92.6789] hit by Infected into Torso(1) for 2.125 damage (MeleeZombieSoldier)
+02:18:00 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4553.5, 8340.9, 317.9>)[HP: 91.767] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+02:18:00 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4554.5, 8340.3, 317.9>)[HP: 90.767] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+02:18:03 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4560.6, 8338.8, 318.0>)[HP: 88.6038] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
+02:18:04 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4563.4, 8338.0, 318.0>)[HP: 86.4788] hit by Infected into Torso(1) for 2.125 damage (MeleeZombieSoldier)
+02:18:33 | ##### PlayerList log: 2 players
+02:18:33 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4564.1, 8358.0, 318.0>)
+02:18:33 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4564.2, 8354.8, 318.0>)
+02:18:33 | #####
+02:19:34 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4563.5, 8356.2, 318.0>)[HP: 86.794] hit by Infected into Torso(1) for 2.125 damage (MeleeZombieSoldier)
+02:23:33 | ##### PlayerList log: 2 players
+02:23:33 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4877.9, 8166.6, 333.0>)
+02:23:33 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4878.2, 8167.7, 333.1>)
+02:23:33 | #####
+02:28:33 | ##### PlayerList log: 2 players
+02:28:33 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<3904.9, 6975.1, 312.7>)
+02:28:33 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<3905.5, 6974.1, 312.7>)
+02:28:33 | #####
+02:33:33 | ##### PlayerList log: 2 players
+02:33:33 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<2729.6, 6664.1, 356.6>)
+02:33:33 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<2730.4, 6667.3, 357.1>)
+02:33:33 | #####
+02:38:34 | ##### PlayerList log: 2 players
+02:38:34 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<2679.5, 5606.3, 210.9>)
+02:38:34 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<2679.5, 5604.5, 210.9>)
+02:38:34 | #####
+02:43:34 | ##### PlayerList log: 2 players
+02:43:34 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<2540.5, 5082.7, 193.8>)
+02:43:34 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<2513.5, 5081.2, 193.5>)
+02:43:34 | #####
+02:48:34 | ##### PlayerList log: 2 players
+02:48:34 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<2485.1, 5187.2, 190.2>)
+02:48:34 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<2444.1, 5171.5, 191.5>)
+02:48:34 | #####
+02:53:34 | ##### PlayerList log: 2 players
+02:53:34 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<2572.8, 5069.4, 194.6>)
+02:53:34 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<2579.4, 5152.5, 193.3>)
+02:53:34 | #####
+02:54:24 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<2568.7, 5084.8, 198.1>)[HP: 99.25] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+02:56:07 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<2569.7, 5086.7, 198.1>)[HP: 92.5386] hit by FallDamage
+02:58:34 | ##### PlayerList log: 2 players
+02:58:34 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<2656.0, 5115.3, 201.1>)
+02:58:34 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<2524.5, 5049.3, 194.1>)
+02:58:34 | #####
+03:03:34 | ##### PlayerList log: 2 players
+03:03:34 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<2505.5, 5082.8, 193.5>)
+03:03:34 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<2505.9, 5087.1, 193.4>)
+03:03:34 | #####
+03:08:34 | ##### PlayerList log: 2 players
+03:08:34 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<2707.4, 5165.7, 200.8>)
+03:08:34 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<2706.3, 5166.0, 200.8>)
+03:08:34 | #####
+03:12:36 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<2674.1, 5598.9, 211.3>)[HP: 99.25] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieMale)
+03:12:38 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<2673.9, 5591.0, 210.9>)[HP: 98.59] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+03:13:34 | ##### PlayerList log: 2 players
+03:13:34 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<2684.0, 5604.6, 210.9>)
+03:13:34 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<2689.3, 5596.6, 210.9>)
+03:13:34 | #####
+03:18:35 | ##### PlayerList log: 2 players
+03:18:35 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<2736.9, 6766.0, 366.3>)
+03:18:35 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<2736.0, 6766.1, 366.2>)
+03:18:35 | #####
+03:23:35 | ##### PlayerList log: 2 players
+03:23:35 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<5181.2, 9694.2, 342.2>)
+03:23:35 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<5180.3, 9694.3, 342.2>)
+03:23:35 | #####
+03:26:41 | Player "[u.s.a.] eder"(id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU=) has been disconnected
+03:28:35 | ##### PlayerList log: 1 players
+03:28:35 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4928.4, 10251.1, 339.1>)
+03:28:35 | #####
+03:33:35 | ##### PlayerList log: 1 players
+03:33:35 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4913.2, 10249, 339.1>)
+03:33:35 | #####
+03:38:36 | ##### PlayerList log: 1 players
+03:38:36 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4928.9, 10251.8, 339.1>)
+03:38:36 | #####
+03:43:36 | ##### PlayerList log: 1 players
+03:43:36 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4924.0, 10255.9, 339.1>)
+03:43:36 | #####
+03:48:34 | Player "[OST] Teppo"(id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY=) has been disconnected
+07:16:56 | Player "[U.S.A] Alexa " is connected (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg=)
+07:17:13 | [U.S.A] Alexa  conectou
+07:18:44 | ##### PlayerList log: 1 players
+07:18:44 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<3720.6, 5996.2, 402.6>)
+07:18:44 | #####
+07:23:44 | ##### PlayerList log: 1 players
+07:23:44 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<3565, 6274.4, 352.3>)
+07:23:44 | #####
+07:28:44 | ##### PlayerList log: 1 players
+07:28:44 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<2919.8, 7353.9, 333.6>)
+07:28:44 | #####
+07:33:44 | ##### PlayerList log: 1 players
+07:33:44 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4557.9, 9554.2, 339.5>)
+07:33:44 | #####
+07:36:16 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4548.8, 9544.4, 339.0>)[HP: 90.3291] hit by FallDamage
+07:38:44 | ##### PlayerList log: 1 players
+07:38:44 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4522.8, 9560.7, 342.9>)
+07:38:44 | #####
+07:41:11 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4543.4, 9558.5, 339.0>)[HP: 89.874] hit by FallDamage
+07:43:44 | ##### PlayerList log: 1 players
+07:43:44 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4557.6, 9605.3, 339.5>)
+07:43:44 | #####
+07:45:22 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4567.5, 9584.3, 339.0>)[HP: 95.2221] hit by Infected into Torso(1) for 2.125 damage (MeleeZombieSoldier)
+07:45:37 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4569.6, 9592.9, 339.0>)[HP: 94.6723] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+07:45:45 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4567.9, 9552.2, 339.5>)[HP: 92.6923] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
+07:48:44 | ##### PlayerList log: 1 players
+07:48:44 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4139.0, 10975.3, 339.6>)
+07:48:44 | #####
+07:50:27 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4203.7, 11071.2, 338.4>)[HP: 97.75] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
+07:50:28 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4200.9, 11070.7, 338.4>)[HP: 96.75] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+07:51:01 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4226.4, 11083.8, 338.4>)[HP: 96.8516] hit by FallDamage
+07:51:26 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4186.6, 11067.4, 338.4>)[HP: 72.1583] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+07:52:03 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4222.5, 11138.7, 339.5>)[HP: 72.9604] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+07:52:18 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4257.4, 11124, 339.4>)[HP: 49.833] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+07:53:45 | ##### PlayerList log: 1 players
+07:53:45 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4152.3, 11043.8, 338.4>)
+07:53:45 | #####
+07:56:04 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4234.5, 11032.4, 338.4>)[HP: 55.4674] hit by FallDamage
+07:56:23 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4226, 11068.3, 339.5>)[HP: 55.9167] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+07:58:45 | ##### PlayerList log: 1 players
+07:58:45 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4039.2, 11663.2, 369.5>)
+07:58:45 | #####
+08:03:45 | ##### PlayerList log: 1 players
+08:03:45 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4015.7, 11868.8, 375.5>)
+08:03:45 | #####
+08:08:45 | ##### PlayerList log: 1 players
+08:08:45 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4008.2, 11868.5, 375.5>)
+08:08:45 | #####
+08:13:46 | ##### PlayerList log: 1 players
+08:13:46 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<3949.0, 10958.9, 333.6>)
+08:13:46 | #####
+08:18:46 | ##### PlayerList log: 1 players
+08:18:46 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<5683.7, 10292.7, 282.7>)
+08:18:46 | #####
+08:23:46 | ##### PlayerList log: 1 players
+08:23:46 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<7114.5, 10417.5, 348.1>)
+08:23:46 | #####
+08:27:53 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<6906.8, 11386.8, 404.9>)[HP: 98.4063] hit by Infected into Torso(1) for 1.59375 damage (MeleeZombieMale)
+08:28:46 | ##### PlayerList log: 1 players
+08:28:46 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<6811.1, 11363.3, 390.3>)
+08:28:46 | #####
+08:33:47 | ##### PlayerList log: 1 players
+08:33:47 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<6795.5, 11230.2, 374.5>)
+08:33:47 | #####
+08:38:47 | ##### PlayerList log: 1 players
+08:38:47 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<6796.5, 11227.7, 374.4>)
+08:38:47 | #####
+08:43:47 | ##### PlayerList log: 1 players
+08:43:47 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<6797.1, 11227.9, 374.4>)
+08:43:47 | #####
+08:48:47 | ##### PlayerList log: 1 players
+08:48:47 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<6797.0, 11227.8, 374.4>)
+08:48:47 | #####
+08:53:47 | ##### PlayerList log: 1 players
+08:53:47 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<6797.1, 11227.9, 374.4>)
+08:53:47 | #####
+08:58:47 | ##### PlayerList log: 1 players
+08:58:47 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<6908.6, 11426.7, 435.6>)
+08:58:47 | #####
+09:03:47 | ##### PlayerList log: 1 players
+09:03:47 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<8075.4, 11394.6, 209.3>)
+09:03:47 | #####
+09:08:48 | ##### PlayerList log: 1 players
+09:08:48 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<7646.3, 12878.9, 141.2>)
+09:08:48 | #####
+09:08:50 | Player "[U.S.A] Alexa "(id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg=) has been disconnected
+09:24:56 | Player "[U.S.A] Teppo"(id=Unknown) has been disconnected
+12:11:09 | Player "[u.s.a.] eder" is connected (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU=)
+12:11:25 | [u.s.a.] eder conectou
+12:13:55 | ##### PlayerList log: 1 players
+12:13:55 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4931.4, 10245.2, 339.1>)
+12:13:55 | #####
+12:18:55 | ##### PlayerList log: 1 players
+12:18:55 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4919.0, 10233, 339.1>)
+12:18:55 | #####
+12:20:16 | Player "[u.s.a.] eder"(id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU=) has been disconnected
+15:26:30 | Player "[U.S.A] SOBRAL " is connected (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)
+15:26:46 | [U.S.A] SOBRAL  conectou
+15:29:03 | ##### PlayerList log: 1 players
+15:29:03 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12844.2, 11134.2, 65.5>)
+15:29:03 | #####
+15:30:21 | Player "[u.s.a.] eder" is connected (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU=)
+15:30:36 | [u.s.a.] eder conectou
+15:30:42 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12894.4, 11627.5, 41.7>)[HP: 85.2073] hit by FallDamage
+15:31:48 | Player "[U.S.A] TIOSNIPER999" is connected (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU=)
+15:32:06 | [U.S.A] TIOSNIPER999 conectou
+15:34:03 | ##### PlayerList log: 3 players
+15:34:03 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<12689.1, 12660.1, 186.2>)
+15:34:03 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4898.8, 10105.7, 339.0>)
+15:34:03 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<10529.9, 10932.8, 162.2>)
+15:34:03 | #####
+15:37:29 | Player "[U.S.A] Alexa " is connected (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg=)
+15:37:44 | [U.S.A] Alexa  conectou
+15:38:03 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11837.8, 12459.1, 140.6>)[HP: 97.725] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+15:39:03 | ##### PlayerList log: 4 players
+15:39:03 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11895.7, 12559.4, 140.0>)
+15:39:03 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4544.7, 9669.8, 339.2>)
+15:39:03 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<10459.1, 11578.9, 263.0>)
+15:39:03 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<7646.5, 12879.3, 140.2>)
+15:39:03 | #####
+15:41:11 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11614.6, 12507.7, 145.9>)[HP: 98.9375] hit by Infected into RightLeg(3) for 4.25 damage (MeleeZombie)
+15:41:43 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11593.9, 12483.5, 146.5>)[HP: 94.8399] hit by Infected into Torso(1) for 5 damage (MeleeZombie)
+15:41:44 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11592.9, 12483.4, 146.5>)[HP: 94.4301] hit by Infected into LeftArm(18) for 5 damage (MeleeZombie)
+15:43:26 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11555.5, 12376.2, 151.0>)[HP: 96.4358] hit by Infected into LeftLeg(8) for 4.25 damage (MeleeZombie)
+15:43:28 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11555.9, 12377, 151.0>)[HP: 91.5261] hit by Infected into Torso(1) for 5 damage (MeleeZombie)
+15:44:03 | ##### PlayerList log: 4 players
+15:44:03 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11559.3, 12380.5, 151.9>)
+15:44:03 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4794.5, 10056.4, 339.8>)
+15:44:03 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<10096.3, 11802.7, 304.2>)
+15:44:03 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<5323.6, 12289.4, 196.9>)
+15:44:03 | #####
+15:46:04 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11276.7, 12301.6, 194.5>)[HP: 95.8114] hit by Infected into Block(-1) for 0 damage 
+15:46:05 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11278.7, 12300.5, 194.5>)[HP: 94.302] hit by Infected into LeftLeg(8) for 6.375 damage (MeleeZombieFemale)
+15:47:13 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11141.8, 12297.4, 199.0>)[HP: 95.4148] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+15:47:16 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11141.2, 12298, 199.0>)[HP: 87.9997] hit by Infected into Torso(1) for 7.5 damage (MeleeZombieMale)
+15:47:22 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4532.0, 9674.3, 339.0>)[HP: 97.75] hit by Infected into Torso(1) for 2.25 damage (MeleeZombieSoldier)
+15:48:42 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<10977.9, 12300.8, 224.9>)[HP: 90.1992] hit by Infected into Block(-1) for 0 damage 
+15:49:03 | ##### PlayerList log: 4 players
+15:49:03 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<10887.2, 12253.3, 232.5>)
+15:49:03 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4519.0, 9648.6, 339.5>)
+15:49:03 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<9838.5, 11812.2, 274.6>)
+15:49:03 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4976.7, 10672.7, 321.1>)
+15:49:03 | #####
+15:54:03 | ##### PlayerList log: 4 players
+15:54:03 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<10267.2, 12032.3, 382.4>)
+15:54:03 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4928.6, 10236.7, 339.1>)
+15:54:03 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<10042.6, 12068.1, 316.9>)
+15:54:03 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4924.0, 10238.9, 339.1>)
+15:54:03 | #####
+15:57:11 | Player "[OST] Teppo" is connected (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY=)
+15:58:28 | [OST] Teppo conectou
+15:59:03 | ##### PlayerList log: 5 players
+15:59:03 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<10187.7, 12035.6, 338.8>)
+15:59:03 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4513.6, 9692.5, 339.0>)
+15:59:03 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<10192.7, 12037.5, 340.6>)
+15:59:03 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<5012.5, 9516.1, 339.9>)
+15:59:03 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4925.6, 10263.5, 339.1>)
+15:59:03 | #####
+16:01:25 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<11440.4, 10679.5, 167.0>)[HP: 87.7732] hit by RFFSHeli_LittleBird with TransportHit
+16:01:25 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11440.1, 10679.5, 167.6>)[HP: 87.7732] hit by RFFSHeli_LittleBird with TransportHit
+16:01:25 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11440.1, 10679.5, 167.6>)[HP: 75.5465] hit by RFFSHeli_LittleBird with TransportHit
+16:01:26 | Player "[U.S.A] TIOSNIPER999" (DEAD) (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<11440.6, 10679.2, 167.6>)[HP: 0] hit by explosion (Explosion_NonLethal)
+16:01:26 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11440.3, 10679.3, 169.0>)[HP: 0] hit by explosion (Explosion_NonLethal)
+16:01:26 | Player "[U.S.A] TIOSNIPER999" (DEAD) (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<11440.6, 10679.2, 167.6>) killed by ExplosionTest
+16:01:26 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11440.3, 10679.3, 169.0>) killed by ExplosionTest
+16:01:40 | [U.S.A] TIOSNIPER999 conectou
+16:02:02 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4440, 9668.4, 339.0>)[HP: 97.75] hit by Infected into Torso(1) for 2.25 damage (MeleeZombieSoldier)
+16:02:34 | Player "[U.S.A] TIOSNIPER999"(id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU=) has been disconnected
+16:04:04 | ##### PlayerList log: 4 players
+16:04:04 | Player "[U.S.A] SOBRAL " (DEAD) (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<11440, 10679.7, 168.0>)
+16:04:04 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4477.8, 9603.6, 339.1>)
+16:04:04 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4544.2, 8348.3, 319.1>)
+16:04:04 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4925.6, 10263.5, 339.1>)
+16:04:04 | #####
+16:07:23 | [U.S.A] SOBRAL  conectou
+16:09:04 | ##### PlayerList log: 4 players
+16:09:04 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6319.8, 2215.4, 1.5>)
+16:09:04 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4518.3, 9568.9, 339.5>)
+16:09:04 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<3698.8, 5986.7, 402.0>)
+16:09:04 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4923.4, 10239.2, 339.1>)
+16:09:04 | #####
+16:10:12 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6197.7, 2194.9, 6.8>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+16:14:04 | ##### PlayerList log: 4 players
+16:14:04 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<5461.3, 2237.5, 52.0>)
+16:14:04 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4544.9, 9534.5, 339.1>)
+16:14:04 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<3706.7, 5969.2, 402.0>)
+16:14:04 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4659.5, 9724.0, 340.2>)
+16:14:04 | #####
+16:14:49 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<5257.9, 2215.4, 8.8>)[HP: 97.875] hit by Infected into RightLeg(3) for 8.5 damage (MeleeZombieSoldier)
+16:14:52 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<5264.3, 2206.3, 8.7>)[HP: 98.0555] hit by Infected into Block(-1) for 0 damage 
+16:14:57 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<5265.6, 2205.4, 8.7>)[HP: 97.1457] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+16:16:24 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<5225.8, 2147.3, 9.7>)[HP: 97.7395] hit by FallDamage
+16:16:28 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<5226.9, 2145.6, 9.7>)[HP: 96.92] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+16:16:57 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<5227.2, 2141.2, 9.7>)[HP: 89.2322] hit by Infected into Torso(1) for 8.5 damage (MeleeZombieSoldier)
+16:17:40 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<5122.3, 2290.0, 9.3>)[HP: 62.8465] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+16:17:56 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<5094.6, 2284.4, 9.4>)[HP: 62.3884] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+16:18:09 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<5073.4, 2316.1, 9.8>)[HP: 57.9614] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+16:19:04 | ##### PlayerList log: 4 players
+16:19:04 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<5074.6, 2313.7, 9.8>)
+16:19:04 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4929.0, 10239.7, 339.1>)
+16:19:04 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<3706.7, 5969.2, 402.0>)
+16:19:04 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4596.1, 9619.6, 339.5>)
+16:19:04 | #####
+16:21:06 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<5078.1, 2310.3, 9.8>)[HP: 61.1606] hit by Infected into RightLeg(3) for 8.5 damage (MeleeZombieSoldier)
+16:22:31 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<5076.1, 2305.6, 9.3>)[HP: 61.0587] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+16:24:05 | ##### PlayerList log: 4 players
+16:24:05 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<4929.6, 2470.5, 10.4>)
+16:24:05 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4889.7, 10279.6, 338.9>)
+16:24:05 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<3706.7, 5969.2, 402.0>)
+16:24:05 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4673.7, 9899.5, 339.0>)
+16:24:05 | #####
+16:29:05 | ##### PlayerList log: 4 players
+16:29:05 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<4860.1, 2585.4, 9.8>)
+16:29:05 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4633.9, 10433.6, 344.2>)
+16:29:05 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<3706.7, 5969.2, 402.0>)
+16:29:05 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4950.5, 9952.4, 339.1>)
+16:29:05 | #####
+16:34:05 | ##### PlayerList log: 4 players
+16:34:05 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<4747.7, 2980.1, 76.5>)
+16:34:05 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4588.2, 9844.7, 339.4>)
+16:34:05 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<3706.7, 5969.2, 402.0>)
+16:34:05 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4931.3, 10141, 339.0>)
+16:34:05 | #####
+16:34:12 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4925.3, 10145.7, 339.0>)[HP: 99] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+16:39:06 | ##### PlayerList log: 4 players
+16:39:06 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<4192.3, 3800.8, 224.6>)
+16:39:06 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4459.9, 10763.4, 339.1>)
+16:39:06 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<3706.7, 5969.2, 402.0>)
+16:39:06 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4839.9, 10305.4, 338.9>)
+16:39:06 | #####
+16:40:32 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4422.9, 10778.3, 338.9>)[HP: 97.75] hit by Infected into Torso(1) for 2.25 damage (MeleeZombieSoldier)
+16:40:36 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4424.7, 10767.7, 338.9>)[HP: 95.5902] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
+16:40:53 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<4077.5, 3870.8, 253.8>)[HP: 92.0635] hit by FallDamage
+16:41:03 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4440.3, 10749.8, 339.0>)[HP: 96.3749] hit by Infected into Block(-1) for 0 damage 
+16:41:08 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4440.0, 10751.3, 339.0>)[HP: 96.5472] hit by Infected into Block(-1) for 0 damage 
+16:41:14 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4434.3, 10747.5, 339.0>)[HP: 94.47] hit by Infected into Torso(1) for 2.25 damage (MeleeZombieSoldier)
+16:44:06 | ##### PlayerList log: 4 players
+16:44:06 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<3689.4, 3921.2, 208.3>)
+16:44:06 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4407.3, 10880.4, 338.7>)
+16:44:06 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<3706.7, 5969.2, 402.0>)
+16:44:06 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4929.3, 10239.8, 339.1>)
+16:44:06 | #####
+16:49:06 | ##### PlayerList log: 4 players
+16:49:06 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<3243.1, 4664.7, 282.2>)
+16:49:06 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4237.4, 11009.6, 339.6>)
+16:49:06 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<3706.7, 5969.2, 402.0>)
+16:49:06 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4926.7, 10244.8, 339.1>)
+16:49:06 | #####
+16:54:06 | ##### PlayerList log: 4 players
+16:54:06 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<2633.5, 5062.1, 195.8>)
+16:54:06 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4926.4, 10245, 339.1>)
+16:54:06 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<3706.7, 5969.2, 402.0>)
+16:54:06 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4928.7, 10251, 339.1>)
+16:54:06 | #####
+16:54:17 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<2624.2, 5065.4, 195.2>)[HP: 97.875] hit by Infected into RightLeg(3) for 8.5 damage (MeleeZombieSoldier)
+16:54:19 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<2626.5, 5066.7, 195.1>)[HP: 89.375] hit by Infected into Torso(1) for 8.5 damage (MeleeZombieSoldier)
+16:54:22 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<2630.2, 5073.2, 195.1>)[HP: 88.5555] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+16:54:23 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<2632.0, 5075.0, 195.0>)[HP: 86.4305] hit by Infected into RightLeg(3) for 8.5 damage (MeleeZombieFirefighter)
+16:54:25 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<2634.5, 5077.3, 195.0>)[HP: 85.4305] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieFirefighter)
+16:54:26 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<2636.3, 5078.3, 195.0>)[HP: 84.5207] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieFirefighter)
+16:54:54 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<2612.7, 5061.1, 195.4>)[HP: 84.3329] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+16:55:00 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<2604.7, 5058.2, 195.4>)[HP: 83.5134] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieFirefighter)
+16:55:03 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<2595, 5053.2, 195.1>)[HP: 82.8536] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieMale)
+16:55:06 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<2589.9, 5049.1, 194.7>)[HP: 81.3506] hit by Infected into LeftLeg(8) for 6.375 damage (MeleeZombieMale)
+16:55:13 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<2554.7, 5034.6, 194.8>)[HP: 80.7811] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieMale)
+16:56:10 | Player "[U.S.A] SOBRAL "(id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=) has been disconnected
+16:59:07 | ##### PlayerList log: 3 players
+16:59:07 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4925.3, 10248.9, 339.1>)
+16:59:07 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<3675.8, 5984.7, 402.0>)
+16:59:07 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4929.2, 10251.1, 339.1>)
+16:59:07 | #####
+17:04:07 | ##### PlayerList log: 3 players
+17:04:07 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4914.8, 10255.3, 339.1>)
+17:04:07 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4001.3, 7301.3, 298.0>)
+17:04:07 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4928.6, 10251.7, 339.1>)
+17:04:07 | #####
+17:07:04 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4905.0, 10252.2, 338.9>)[HP: 97.75] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+17:07:06 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4903.3, 10252.6, 338.9>)[HP: 96.75] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+17:07:45 | Player "[U.S.A] SOBRAL " is connected (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA=)
+17:08:02 | [U.S.A] SOBRAL  conectou
+17:09:07 | ##### PlayerList log: 4 players
+17:09:07 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4924.0, 10251.5, 339.1>)
+17:09:07 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4762.9, 10273.6, 365.7>)
+17:09:07 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4929.0, 10251.6, 339.1>)
+17:09:07 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<2513.2, 5057.5, 194.0>)
+17:09:07 | #####
+17:14:07 | ##### PlayerList log: 4 players
+17:14:07 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4743.2, 10492.9, 339.5>)
+17:14:07 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<3391.6, 6179.3, 437.1>)
+17:14:07 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4742.6, 10493.8, 339.5>)
+17:14:07 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<2545.2, 5072.8, 193.8>)
+17:14:07 | #####
+17:14:38 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<2548.0, 5081.2, 193.7>)[HP: 92.1021] hit by Infected into LeftLeg(8) for 8.5 damage (MeleeZombieSoldier)
+17:14:39 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<2547.9, 5081.6, 193.7>)[HP: 83.6021] hit by Infected into Torso(1) for 8.5 damage (MeleeZombieSoldier)
+17:14:41 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<2548.1, 5083.1, 193.8>)[HP: 81.5673] hit by Infected into RightLeg(3) for 8.5 damage (MeleeZombieSoldier)
+17:16:06 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4449.2, 10798.1, 338.8>)[HP: 97.75] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
+17:19:07 | ##### PlayerList log: 4 players
+17:19:07 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4216.2, 11098.2, 339.8>)
+17:19:07 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<3645.3, 5990.1, 409.6>)
+17:19:07 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4334.5, 10999.9, 340.9>)
+17:19:07 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<3684, 5992.5, 402.0>)
+17:19:07 | #####
+17:23:14 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4230.9, 11096.1, 338.4>)[HP: 98.8389] hit by FallDamage
+17:23:36 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4190.3, 11092.5, 339.8>)[HP: 83.06] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+17:24:07 | ##### PlayerList log: 4 players
+17:24:07 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4293.6, 11007.2, 338.9>)
+17:24:07 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<3655.0, 5989.8, 401.3>)
+17:24:07 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4291.1, 11009.1, 338.8>)
+17:24:07 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<3658.2, 5994.3, 401.6>)
+17:24:07 | #####
+17:29:07 | ##### PlayerList log: 4 players
+17:29:07 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4075.9, 11210.7, 342.2>)
+17:29:07 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<3478.9, 7199.9, 331.8>)
+17:29:07 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4078.3, 11205.5, 342.5>)
+17:29:07 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<4042.7, 6780.1, 306.8>)
+17:29:07 | #####
+17:34:07 | ##### PlayerList log: 4 players
+17:34:07 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<3986.2, 11800.6, 375.9>)
+17:34:07 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<2761.2, 8846.5, 275.4>)
+17:34:07 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<3989.7, 11798.2, 375.9>)
+17:34:07 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<4401.8, 7314.5, 292.5>)
+17:34:07 | #####
+17:36:09 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<2764.3, 9575.7, 261.5>)[HP: 98.4063] hit by Infected into Torso(1) for 1.59375 damage (MeleeZombieMale)
+17:39:08 | ##### PlayerList log: 4 players
+17:39:08 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4001.8, 11881.1, 375.7>)
+17:39:08 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<2586.7, 10499.2, 286.2>)
+17:39:08 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4161.7, 11615.3, 371.8>)
+17:39:08 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<4468.7, 8277.7, 314.3>)
+17:39:08 | #####
+17:43:55 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<4510.1, 8267.8, 316.5>)[HP: 97.875] hit by Infected into RightLeg(3) for 8.5 damage (MeleeZombieSoldier)
+17:44:08 | ##### PlayerList log: 4 players
+17:44:08 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4005.1, 11839.7, 375.6>)
+17:44:08 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<1975.6, 12160.8, 252.2>)
+17:44:08 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4002.3, 11839.8, 375.6>)
+17:44:08 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<4504.7, 8268.0, 320.6>)
+17:44:08 | #####
+17:49:06 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4712.1, 10354, 339.0>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+17:49:08 | ##### PlayerList log: 4 players
+17:49:08 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4709.6, 10354.9, 339.0>)
+17:49:08 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<1335.0, 12907.9, 430.2>)
+17:49:08 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4643.4, 10396.3, 339.4>)
+17:49:08 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<4532.9, 8337.1, 317.9>)
+17:49:08 | #####
+17:49:08 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4709.6, 10354.9, 339.0>)[HP: 97.75] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+17:49:11 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4710.3, 10355, 339.0>)[HP: 96.8402] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+17:54:08 | ##### PlayerList log: 4 players
+17:54:08 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4914.5, 10243.4, 339.1>)
+17:54:08 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<591.8, 13687.8, 501.7>)
+17:54:08 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4928.9, 10251.5, 339.1>)
+17:54:08 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<4692.9, 8509.1, 321.7>)
+17:54:08 | #####
+17:59:09 | ##### PlayerList log: 4 players
+17:59:09 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4916.0, 10243.8, 339.1>)
+17:59:09 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<1592.9, 13597.7, 437.8>)
+17:59:09 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4915.5, 10255.2, 339.1>)
+17:59:09 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<5207.3, 9077.9, 349.8>)
+17:59:09 | #####
+18:00:25 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<1540.3, 13573.1, 438.9>)[HP: 97.75] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+18:03:37 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<1482.7, 13615.1, 440.4>)[HP: 98.1994] hit by FallDamage
+18:04:09 | ##### PlayerList log: 4 players
+18:04:09 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4923.9, 10238.6, 339.1>)
+18:04:09 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<1507, 13626.8, 440.5>)
+18:04:09 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4927.8, 10243, 339.1>)
+18:04:09 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6083.7, 10024.5, 290.3>)
+18:04:09 | #####
+18:07:09 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<1435.4, 13658.6, 448.5>)[HP: 72.7397] hit by FallDamage
+18:09:09 | ##### PlayerList log: 4 players
+18:09:09 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4917.4, 10255.7, 339.1>)
+18:09:09 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<1595.3, 13599, 461.8>)
+18:09:09 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4924.0, 10236.9, 339.1>)
+18:09:09 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6796.4, 11227.7, 374.4>)
+18:09:09 | #####
+18:11:20 | Player "[OST] Teppo"(id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY=) has been disconnected
+18:11:37 | Player "[OST] Teppo" is connected (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY=)
+18:11:56 | [OST] Teppo conectou
+18:13:06 | Player "[U.S.A] TIOSNIPER999" is connected (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU=)
+18:13:23 | [U.S.A] TIOSNIPER999 conectou
+18:14:09 | ##### PlayerList log: 5 players
+18:14:09 | Player "[u.s.a.] eder" (id=qO6v86zRQiEWcUMcqAg4C3OOzNwwZoq4oH_GV2lufPU= pos=<4926.1, 10244, 339.1>)
+18:14:09 | Player "[U.S.A] Alexa " (id=-ao44Fi9qukqBGSmSRWIH5ZOKr0EsW7zSbLVL2j9gYg= pos=<4365.9, 14736.3, 371.4>)
+18:14:09 | Player "[U.S.A] SOBRAL " (id=n8nE5aC3jyBd5YdotK17T4sc1sjzw_iCB0A7zchkTMA= pos=<6797.1, 11227.8, 374.4>)
+18:14:09 | Player "[OST] Teppo" (id=yy99PLUp7gyxlSKJL_fRSqhjt9eRe3XslobqajofoBY= pos=<4923.8, 10236.9, 339.1>)
+18:14:09 | Player "[U.S.A] TIOSNIPER999" (id=sM6an7lgB4WAK_8DjnpwotqQsZnvvkjR5Gu9Bb2cgUU= pos=<12797.8, 9396.0, 6.0>)
+18:14:09 | #####
+
+
+**********************************EOF****************************************

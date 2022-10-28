@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!-- 
+
+		  ██████  ██▓███   ▄▄▄       ██▀███  ▓█████▄  ▄▄▄      
+		▒██    ▒ ▓██░  ██▒▒████▄    ▓██ ▒ ██▒▒██▀ ██▌▒████▄    
+		░ ▓██▄   ▓██░ ██▓▒▒██  ▀█▄  ▓██ ░▄█ ▒░██   █▌▒██  ▀█▄  
+		  ▒   ██▒▒██▄█▓▒ ▒░██▄▄▄▄██ ▒██▀▀█▄  ░▓█▄   ▌░██▄▄▄▄██ 
+		▒██████▒▒▒██▒ ░  ░ ▓█   ▓██▒░██▓ ▒██▒░▒████▓  ▓█   ▓██▒
+		▒ ▒▓▒ ▒ ░▒▓▒░ ░  ░ ▒▒   ▓▒█░░ ▒▓ ░▒▓░ ▒▒▓  ▒  ▒▒   ▓▒█░
+		░ ░▒  ░ ░░▒ ░       ▒   ▒▒ ░  ░▒ ░ ▒░ ░ ▒  ▒   ▒   ▒▒ ░
+		░  ░  ░  ░░         ░   ▒     ░░   ░  ░ ░  ░   ░   ▒   
+-->
+<Scheduler>
+	<job id='0'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>23:30:00</start>
+		<runtime>000001</runtime>
+		<loop>1</loop>
+		<cmd>say -1 Server irá reiniciar em 30 minutos.</cmd> 
+	</job>
+	<job id='1'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>23:40:00</start>
+		<runtime>000001</runtime>
+		<loop>1</loop>
+		<cmd>say -1 Server irá reiniciar em 20 minutos.</cmd>
+	</job>	
+	<job id='2'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>23:50:00</start>
+		<runtime>000001</runtime>
+		<loop>1</loop>
+		<cmd>say -1 Server irá reiniciar em 10 minutos.</cmd>
+	</job>
+	<job id='3'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>23:55:00</start>
+		<runtime>000001</runtime>
+		<loop>1</loop>
+		<cmd>say -1 Server irá reiniciar em 5 minutos.</cmd>
+	</job>	
+	<job id='4'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>23:59:00</start>
+		<runtime>000001</runtime>
+		<loop>1</loop>
+		<cmd>say -1 Server irá reiniciar em 1 minuto.</cmd>
+	</job>
+	<job id='5'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>00:00:00</start>
+		<runtime>000001</runtime>
+		<loop>0</loop>
+		<cmd>#shutdown</cmd>		
+	</job>	
+	<job id='6'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>05:30:00</start>
+		<runtime>000001</runtime>
+		<loop>1</loop>
+		<cmd>say -1 Server irá reiniciar em 30 minutos.</cmd> 
+	</job>
+	<job id='7'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>05:40:00</start>
+		<runtime>000001</runtime>
+		<loop>1</loop>
+		<cmd>say -1 Server irá reiniciar em 20 minutos.</cmd>
+	</job>	
+	<job id='8'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>05:50:00</start>
+		<runtime>000001</runtime>
+		<loop>1</loop>
+		<cmd>say -1 Server irá reiniciar em 10 minutos.</cmd>
+	</job>
+	<job id='9'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>05:55:00</start>
+		<runtime>000001</runtime>
+		<loop>1</loop>
+		<cmd>say -1 Server irá reiniciar em 5 minutos.</cmd>
+	</job>
+	<job id='10'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>05:55:00</start>
+		<runtime>000001</runtime>
+		<loop>1</loop>
+		<cmd>say -1 Server irá reiniciar em 1 minuto.</cmd>
+	</job>
+	<job id='11'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>06:00:00</start>
+		<runtime>000001</runtime>
+		<loop>0</loop>
+		<cmd>#shutdown</cmd>
+	</job>	
+	<job id='12'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>11:30:00</start>
+		<runtime>000001</runtime>
+		<loop>1</loop>
+		<cmd>say -1 Server irá reiniciar em 30 minutos.</cmd> 
+	</job>
+	<job id='13'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>11:40:00</start>
+		<runtime>000001</runtime>
+		<loop>1</loop>
+		<cmd>say -1 Server irá reiniciar em 20 minutos.</cmd>
+	</job>	
+	<job id='14'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>11:50:00</start>
+		<runtime>000001</runtime>
+		<loop>1</loop>
+		<cmd>say -1 Server irá reiniciar em 10 minutos.</cmd>
+	</job>
+	<job id='15'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>11:55:00</start>
+		<runtime>000001</runtime>
+		<loop>1</loop>
+		<cmd>say -1 Server irá reiniciar em 5 minutos.</cmd>
+	</job>	
+	<job id='16'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>11:59:00</start>
+		<runtime>000001</runtime>
+		<loop>1</loop>
+		<cmd>say -1 Server irá reiniciar em 1 minuto.</cmd>
+	</job>
+	<job id='17'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>12:00:00</start>
+		<runtime>000001</runtime>
+		<loop>0</loop>
+		<cmd>#shutdown</cmd>
+	</job>	
+	<job id='18'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>17:30:00</start>
+		<runtime>000001</runtime>
+		<loop>1</loop>
+		<cmd>say -1 Server irá reiniciar em 30 minutos.</cmd> 
+	</job>
+	<job id='19'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>17:40:00</start>
+		<runtime>000001</runtime>
+		<loop>1</loop>
+		<cmd>say -1 Server irá reiniciar em 20 minutos.</cmd>
+	</job>	
+	<job id='20'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>17:50:00</start>
+		<runtime>000001</runtime>
+		<loop>1</loop>
+		<cmd>say -1 Server irá reiniciar em 10 minutos.</cmd>
+	</job>
+	<job id='21'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>17:55:00</start>
+		<runtime>000001</runtime>
+		<loop>1</loop>
+		<cmd>say -1 Server irá reiniciar em 5 minutos.</cmd>
+	</job>		
+	<job id='22'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>17:59:00</start>
+		<runtime>000001</runtime>
+		<loop>1</loop>
+		<cmd>say -1 Server irá reiniciar em 1 minuto.</cmd>
+	</job>
+	<job id='23'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>18:00:00</start>
+		<runtime>000001</runtime>
+		<loop>0</loop>
+		<cmd>#shutdown</cmd>
+	</job>			
+</Scheduler>

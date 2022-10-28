@@ -1,0 +1,79 @@
+{
+    "M_STATIC_MARKER_ARRAY": [
+        {
+            "M_MARKER_NAME": "Zona Segura",
+            "M_ICON_PATH": "SouthAmericanPlague\\data\\icon\\safe.paa",
+            "M_COLOR": [
+                84, 184, 53
+            ],
+            "M_POSITION": [
+                3698.390137, 1, 5984.354492  
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Caçador",
+            "M_ICON_PATH": "SouthAmericanPlague\\data\\icon\\animal.paa",
+            "M_COLOR": [
+                181, 160, 24
+            ],
+            "M_POSITION": [
+               11497.024414,0,10652.675781
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+		{
+            "M_MARKER_NAME": "Traficante",
+            "M_ICON_PATH": "SouthAmericanPlague\\data\\icon\\drugs.paa",
+            "M_COLOR": [
+                87, 62, 199
+            ],
+            "M_POSITION": [
+               1165.129395,0,12324.492188
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+		{
+            "M_MARKER_NAME": "Pescador",
+            "M_ICON_PATH": "SouthAmericanPlague\\data\\icon\\fishing.paa",
+            "M_COLOR": [
+                23, 176, 207
+            ],
+            "M_POSITION": [
+               8337.392578,0,2459.256104
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+		{
+            "M_MARKER_NAME": "Mercado Negro",
+            "M_ICON_PATH": "SouthAmericanPlague\\data\\icon\\blackmarket.paa",
+            "M_COLOR": [
+                255, 0, 0
+            ],
+            "M_POSITION": [
+               6794.359863, 0, 11241.354492
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+		{
+            "M_MARKER_NAME": "Mercado Negro",
+            "M_ICON_PATH": "SouthAmericanPlague\\data\\icon\\blackmarket.paa",
+            "M_COLOR": [
+                255, 0, 0
+            ],
+            "M_POSITION": [
+               8231.244141, 0, 9023.916992
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        }
+    ],
+    "m_CanUse3DMarkers": 1,
+    "m_OwnPositionMarkerDisabled": 0,
+    "m_ForceMapItemOnly": 0
+}

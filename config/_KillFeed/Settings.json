@@ -1,0 +1,58 @@
+[
+    {
+        "deathType": "UNKNOWN",
+        "active": 1,
+        "KillPhrases": [
+            "foi morto por uma explosão."
+        ]
+    },
+    {
+        "deathType": "PVP",
+        "active": 1,
+        "KillPhrases": [
+            ""
+        ]
+    },
+    {
+        "deathType": "SUICIDE",
+        "active": 1,
+        "KillPhrases": [
+            "suicidou-se."
+        ]
+    },
+    {
+        "deathType": "BLEEDING",
+        "active": 1,
+        "KillPhrases": [
+            "sangrou até a morte."
+        ]
+    },
+    {
+        "deathType": "STARVING",
+        "active": 1,
+        "KillPhrases": [
+            "morreu de fome."
+        ]
+    },
+    {
+        "deathType": "ZOMBIE",
+        "active": 1,
+        "KillPhrases": [
+            "foi morto por um infectado."
+        ]
+    },
+    {
+        "deathType": "ANIMAL",
+        "active": 1,
+        "KillPhrases": [
+            "foi morto por um animal selvagem."
+        ]
+    },
+    {
+        "deathType": "FALL",
+        "active": 1,
+        "KillPhrases": [
+            "morreu de queda."
+        ]
+    }
+]

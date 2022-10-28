@@ -1,0 +1,47 @@
+{
+    "Version": "2.3",
+    "IsHideOutActive": 0,
+    "EnableAfkDisconnect": 1,
+    "KickAfterDelay": 30,
+    "MsgEnterZone": "VOCÊ ENTROU NA ZONA SEGURA!",
+    "MsgExitZone": "VOCÊ SAIU DA ZONA SEGURA!",
+    "MsgOnLeavingZone": "SAINDO DA ZONA EM:",
+    "MustRemoveArmband": "Você deve remover sua braçadeira para fazer seu esconderijo aparecer!",
+    "SafeAreaLocation": [
+        {
+            "SafeZoneStatut": "Green Mountain",
+            "X": 3699.35,
+            "Y": 5980.08,
+            "Radius": 600.0,
+            "Countdown": 30
+        },
+		{
+            "SafeZoneStatut": "Druzhba",
+            "X": 11486.652344,
+            "Y": 10652.450195,
+            "Radius": 50.0,
+            "Countdown": 30
+        },
+		{
+            "SafeZoneStatut": "Mys Golova",
+            "X": 8328.228516,
+            "Y": 2467.875488,
+            "Radius": 50.0,
+            "Countdown": 30
+        }
+    ],
+    "CleanUpTimer": 1200,
+    "ObjectsToDelete": [
+        "Paper"
+    ],
+    "SZSteamUIDs": [
+        "76561198966041256",
+		"76561198339876709",
+		"76561199061045416"
+    ],
+    "BlackListedItemInStash": [
+        "Apple",
+        "Plum",
+        "Plier"
+    ]
+}

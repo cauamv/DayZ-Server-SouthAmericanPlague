@@ -1,0 +1,829 @@
+
+
+=====================================================================
+== C:\SERVICES\ni7063137_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe
+== "C:\SERVICES\ni7063137_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe" -ip=31.214.158.194 -port=12800 -cpuCount=4 -limitFPS=100 -adminlog -config=serverDZ.cfg "-mod=@CF;@AutoRUN;@dbo_surfaces;@DabsFramework;@DayZEditorLoader;@BuilderItems;@BaseBuildingPlus;@CodeLock;@Breachingcharge;@VPPAdminTools;@TraderPlus;@InventoryDump;@BurnAlive;@GunnerTruckOshkosh;@MuchStuffPack;@SNAFU;@CannabisPlus;@MMG;@VanillaPlusPlusMap;@UnknownGhillieMod;@MassA2Assets;@SchanaParty;@PseudoGiant;@InventoryMoveSounds;@Notifications;@AdvancedWeaponScopes;@CarsForAll;@SchanaModGlobalChat;@StaminaSettings;@DrugsPLUS;@GoreZ;@PackSouthAmericanPlague;@RedFalcon" -profiles=C:\SERVICES\ni7063137_1_SHARE\ftproot\dayzstandalone/config -BEPath=C:\SERVICES\ni7063137_1_SHARE\ftproot\dayzstandalone\battleye -noFilePatching -nologs -freezecheck
+=====================================================================
+Exe timestamp: 2022/07/28 08:30:35
+Current time:  2022/10/01 17:05:18
+
+Version 1.18.155069
+17:05:18.885 [Inputs] Loading inputs default "bin/constants.xml"
+17:05:18.885 [Inputs] Loading inputs default "bin/specific.xml"
+17:05:18.885 [Inputs] Loading inputs default "BBP_keybind/data/modded_Inputs.xml"
+17:05:18.885 [Inputs] Loading inputs default "InventoryMoveSounds/Scripts/Data/Inputs.xml"
+17:05:18.885 [Inputs] Loading inputs default "SIX_Autorun/Scripts/Inputs.xml"
+17:05:18.885 [Inputs] Loading inputs default "SpardaTextura/inputs/Inputs.xml"
+17:05:18.885 [Inputs] Loading inputs default "VanillaPPMap/data/modded_Inputs.xml"
+17:05:18.885 [Inputs] Loading inputs default "VehiclesVipNemesis/inputs/Inputs.xml"
+17:05:18.885 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+17:05:18.901 [Inputs] Loading inputs default "CarLock/scripts/3_Game/inputs.xml"
+17:05:18.901 [Inputs] Loading inputs default "Ghost/InventoryDump/Client/Data/modded_inputs.xml"
+17:05:18.901 [Inputs] Loading inputs default "Notifications/inputs/inputs.xml"
+17:05:18.901 [Inputs] Loading inputs default "RFFSHeli_Core/modded_Inputs.xml"
+17:05:18.901 [Inputs] Loading inputs default "SchanaModGlobalChat/Data/Inputs.xml"
+17:05:18.901 [Inputs] Loading inputs default "SchanaModParty/Data/Inputs.xml"
+17:05:18.901 !!! [Inputs] Cannot load inputs default "", file does not exist
+17:05:18.901 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+17:05:18.901 [Inputs] Loading inputs cfg "C:\SERVICES\ni7063137_1_SHARE\ftproot\dayzstandalone/config\Users\Survivor\Server.core.xml"
+17:05:18.916 [Inputs] Exporting inputs cfg "C:\SERVICES\ni7063137_1_SHARE\ftproot\dayzstandalone/config\Users\Survivor\Server.core.xml"
+17:05:53.215 [CE][Hive] :: Initializing OFFLINE
+17:05:53.215 [CE][Hive] :: Loading core data ... 
+17:05:53.215 [CE][CoreData] :: 7 root classes, 18 defaults, 0 updaters...
+17:05:59.42 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+17:05:59.42 [CE][TypeSetup] :: 470 classes setuped...
+17:05:59.58 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+17:05:59.58 [CE][TypeSetup] :: 377 classes setuped...
+17:06:01.73 [CE][RegisterBind] :: 0 classes binded...
+17:06:01.73 [CE][RegisterConfig] :: 17183 config classes registered, 0 sub-counters...
+17:06:01.73 [CE][Hive] :: Loading map data ... 
+17:06:01.73 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+17:06:01.135 [CE][LoadPrototype] :: loaded 368 prototypes
+17:06:01.135   754 containers, 9611 points
+17:06:01.135   32 dispatches, 115 proxies
+17:06:01.135 !!! [CE][LoadPrototype] 14 groups have no points...
+17:06:01.135 !!![CE][LoadPrototype]  2 groups have wrong points...
+17:06:01.135 [CE][LoadPrototype] :: last group name: StaticObj_Wreck_Ural_DE...
+17:06:01.151 [CE][LoadPrototype] :: loaded 0 prototypes
+17:06:01.151   0 containers, 0 points
+17:06:01.151   0 dispatches, 0 proxies
+17:06:01.151 [CE][LoadPrototype] :: last group name: Rail9...
+17:06:02.198 [CE][LoadMap] "Group" :: loaded 11620 groups, groups failed: 0, largest group range: 34.2
+17:06:02.213 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.2
+17:06:02.573 [CE][Links] found 1888 total links between groups, of 11620
+17:06:02.573 [CE][LoadClusters] "Cluster" :: Loading files...
+17:06:02.776 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+17:06:02.979 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+17:06:03.166 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+17:06:03.354 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+17:06:03.432 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17347 instances
+17:06:03.447 [CE][Storage] ver:21 stamp:152280, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin"
+17:06:03.447 [CE][Storage] ver:21 stamp:152059, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\types.001"
+17:06:03.447 [CE][Storage] ver:21 stamp:152060, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\types.002"
+17:06:03.447 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin".
+17:06:03.682 !!! [CE][offlineDB] :: No Shutdown message present.
+17:06:03.682 [CE][offlineDB] :: Loaded 46 dynamic events 302 total types.
+17:06:03.713 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+17:06:03.744 [CE][Storage] ver:21 stamp:152280, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin"
+17:06:03.744 [CE][Storage] ver:21 stamp:152059, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\events.001"
+17:06:03.744 [CE][Storage] ver:21 stamp:152060, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\events.002"
+17:06:03.744 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin".
+17:06:03.744 [CE][DynamicEvent] Load  Events:[46] Primary spawners: 46 Secondary spawners: 3
+17:06:03.744 [CE][Storage] ver:25 stamp:152280, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin"
+17:06:03.744 [CE][Storage] ver:25 stamp:152059, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.001"
+17:06:03.744 [CE][Storage] ver:25 stamp:152060, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.002"
+17:06:03.744 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin" 830 items.
+17:06:04.322   830 items loaded. (0 failed)
+17:06:04.322 [CE][Storage] ver:25 stamp:152280, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin"
+17:06:04.322 [CE][Storage] ver:25 stamp:152059, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.001"
+17:06:04.322 [CE][Storage] ver:25 stamp:152060, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.002"
+17:06:04.322 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin" 1767 items.
+17:06:05.166   1767 items loaded. (0 failed)
+17:06:05.166 [CE][Storage] ver:25 stamp:152280, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin"
+17:06:05.166 [CE][Storage] ver:25 stamp:152059, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.001"
+17:06:05.166 [CE][Storage] ver:25 stamp:152060, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.002"
+17:06:05.166 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin" 2394 items.
+17:06:06.56   2394 items loaded. (0 failed)
+17:06:06.56 [CE][Storage] ver:25 stamp:152280, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.bin"
+17:06:06.56 [CE][Storage] ver:25 stamp:152059, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.001"
+17:06:06.56 [CE][Storage] ver:25 stamp:152060, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.002"
+17:06:06.56 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.bin" 2372 items.
+17:06:07.103   2372 items loaded. (0 failed)
+17:06:07.103 [CE][Storage] ver:25 stamp:152280, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.bin"
+17:06:07.103 [CE][Storage] ver:25 stamp:152059, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.001"
+17:06:07.118 [CE][Storage] ver:25 stamp:152060, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.002"
+17:06:07.118 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.bin" 1872 items.
+17:06:08.24   1872 items loaded. (0 failed)
+17:06:08.24 [CE][Storage] ver:25 stamp:152280, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.bin"
+17:06:08.24 [CE][Storage] ver:25 stamp:152059, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.001"
+17:06:08.24 [CE][Storage] ver:25 stamp:152060, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.002"
+17:06:08.24 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.bin" 2031 items.
+17:06:08.774   2031 items loaded. (0 failed)
+17:06:08.774 [CE][Storage] ver:25 stamp:152280, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.bin"
+17:06:08.774 [CE][Storage] ver:25 stamp:152059, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.001"
+17:06:08.774 [CE][Storage] ver:25 stamp:152060, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.002"
+17:06:08.774 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.bin" 1486 items.
+17:06:09.321   1486 items loaded. (0 failed)
+17:06:09.337 [CE][Storage] ver:25 stamp:152280, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.bin"
+17:06:09.337 [CE][Storage] ver:25 stamp:152059, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.001"
+17:06:09.337 [CE][Storage] ver:25 stamp:152060, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.002"
+17:06:09.337 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.bin" 1486 items.
+17:06:09.977   1486 items loaded. (0 failed)
+17:06:09.977 [CE][Storage] ver:25 stamp:152280, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.bin"
+17:06:09.977 [CE][Storage] ver:25 stamp:152059, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.001"
+17:06:09.977 [CE][Storage] ver:25 stamp:152060, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.002"
+17:06:09.977 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.bin" 2113 items.
+17:06:10.789   2113 items loaded. (0 failed)
+17:06:10.789 [CE][Storage] ver:25 stamp:152280, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.bin"
+17:06:10.789 [CE][Storage] ver:25 stamp:152059, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.001"
+17:06:10.789 [CE][Storage] ver:25 stamp:152060, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.002"
+17:06:10.789 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.bin" 2665 items.
+17:06:12.70   2665 items loaded. (0 failed)
+17:06:12.70 [CE][Storage] ver:25 stamp:152280, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.bin"
+17:06:12.70 [CE][Storage] ver:25 stamp:152059, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.001"
+17:06:12.70 [CE][Storage] ver:25 stamp:152060, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.002"
+17:06:12.70 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.bin" 1814 items.
+17:06:12.805   1814 items loaded. (0 failed)
+17:06:12.805 [CE][Storage] ver:25 stamp:152280, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.bin"
+17:06:12.805 [CE][Storage] ver:25 stamp:152059, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.001"
+17:06:12.805 [CE][Storage] ver:25 stamp:152060, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.002"
+17:06:12.805 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.bin" 229 items.
+17:06:13.211   229 items loaded. (0 failed)
+17:06:13.211 [CE][Storage] ver:26 stamp:152280, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\building.bin"
+17:06:13.226 [CE][Storage] ver:26 stamp:152059, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\building.001"
+17:06:13.226 [CE][Storage] ver:26 stamp:152060, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\building.002"
+17:06:13.226 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\building.bin" 1 items.
+17:06:13.226   1 items loaded. (0 failed)
+17:06:13.226 [CE][Storage] ver:25 stamp:152280, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.bin"
+17:06:13.226 [CE][Storage] ver:25 stamp:152059, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.001"
+17:06:13.226 [CE][Storage] ver:25 stamp:152060, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.002"
+17:06:13.226 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.bin" 180 items.
+17:06:13.898   180 items loaded. (0 failed)
+17:06:13.914 [CE][Hive] :: Storage load took:10.17 seconds, recovery stamp:152280
+17:06:13.914   entity: 26283, building: 1
+17:06:13.914   no lifetime: 67
+17:06:13.914   pathgraph's: 726
+17:06:13.929 [CE][Hive] :: Initializing ... 
+17:06:13.960 [CE][InitializeMap] :: initialized: 1
+17:06:13.960 [CE][Hive] :: Initializing spawners ... 
+17:06:14.164 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+17:06:14.164 [CE][DE][SPAWNS] :: Total positions: 1165
+17:06:14.164 [CE][DE][GROUPS] :: Total eventgroups defined: 21, Eventgroups in use: 21
+17:06:16.54 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:27715, Total in Map: 20322 at 0 (sec)
+17:06:16.54   tests:0, repeats:0 fails:0, overtime:0
+17:06:16.69 [CE][DynEvent] :: 46 types
+17:06:16.69 [00] AmbientHen
+17:06:16.69   Primary Spawner: "Ambient", active: yes, repeat: 1
+17:06:16.69 [01] AnimalBear
+17:06:16.69   Primary Spawner: "Animal", active: yes, repeat: 1
+17:06:16.69 [02] AnimalCow
+17:06:16.69   Primary Spawner: "Animal", active: yes, repeat: 1
+17:06:16.69 [03] AnimalDeer
+17:06:16.69   Primary Spawner: "Animal", active: yes, repeat: 1
+17:06:16.69 [04] AnimalGoat
+17:06:16.69   Primary Spawner: "Animal", active: yes, repeat: 1
+17:06:16.69 [05] AnimalPig
+17:06:16.69   Primary Spawner: "Animal", active: yes, repeat: 1
+17:06:16.69 [06] AnimalRoeDeer
+17:06:16.69   Primary Spawner: "Animal", active: yes, repeat: 1
+17:06:16.69 [07] AnimalSheep
+17:06:16.69   Primary Spawner: "Animal", active: yes, repeat: 1
+17:06:16.69 [08] AnimalWildBoar
+17:06:16.69   Primary Spawner: "Animal", active: yes, repeat: 1
+17:06:16.69 [09] AnimalWolf
+17:06:16.69   Primary Spawner: "Animal", active: yes, repeat: 1
+17:06:16.69 [10] InfectedBoss
+17:06:16.69   Primary Spawner: "Infected", active: yes, repeat: 1
+17:06:16.69 [11] InfectedArmy
+17:06:16.69   Primary Spawner: "Infected", active: yes, repeat: 1
+17:06:16.69 [12] InfectedArmyHard
+17:06:16.69   Primary Spawner: "Infected", active: yes, repeat: 1
+17:06:16.69 [13] InfectedCity
+17:06:16.69   Primary Spawner: "Infected", active: yes, repeat: 1
+17:06:16.69 [14] InfectedCityTier1
+17:06:16.69   Primary Spawner: "Infected", active: yes, repeat: 1
+17:06:16.69 [15] InfectedFirefighter
+17:06:16.69   Primary Spawner: "Infected", active: yes, repeat: 1
+17:06:16.69 [16] InfectedIndustrial
+17:06:16.69   Primary Spawner: "Infected", active: yes, repeat: 1
+17:06:16.69 [17] InfectedMedic
+17:06:16.69   Primary Spawner: "Infected", active: yes, repeat: 1
+17:06:16.69 [18] InfectedNBC
+17:06:16.69   Primary Spawner: "Infected", active: yes, repeat: 1
+17:06:16.69 [19] InfectedNBCYellow
+17:06:16.69   Primary Spawner: "Infected", active: yes, repeat: 1
+17:06:16.69 [20] InfectedPolice
+17:06:16.69   Primary Spawner: "Infected", active: yes, repeat: 1
+17:06:16.69 [21] InfectedPoliceHard
+17:06:16.69   Primary Spawner: "Infected", active: yes, repeat: 1
+17:06:16.69 [22] InfectedPrisoner
+17:06:16.69   Primary Spawner: "Infected", active: yes, repeat: 1
+17:06:16.69 [23] InfectedReligious
+17:06:16.69   Primary Spawner: "Infected", active: yes, repeat: 1
+17:06:16.69 [24] InfectedSolitude
+17:06:16.69   Primary Spawner: "Infected", active: yes, repeat: 1
+17:06:16.69 [25] InfectedVillage
+17:06:16.69   Primary Spawner: "Infected", active: yes, repeat: 1
+17:06:16.69 [26] InfectedVillageTier1
+17:06:16.69   Primary Spawner: "Infected", active: yes, repeat: 1
+17:06:16.69 [27] ItemPlanks
+17:06:16.69   Primary Spawner: "Item", active: yes, repeat: 1
+17:06:16.69 [28] Loot
+17:06:16.69   Primary Spawner: "Loot", active: yes, repeat: 2
+17:06:16.69 [29] StaticContaminatedArea
+17:06:16.69   Primary Spawner: "Static", active: yes, repeat: 1
+17:06:16.69 [30] StaticHeliCrash
+17:06:16.69   Primary Spawner: "Static", active: yes, repeat: 1
+17:06:16.69   Secondary Spawner: "Infected", active: yes, repeat: 1
+17:06:16.69 [31] StaticPoliceCar
+17:06:16.69   Primary Spawner: "Static", active: yes, repeat: 1
+17:06:16.69   Secondary Spawner: "Infected", active: yes, repeat: 1
+17:06:16.69 [32] StaticTrain
+17:06:16.69   Primary Spawner: "Static", active: yes, repeat: 1
+17:06:16.69   Secondary Spawner: "Infected", active: yes, repeat: 1
+17:06:16.69 [33] TrajectoryApple
+17:06:16.69   Primary Spawner: "Trajectory", active: yes, repeat: 1
+17:06:16.69 [34] TrajectoryConiferous
+17:06:16.69   Primary Spawner: "Trajectory", active: yes, repeat: 1
+17:06:16.69 [35] TrajectoryDeciduous
+17:06:16.69   Primary Spawner: "Trajectory", active: yes, repeat: 1
+17:06:16.69 [36] TrajectoryHumus
+17:06:16.69   Primary Spawner: "Trajectory", active: yes, repeat: 1
+17:06:16.69 [37] TrajectoryPear
+17:06:16.69   Primary Spawner: "Trajectory", active: yes, repeat: 1
+17:06:16.69 [38] TrajectoryPlum
+17:06:16.69   Primary Spawner: "Trajectory", active: yes, repeat: 1
+17:06:16.69 [39] TrajectoryStones
+17:06:16.69   Primary Spawner: "Trajectory", active: yes, repeat: 1
+17:06:16.69 [40] VehicleCivilianSedan
+17:06:16.69   Primary Spawner: "Vehicle", active: yes, repeat: 1
+17:06:16.69 [41] VehicleHatchback02
+17:06:16.69   Primary Spawner: "Vehicle", active: yes, repeat: 1
+17:06:16.69 [42] VehicleOffroadHatchback
+17:06:16.69   Primary Spawner: "Vehicle", active: yes, repeat: 1
+17:06:16.69 [43] VehicleSedan02
+17:06:16.69   Primary Spawner: "Vehicle", active: yes, repeat: 1
+17:06:16.69 [44] VehicleTruck01
+17:06:16.69   Primary Spawner: "Vehicle", active: yes, repeat: 1
+17:06:16.69 [45] VehicleHelicopter
+17:06:16.69   Primary Spawner: "Vehicle", active: yes, repeat: 1
+17:06:16.69 [CE][Hive] :: Initializing of spawners done.
+17:06:16.69 [CE][Hive] :: Init sequence finished.
+17:06:16.69 Player connect enabled
+17:06:16.929 [IdleMode] Entering IN - save processed
+17:06:24.330 [UNLOCK] Server was unlocked.
+18:01:10.389 [Login]: Adding player LwShutt (25191432) to login queue at position 0
+18:01:10.389 [LoginMachine]: Add player LwShutt (25191432 186.194.222.4:12802)
+18:01:10.389 [StateMachine]: Player LwShutt (dpnid 25191432 uid ) Entering AuthPlayerLoginState
+18:01:12.278 [StateMachine]: Player LwShutt (dpnid 25191432 uid ) Entering WaitAuthPlayerLoginState
+18:01:13.997 Player LwShutt connected (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=).
+18:01:13.997 Player "LwShutt" is connected (steamID=76561199378753491)
+18:01:14.12 [StateMachine]: Player LwShutt (dpnid 25191432 uid ) Entering WaitPlayerAssignedLoginState
+18:01:14.684 [StateMachine]: Player LwShutt (dpnid 25191432 uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) Entering DBGetLoginTimeLoginState
+18:01:14.716 [StateMachine]: Player LwShutt (dpnid 25191432 uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) Entering DBWaitLoginTimeLoginState
+18:01:14.935 [IdleMode] Leaving OUT
+18:01:19.731 [StateMachine]: Player LwShutt (dpnid 25191432 uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) Entering DBGetCharacterLoginState
+18:01:19.773 [StateMachine]: Player LwShutt (dpnid 25191432 uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) Entering CreateNetObjectsLoginState
+18:01:19.793 [StateMachine]: Player LwShutt (dpnid 25191432 uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) Entering PreloadCamLoginState
+18:01:19.793 [StateMachine]: Player LwShutt (dpnid 25191432 uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) Entering WaitPreloadCamLoginState
+18:01:28.53 [StateMachine]: Player LwShutt (dpnid 25191432 uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) Entering GetLoadedCharLoginState
+18:01:28.115 <LOAD EXISTING CHAR>:
+    charID 51
+    playerID 51
+    dpnid 25191432
+    uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=
+18:01:38.972 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "Mag_SVD_10Rnd"
+18:01:39.82 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "SNAFU_PL14HQP_Mag"
+18:01:39.191 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "Snafu_ScarH_Tan_GUN"
+18:01:39.300 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "SNAFU_Trenchgun"
+18:01:39.410 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "SKS"
+18:01:39.519 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "Ammo_556x45"
+18:01:39.628 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "Ammo_45ACP"
+18:01:39.738 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "Ammo_545x39"
+18:01:39.847 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "TLRLight"
+18:01:39.956 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "Snafu_ScarH_Snow_GUN"
+18:01:40.66 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "SNAFUVECTOR_45acp_Mag"
+18:01:40.175 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "UniversalLight"
+18:01:40.284 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "Mag_1911_7Rnd"
+18:01:40.394 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "Snafu_ScarH_Black_GUN"
+18:01:40.503 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "SNAFUUzi_72rdMag"
+18:01:40.613 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "CZ61"
+18:01:40.722 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "SNAFUVECTOR_9mm_Mag"
+18:01:40.831 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "AmmoBox_380_35rnd"
+18:01:40.941 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "Snafu_ScarH_25RND_Mag_DKMC"
+18:01:41.50 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "SR3_Vikhr_Gun"
+18:02:11.07 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+18:03:12.457 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+18:04:40.73 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+18:04:40.729 [CE][Links] found 0 total links between groups, of 1
+18:04:40.729 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+18:05:07.187 [CE][Links] found 0 total links between groups, of 2
+18:05:07.187 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_742_Red_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+18:05:07.187 [CE][Links] found 0 total links between groups, of 3
+18:05:07.187 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 4, deloot: 0, containermaxsum: 15
+18:05:07.187 [CE][Links] found 0 total links between groups, of 4
+18:05:07.187 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+18:05:07.187 [CE][Links] found 0 total links between groups, of 5
+18:05:07.187 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+18:05:07.187 [CE][Links] found 0 total links between groups, of 6
+18:05:07.187 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+18:05:07.202 [CE][Links] found 2 total links between groups, of 7
+18:05:07.202 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+18:05:07.202 [CE][Links] found 2 total links between groups, of 8
+18:05:07.202 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 4, deloot: 0, containermaxsum: 15
+18:05:07.202 [CE][Links] found 2 total links between groups, of 9
+18:05:07.202 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 3, deloot: 0, containermaxsum: 15
+18:05:07.202 [CE][Links] found 6 total links between groups, of 10
+18:05:07.202 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+18:05:07.202 [CE][Links] found 6 total links between groups, of 11
+18:05:07.202 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+18:05:07.202 [CE][Links] found 6 total links between groups, of 12
+18:05:07.202 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+18:05:07.202 [CE][Links] found 8 total links between groups, of 13
+18:05:07.202 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Bo_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
+18:06:07.653 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+18:06:08.309 [CE][Links] found 8 total links between groups, of 14
+18:06:08.309 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 6
+18:06:08.309 [CE][Links] found 8 total links between groups, of 15
+18:06:08.309 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+18:07:35.264 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+18:07:35.920 [CE][Links] found 8 total links between groups, of 16
+18:07:35.920 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 6
+18:09:02.847 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+18:09:03.503 [CE][Links] found 8 total links between groups, of 17
+18:09:03.503 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 6
+18:10:04.297 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+18:11:31.851 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+18:11:32.180 [CE][Links] found 8 total links between groups, of 18
+18:11:32.180 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8_Crashed, lootmin: 10, lootmax: 15, wanted: 13, deloot: 2, containermaxsum: 15
+18:12:59.432 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+18:13:25.129 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "MMG_tt_vest_black"
+18:14:27.16 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+18:15:54.611 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+18:16:56.61 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+18:17:22.852 [CE][Links] found 8 total links between groups, of 19
+18:17:22.852 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 6
+18:18:23.651 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+18:19:51.247 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+18:21:18.829 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+18:22:46.385 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+18:23:47.830 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+18:25:15.414 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+18:25:40.440 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "SNAFU_SKS"
+18:26:42.994 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+18:28:10.578 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+18:28:10.906 [CE][Links] found 8 total links between groups, of 20
+18:28:10.906 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 14, deloot: 2, containermaxsum: 15
+18:29:35.866 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "MMG_JPC_Vest_multicamblack"
+18:29:35.866 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "MMG_JPC_Vest_multicamblack"
+18:29:38.162 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+18:29:38.818 [CE][Links] found 8 total links between groups, of 21
+18:29:38.818 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+18:30:39.606 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+18:32:07.159 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+18:33:34.743 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+18:35:02.306 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+18:36:29.804 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+18:37:31.254 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+18:38:58.848 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+18:38:59.504 [CE][Links] found 8 total links between groups, of 22
+18:38:59.504 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 6
+18:40:26.432 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+18:40:26.760 [CE][Links] found 8 total links between groups, of 23
+18:40:26.760 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 12, deloot: 2, containermaxsum: 15
+18:41:53.930 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+18:43:21.514 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+18:44:22.963 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+18:45:50.557 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+18:45:51.213 [CE][Links] found 8 total links between groups, of 24
+18:45:51.213 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 6
+18:47:18.141 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+18:47:18.797 [CE][Links] found 8 total links between groups, of 25
+18:47:18.797 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 6
+18:48:45.741 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+18:50:13.319 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+18:51:14.769 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+18:51:41.185 [CE][Links] found 8 total links between groups, of 26
+18:51:41.185 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 12, deloot: 2, containermaxsum: 15
+18:51:41.514 [CE][Links] found 8 total links between groups, of 27
+18:51:41.514 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 6
+18:52:42.308 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+18:52:42.964 [CE][Links] found 8 total links between groups, of 28
+18:52:42.964 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+18:52:42.964 [CE][Links] found 8 total links between groups, of 29
+18:52:42.964 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+18:53:11.406 !!! [CE][Point] Removing 13679.458008, 14945.809570 from PlumTree1
+18:53:36.884 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "MMG_combatpants_tan"
+18:53:36.884 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "MMG_combatpants_tan"
+18:54:09.903 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+18:54:10.559 [CE][Links] found 8 total links between groups, of 30
+18:54:10.559 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+18:55:37.472 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+18:55:38.128 [CE][Links] found 8 total links between groups, of 31
+18:55:38.128 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+18:56:33.47 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "MMG_tt_vest_green"
+18:57:04.972 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+18:58:06.422 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+18:59:33.991 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:01:01.575 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:02:29.224 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+19:02:55.578 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "GorkaPants_Summer"
+19:03:56.814 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+19:03:57.470 [CE][Links] found 8 total links between groups, of 32
+19:03:57.470 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+19:04:58.264 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+19:06:25.992 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+19:07:53.557 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:07:53.885 [CE][Links] found 8 total links between groups, of 33
+19:07:53.885 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 13, deloot: 2, containermaxsum: 15
+19:09:21.162 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+19:10:48.747 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:11:50.179 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+19:13:17.763 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+19:13:42.804 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "MMG_combatpants_multicam_tropic"
+19:13:42.804 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "MMG_combatpants_multicam_tropic"
+19:13:42.804 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "MMG_combatpants_multicam_tropic"
+19:13:42.804 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "MMG_combatpants_multicam_tropic"
+19:14:45.347 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:16:12.933 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:16:13.589 [CE][Links] found 8 total links between groups, of 34
+19:16:13.589 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 6
+19:17:38.96 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "MMG_MK_III_Armor_multicam_tropic"
+19:17:40.501 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:18:41.952 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:20:09.534 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+19:20:09.862 [CE][Links] found 8 total links between groups, of 35
+19:20:09.862 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8_Crashed, lootmin: 10, lootmax: 15, wanted: 11, deloot: 2, containermaxsum: 15
+19:21:37.124 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+19:23:04.703 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+19:23:31.494 !!! [CE][Point] Removing 9467.626953, 8854.536133 from Land_Shed_W3
+19:23:31.494 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "Msp_MedicBag_Black"
+19:24:32.309 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:24:59.423 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "MMG_tt_vest_dark_woodland"
+19:24:59.423 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "MMG_tt_vest_dark_woodland"
+19:24:59.423 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "MMG_tt_vest_dark_woodland"
+19:24:59.423 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "MMG_tt_vest_dark_woodland"
+19:24:59.423 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "MMG_tt_vest_dark_woodland"
+19:24:59.423 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "MMG_tt_vest_dark_woodland"
+19:25:33.759 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+19:26:00.545 [CE][Links] found 8 total links between groups, of 36
+19:26:00.545 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+19:27:01.346 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:27:26.262 !!! [CE][Point] Removing 10466.238281, 2089.677246 from Land_Shed_M3
+19:28:28.921 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:29:56.513 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+19:31:24.80 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+19:31:24.408 [CE][Links] found 8 total links between groups, of 37
+19:31:24.408 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8_Crashed, lootmin: 10, lootmax: 15, wanted: 12, deloot: 2, containermaxsum: 15
+19:32:25.530 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+19:32:52.316 [CE][Links] found 8 total links between groups, of 38
+19:32:52.316 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+19:33:53.110 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+19:35:20.646 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+19:36:48.225 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:38:15.809 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+19:38:16.465 [CE][Links] found 8 total links between groups, of 39
+19:38:16.465 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+19:39:17.211 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+19:39:43.970 [CE][Links] found 8 total links between groups, of 40
+19:39:43.970 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+19:39:43.970 [CE][Links] found 8 total links between groups, of 41
+19:39:43.970 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 6
+19:40:44.685 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:40:45.341 [CE][Links] found 8 total links between groups, of 42
+19:40:45.341 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 6
+19:42:12.221 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+19:42:12.877 [CE][Links] found 8 total links between groups, of 43
+19:42:12.877 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 6
+19:43:39.711 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+19:45:07.274 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+19:45:08.258 [CE][Links] found 8 total links between groups, of 44
+19:45:08.258 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_742_Blue_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+19:45:08.258 [CE][Links] found 10 total links between groups, of 45
+19:45:08.258 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Ural_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.258 [CE][Links] found 10 total links between groups, of 46
+19:45:08.258 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+19:45:08.258 [CE][Links] found 10 total links between groups, of 47
+19:45:08.258 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.258 [CE][Links] found 10 total links between groups, of 48
+19:45:08.258 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.258 [CE][Links] found 10 total links between groups, of 49
+19:45:08.258 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.258 [CE][Links] found 10 total links between groups, of 50
+19:45:08.258 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+19:45:08.274 [CE][Links] found 10 total links between groups, of 51
+19:45:08.274 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.274 [CE][Links] found 10 total links between groups, of 52
+19:45:08.274 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.274 [CE][Links] found 10 total links between groups, of 53
+19:45:08.274 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Train_Wagon_Flat_Industrial_Planks_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.274 [CE][Links] found 10 total links between groups, of 54
+19:45:08.274 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.274 [CE][Links] found 10 total links between groups, of 55
+19:45:08.274 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.274 [CE][Links] found 12 total links between groups, of 56
+19:45:08.274 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Bo_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.274 [CE][Links] found 14 total links between groups, of 57
+19:45:08.274 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 3, deloot: 0, containermaxsum: 15
+19:45:08.274 [CE][Links] found 16 total links between groups, of 58
+19:45:08.274 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 3, deloot: 0, containermaxsum: 15
+19:45:08.289 [CE][Links] found 18 total links between groups, of 59
+19:45:08.289 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 4, deloot: 0, containermaxsum: 15
+19:45:08.289 [CE][Links] found 20 total links between groups, of 60
+19:45:08.289 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 3, deloot: 0, containermaxsum: 15
+19:45:08.289 [CE][Links] found 20 total links between groups, of 61
+19:45:08.289 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_742_Blue_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.289 [CE][Links] found 20 total links between groups, of 62
+19:45:08.289 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Tanker_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.289 [CE][Links] found 20 total links between groups, of 63
+19:45:08.289 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Tanker_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.289 [CE][Links] found 20 total links between groups, of 64
+19:45:08.289 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Tanker_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+19:45:08.289 [CE][Links] found 20 total links between groups, of 65
+19:45:08.289 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.289 [CE][Links] found 20 total links between groups, of 66
+19:45:08.289 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.305 [CE][Links] found 20 total links between groups, of 67
+19:45:08.305 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.305 [CE][Links] found 20 total links between groups, of 68
+19:45:08.305 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.305 [CE][Links] found 20 total links between groups, of 69
+19:45:08.305 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.305 [CE][Links] found 20 total links between groups, of 70
+19:45:08.305 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.305 [CE][Links] found 20 total links between groups, of 71
+19:45:08.305 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.305 [CE][Links] found 20 total links between groups, of 72
+19:45:08.305 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_742_Red_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.305 [CE][Links] found 20 total links between groups, of 73
+19:45:08.305 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+19:45:08.305 [CE][Links] found 20 total links between groups, of 74
+19:45:08.305 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+19:45:08.305 [CE][Links] found 20 total links between groups, of 75
+19:45:08.305 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+19:45:08.320 [CE][Links] found 20 total links between groups, of 76
+19:45:08.320 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.320 [CE][Links] found 20 total links between groups, of 77
+19:45:08.320 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.320 [CE][SpawnRandomLoot] DE "StaticTrain" is set to spawn loot, but there is no group configured
+19:45:08.320 [CE][SpawnRandomLoot] DE "StaticTrain" is set to spawn loot, but there is no group configured
+19:45:08.320 [CE][Links] found 20 total links between groups, of 78
+19:45:08.320 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.320 [CE][Links] found 20 total links between groups, of 79
+19:45:08.320 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.320 [CE][Links] found 20 total links between groups, of 80
+19:45:08.320 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.336 [CE][Links] found 22 total links between groups, of 81
+19:45:08.336 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
+19:45:08.336 [CE][Links] found 24 total links between groups, of 82
+19:45:08.336 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
+19:45:08.336 [CE][Links] found 26 total links between groups, of 83
+19:45:08.336 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
+19:45:08.336 [CE][Links] found 28 total links between groups, of 84
+19:45:08.336 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
+19:45:08.336 [CE][Links] found 30 total links between groups, of 85
+19:45:08.336 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
+19:45:08.336 [CE][Links] found 32 total links between groups, of 86
+19:45:08.336 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
+19:45:08.336 [CE][Links] found 32 total links between groups, of 87
+19:45:08.336 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+19:45:08.352 [CE][Links] found 32 total links between groups, of 88
+19:45:08.352 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Tanker_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+19:45:08.352 [CE][Links] found 32 total links between groups, of 89
+19:45:08.352 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Tanker_Mil_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+19:46:08.661 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+19:47:36.210 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+19:47:36.538 [CE][Links] found 32 total links between groups, of 90
+19:47:36.538 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 13, deloot: 2, containermaxsum: 15
+19:49:03.710 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:50:31.294 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:50:31.950 [CE][Links] found 32 total links between groups, of 91
+19:50:31.950 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+19:51:58.707 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+19:52:19.718 [Login]: Adding player Gusguera (63507737) to login queue at position 0
+19:52:19.718 [LoginMachine]: Add player Gusguera (63507737 189.15.239.18:12802)
+19:52:19.718 [StateMachine]: Player Gusguera (dpnid 63507737 uid ) Entering AuthPlayerLoginState
+19:52:21.373 [StateMachine]: Player Gusguera (dpnid 63507737 uid ) Entering WaitAuthPlayerLoginState
+19:52:22.920 Player Gusguera connected (id=eW1VJbS_z5fpjCEJWj0QCfrRcshlxSt34fjWTtan4Fg=).
+19:52:22.920 Player "Gusguera" is connected (steamID=76561198385058477)
+19:52:22.936 [StateMachine]: Player Gusguera (dpnid 63507737 uid ) Entering WaitPlayerAssignedLoginState
+19:52:24.732 [StateMachine]: Player Gusguera (dpnid 63507737 uid eW1VJbS_z5fpjCEJWj0QCfrRcshlxSt34fjWTtan4Fg=) Entering DBGetLoginTimeLoginState
+19:52:24.810 [StateMachine]: Player Gusguera (dpnid 63507737 uid eW1VJbS_z5fpjCEJWj0QCfrRcshlxSt34fjWTtan4Fg=) Entering DBWaitLoginTimeLoginState
+19:52:29.825 [StateMachine]: Player Gusguera (dpnid 63507737 uid eW1VJbS_z5fpjCEJWj0QCfrRcshlxSt34fjWTtan4Fg=) Entering DBGetCharacterLoginState
+19:52:29.856 [StateMachine]: Player Gusguera (dpnid 63507737 uid eW1VJbS_z5fpjCEJWj0QCfrRcshlxSt34fjWTtan4Fg=) Entering CreateNetObjectsLoginState
+19:52:29.871 [StateMachine]: Player Gusguera (dpnid 63507737 uid eW1VJbS_z5fpjCEJWj0QCfrRcshlxSt34fjWTtan4Fg=) Entering PreloadCamLoginState
+19:52:29.887 [StateMachine]: Player Gusguera (dpnid 63507737 uid eW1VJbS_z5fpjCEJWj0QCfrRcshlxSt34fjWTtan4Fg=) Entering WaitPreloadCamLoginState
+19:53:00.125 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+19:53:27.213 [StateMachine]: Player Gusguera (dpnid 63507737 uid eW1VJbS_z5fpjCEJWj0QCfrRcshlxSt34fjWTtan4Fg=) Entering GetNewCharLoginState
+19:53:27.243 <CREATE NEW CHAR>:
+    charID 112
+    playerID 112
+    dpnid 63507737
+    uid eW1VJbS_z5fpjCEJWj0QCfrRcshlxSt34fjWTtan4Fg=
+19:54:27.678 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+19:55:55.211 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:57:22.616 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:58:50.227 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+19:59:18.02 !!! [CE][Point] Removing 2518.522217, 5262.403809 from Land_BusStation_wall_bench
+19:59:51.662 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+20:00:16.31 !!! [CE][Point] Removing 2511.034668, 5293.401367 from Land_BusStation_wall_bench
+20:00:18.94 [CE][Links] found 32 total links between groups, of 92
+20:00:18.94 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 11, deloot: 2, containermaxsum: 15
+20:01:19.143 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+20:02:46.632 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+20:02:47.288 [CE][Links] found 32 total links between groups, of 93
+20:02:47.288 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+20:04:14.133 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+20:05:41.687 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+20:06:43.97 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+20:08:10.641 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+20:09:38.185 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+20:11:05.715 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+20:11:06.43 [CE][Links] found 32 total links between groups, of 94
+20:11:06.43 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 11, deloot: 2, containermaxsum: 15
+20:11:06.370 [CE][Links] found 32 total links between groups, of 95
+20:11:06.370 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+20:12:33.176 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+20:12:33.832 [CE][Links] found 32 total links between groups, of 96
+20:12:33.832 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+20:13:34.585 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+20:14:03.346 !!! [CE][Point] Removing 6599.802246, 2677.188965 from PearTree2
+20:15:01.934 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+20:16:29.408 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+20:17:56.977 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+20:18:49.319 [Disconnect]: Start script disconnect 25191432 (dbCharacterId 51 dbPlayerId 51) logoutTime 15
+20:18:52.339 [Disconnect]: Client 25191432 disconnecting
+20:18:52.339 [Disconnect]: Client 25191432 early disconnect
+20:18:52.355 [Disconnect]: Start script disconnect 25191432 (dbCharacterId 51 dbPlayerId 51) logoutTime 15
+20:19:03.446 [Disconnect]: No packets from 25191432
+20:19:03.446 [Disconnect]: Already in progress 25191432 
+20:19:04.321 [Disconnect]: Finish script disconnect 25191432
+20:19:04.321 [Disconnect]: DisconnectPlayerFinish 25191432
+20:19:04.321 [Disconnect]: Remove player info 25191432
+20:19:04.336 [Disconnect]: Player destroy 25191432 
+20:19:24.551 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+20:19:25.207 [CE][Links] found 32 total links between groups, of 97
+20:19:25.207 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+20:20:26.01 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+20:21:53.588 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+20:23:21.167 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+20:24:49.72 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+20:24:49.728 [CE][Links] found 32 total links between groups, of 98
+20:24:49.728 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+20:26:16.637 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+20:26:17.294 [CE][Links] found 32 total links between groups, of 99
+20:26:17.294 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 6
+20:26:17.294 [CE][Links] found 32 total links between groups, of 100
+20:26:17.294 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+20:27:18.123 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+20:27:44.586 [CE][Links] found 32 total links between groups, of 101
+20:27:44.586 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 14, deloot: 2, containermaxsum: 15
+20:27:44.914 [CE][Links] found 32 total links between groups, of 102
+20:27:44.914 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 6
+20:28:45.719 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+20:28:46.375 [CE][Links] found 32 total links between groups, of 103
+20:28:46.375 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+20:30:13.104 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+20:31:37.469 !!! [CE][Point] Removing 5279.530273, 10562.298828 from Land_Shed_M3
+20:31:40.640 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+20:33:08.203 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+20:34:09.668 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+20:35:37.236 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+20:36:05.974 !!! [CE][Point] Removing 4872.034180, 2473.236328 from PearTree2
+20:37:04.766 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+20:37:05.422 [CE][Links] found 32 total links between groups, of 104
+20:37:05.422 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+20:38:32.341 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+20:39:59.932 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+20:40:00.260 [CE][Links] found 32 total links between groups, of 105
+20:40:00.260 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8_Crashed, lootmin: 10, lootmax: 15, wanted: 10, deloot: 2, containermaxsum: 15
+20:41:01.388 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+20:42:28.921 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+20:43:56.502 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+20:45:24.70 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+20:46:51.603 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+20:47:53.52 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+20:49:20.620 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+20:49:21.276 [CE][Links] found 32 total links between groups, of 106
+20:49:21.276 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 6
+20:50:48.200 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+20:50:48.528 [CE][Links] found 32 total links between groups, of 107
+20:50:48.528 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8_Crashed, lootmin: 10, lootmax: 15, wanted: 14, deloot: 2, containermaxsum: 15
+20:52:15.740 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+20:53:43.340 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+20:53:55.629 [Disconnect]: Start script disconnect 63507737 (dbCharacterId 112 dbPlayerId 112) logoutTime 15
+20:53:57.738 [Disconnect]: Client 63507737 disconnecting
+20:53:57.738 [Disconnect]: Client 63507737 early disconnect
+20:53:57.754 [Disconnect]: Start script disconnect 63507737 (dbCharacterId 112 dbPlayerId 112) logoutTime 15
+20:54:08.282 [Disconnect]: No packets from 63507737
+20:54:08.282 [Disconnect]: Already in progress 63507737 
+20:54:10.641 [Disconnect]: Finish script disconnect 63507737
+20:54:10.641 [Disconnect]: DisconnectPlayerFinish 63507737
+20:54:10.641 [Disconnect]: Remove player info 63507737
+20:54:10.657 [Disconnect]: Player destroy 63507737 
+20:54:44.805 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+20:55:21.448 [IdleMode] Entering IN - save processed
+21:29:46.905 [Login]: Adding player LwShutt (24355187) to login queue at position 0
+21:29:46.905 [LoginMachine]: Add player LwShutt (24355187 186.194.222.4:12802)
+21:29:46.905 [StateMachine]: Player LwShutt (dpnid 24355187 uid ) Entering AuthPlayerLoginState
+21:29:48.587 [StateMachine]: Player LwShutt (dpnid 24355187 uid ) Entering WaitAuthPlayerLoginState
+21:29:50.790 [IdleMode] Leaving OUT
+21:29:50.868 Player LwShutt connected (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=).
+21:29:50.868 Player "LwShutt" is connected (steamID=76561199378753491)
+21:29:50.884 [StateMachine]: Player LwShutt (dpnid 24355187 uid ) Entering WaitPlayerAssignedLoginState
+21:29:51.602 [StateMachine]: Player LwShutt (dpnid 24355187 uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) Entering DBGetLoginTimeLoginState
+21:29:51.633 [StateMachine]: Player LwShutt (dpnid 24355187 uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) Entering DBWaitLoginTimeLoginState
+21:29:56.648 [StateMachine]: Player LwShutt (dpnid 24355187 uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) Entering DBGetCharacterLoginState
+21:29:56.679 [StateMachine]: Player LwShutt (dpnid 24355187 uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) Entering CreateNetObjectsLoginState
+21:29:56.695 [StateMachine]: Player LwShutt (dpnid 24355187 uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) Entering PreloadCamLoginState
+21:29:56.695 [StateMachine]: Player LwShutt (dpnid 24355187 uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) Entering WaitPreloadCamLoginState
+21:30:05.130 [StateMachine]: Player LwShutt (dpnid 24355187 uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) Entering GetLoadedCharLoginState
+21:30:05.161 <LOAD EXISTING CHAR>:
+    charID 51
+    playerID 51
+    dpnid 24355187
+    uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=
+21:30:48.850 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+21:32:16.332 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+21:32:16.988 [CE][Links] found 32 total links between groups, of 108
+21:32:16.988 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+21:33:43.916 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+21:35:11.494 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+21:35:12.150 [CE][Links] found 32 total links between groups, of 109
+21:35:12.150 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 6
+21:35:28.896 [Disconnect]: Start script disconnect 24355187 (dbCharacterId 51 dbPlayerId 51) logoutTime 15
+21:35:34.223 [Disconnect]: Client 24355187 disconnecting
+21:35:34.223 [Disconnect]: Client 24355187 early disconnect
+21:35:34.239 [Disconnect]: Start script disconnect 24355187 (dbCharacterId 51 dbPlayerId 51) logoutTime 15
+21:35:43.908 [Disconnect]: Finish script disconnect 24355187
+21:35:43.908 [Disconnect]: DisconnectPlayerFinish 24355187
+21:35:43.908 [Disconnect]: Remove player info 24355187
+21:35:43.924 [Disconnect]: Player destroy 24355187 
+21:36:12.943 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+21:37:19.06 [IdleMode] Entering IN - save processed
+21:44:52.849 [Login]: Adding player LwShutt (930280340) to login queue at position 0
+21:44:52.849 [LoginMachine]: Add player LwShutt (930280340 186.194.222.4:12802)
+21:44:52.849 [StateMachine]: Player LwShutt (dpnid 930280340 uid ) Entering AuthPlayerLoginState
+21:44:54.286 [StateMachine]: Player LwShutt (dpnid 930280340 uid ) Entering WaitAuthPlayerLoginState
+21:44:55.317 [IdleMode] Leaving OUT
+21:44:55.833 Player LwShutt connected (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=).
+21:44:55.833 Player "LwShutt" is connected (steamID=76561199378753491)
+21:44:55.848 [StateMachine]: Player LwShutt (dpnid 930280340 uid ) Entering WaitPlayerAssignedLoginState
+21:44:58.473 [StateMachine]: Player LwShutt (dpnid 930280340 uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) Entering DBGetLoginTimeLoginState
+21:44:58.504 [StateMachine]: Player LwShutt (dpnid 930280340 uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) Entering DBWaitLoginTimeLoginState
+21:45:03.518 [StateMachine]: Player LwShutt (dpnid 930280340 uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) Entering DBGetCharacterLoginState
+21:45:03.550 [StateMachine]: Player LwShutt (dpnid 930280340 uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) Entering CreateNetObjectsLoginState
+21:45:03.565 [StateMachine]: Player LwShutt (dpnid 930280340 uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) Entering PreloadCamLoginState
+21:45:03.581 [StateMachine]: Player LwShutt (dpnid 930280340 uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) Entering WaitPreloadCamLoginState
+21:45:09.486 [StateMachine]: Player LwShutt (dpnid 930280340 uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) Entering GetLoadedCharLoginState
+21:45:09.517 <LOAD EXISTING CHAR>:
+    charID 51
+    playerID 51
+    dpnid 930280340
+    uid uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=
+21:45:23.951 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+21:45:27.810 [Login]: Adding player AngelParadise (32539813) to login queue at position 0
+21:45:27.810 [LoginMachine]: Add player AngelParadise (32539813 186.194.222.4:1024)
+21:45:27.810 [StateMachine]: Player AngelParadise (dpnid 32539813 uid ) Entering AuthPlayerLoginState
+21:45:31.528 [StateMachine]: Player AngelParadise (dpnid 32539813 uid ) Entering WaitAuthPlayerLoginState
+21:45:34.636 Player AngelParadise connected (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w=).
+21:45:34.636 Player "AngelParadise" is connected (steamID=76561198199313275)
+21:45:34.652 [StateMachine]: Player AngelParadise (dpnid 32539813 uid ) Entering WaitPlayerAssignedLoginState
+21:45:35.777 [StateMachine]: Player AngelParadise (dpnid 32539813 uid dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w=) Entering DBGetLoginTimeLoginState
+21:45:35.808 [StateMachine]: Player AngelParadise (dpnid 32539813 uid dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w=) Entering DBWaitLoginTimeLoginState
+21:45:40.822 [StateMachine]: Player AngelParadise (dpnid 32539813 uid dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w=) Entering DBGetCharacterLoginState
+21:45:40.854 [StateMachine]: Player AngelParadise (dpnid 32539813 uid dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w=) Entering CreateNetObjectsLoginState
+21:45:40.869 [StateMachine]: Player AngelParadise (dpnid 32539813 uid dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w=) Entering PreloadCamLoginState
+21:45:40.869 [StateMachine]: Player AngelParadise (dpnid 32539813 uid dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w=) Entering WaitPreloadCamLoginState
+21:45:57.454 [StateMachine]: Player AngelParadise (dpnid 32539813 uid dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w=) Entering GetLoadedCharLoginState
+21:45:57.610 <LOAD EXISTING CHAR>:
+    charID 67
+    playerID 67
+    dpnid 32539813
+    uid dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w=
+21:46:51.514 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+21:48:19.82 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+21:49:46.697 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+21:49:47.353 [CE][Links] found 32 total links between groups, of 110
+21:49:47.353 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 6
+21:50:48.157 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+21:51:14.620 [CE][Links] found 32 total links between groups, of 111
+21:51:14.620 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 13, deloot: 2, containermaxsum: 15
+21:52:15.659 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+21:53:43.197 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+21:55:10.782 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+21:55:11.438 [CE][Links] found 32 total links between groups, of 112
+21:55:11.438 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 6
+21:56:38.294 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+21:56:38.950 [CE][Links] found 32 total links between groups, of 113
+21:56:38.950 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+21:56:38.950 [CE][Links] found 32 total links between groups, of 114
+21:56:38.950 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+21:57:39.697 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+21:58:06.467 [CE][Links] found 32 total links between groups, of 115
+21:58:06.467 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 6
+21:58:35.929 [Disconnect]: Start script disconnect 930280340 (dbCharacterId 51 dbPlayerId 51) logoutTime 15
+21:58:37.820 [Disconnect]: Client 930280340 disconnecting
+21:58:37.820 [Disconnect]: Client 930280340 early disconnect
+21:58:37.835 [Disconnect]: Start script disconnect 930280340 (dbCharacterId 51 dbPlayerId 51) logoutTime 15
+21:58:44.662 [Disconnect]: Start script disconnect 32539813 (dbCharacterId 67 dbPlayerId 67) logoutTime 15
+21:58:48.110 [Disconnect]: Client 32539813 disconnecting
+21:58:48.110 [Disconnect]: Client 32539813 early disconnect
+21:58:48.125 [Disconnect]: Start script disconnect 32539813 (dbCharacterId 67 dbPlayerId 67) logoutTime 15
+21:58:48.625 [Disconnect]: No packets from 930280340
+21:58:48.625 [Disconnect]: Already in progress 930280340 
+21:58:50.937 [Disconnect]: Finish script disconnect 930280340
+21:58:50.937 [Disconnect]: DisconnectPlayerFinish 930280340
+21:58:50.937 [Disconnect]: Remove player info 930280340
+21:58:50.952 [Disconnect]: Player destroy 930280340 
+21:58:58.685 [Disconnect]: No packets from 32539813
+21:58:58.685 [Disconnect]: Already in progress 32539813 
+21:58:59.669 [Disconnect]: Finish script disconnect 32539813
+21:58:59.669 [Disconnect]: DisconnectPlayerFinish 32539813
+21:58:59.669 [Disconnect]: Remove player info 32539813
+21:58:59.685 [Disconnect]: Player destroy 32539813 
+21:59:07.215 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+21:59:07.871 [CE][Links] found 32 total links between groups, of 116
+21:59:07.871 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 6
+22:00:13.944 [IdleMode] Entering IN - save processed
+23:03:04.564  --- Termination successfully completed --- 

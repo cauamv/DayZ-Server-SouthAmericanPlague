@@ -1,0 +1,32 @@
+{
+    "ColorDirect": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+    },
+    "ColorDirectPlayer": {
+        "R": 240,
+        "G": 234,
+        "B": 72
+    },
+    "ColorGlobal": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+    },
+    "ColorGlobalPlayer": {
+        "R": 56,
+        "G": 164,
+        "B": 252
+    },
+    "ColorServer": {
+        "R": 192,
+        "G": 192,
+        "B": 192
+    },
+    "ColorAlert": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+    }
+}

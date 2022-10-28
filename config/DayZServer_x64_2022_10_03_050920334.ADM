@@ -1,0 +1,404 @@
+
+
+******************************************************************************
+AdminLog started on 2022-10-02 at 05:09:00
+
+
+******************************************************************************
+AdminLog started on 2022-10-02 at 11:02:27
+11:25:37 | Player "AngelParadise" is connected (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w=)
+11:25:56 | AngelParadise conectou
+11:28:39 | ##### PlayerList log: 1 players
+11:28:39 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<14589.5, 14953.9, 133.4>)
+11:28:39 | #####
+11:31:02 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<14591.5, 14956, 126.2>)[HP: 93.2733] hit by FallDamage
+11:32:31 | Player "LwShutt" is connected (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)
+11:32:48 | LwShutt conectou
+11:33:39 | ##### PlayerList log: 2 players
+11:33:39 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<14587.9, 14969.3, 131.0>)
+11:33:39 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14596.9, 14961.2, 126.4>)
+11:33:39 | #####
+11:38:39 | ##### PlayerList log: 2 players
+11:38:39 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<13805.8, 15058.1, 125.4>)
+11:38:39 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13806.3, 15057.6, 125.4>)
+11:38:39 | #####
+11:42:58 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11607.4, 14634.1, 58.1>)[HP: 98.3169] hit by Hatchback_02 with TransportHit
+11:42:58 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11607.4, 14634.1, 58.1>)[HP: 96.6338] hit by Hatchback_02 with TransportHit
+11:42:58 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11607.5, 14634.1, 58.1>)[HP: 94.9691] hit by Hatchback_02 with TransportHit
+11:42:58 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11607.5, 14634.1, 58.1>)[HP: 93.3044] hit by Hatchback_02 with TransportHit
+11:43:39 | ##### PlayerList log: 2 players
+11:43:39 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11618.9, 14635, 57.6>)
+11:43:39 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11620.6, 14641.5, 57.7>)
+11:43:39 | #####
+11:48:39 | ##### PlayerList log: 2 players
+11:48:39 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<13609.1, 14940.3, 88.7>)
+11:48:39 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13801.9, 15055.7, 125.5>)
+11:48:39 | #####
+11:53:39 | ##### PlayerList log: 2 players
+11:53:39 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<14501.4, 14956.5, 135.8>)
+11:53:39 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14501.4, 14957.1, 135.9>)
+11:53:39 | #####
+11:58:39 | ##### PlayerList log: 2 players
+11:58:39 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<13596.9, 13948.4, 13.4>)
+11:58:39 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13597.5, 13948.5, 13.4>)
+11:58:39 | #####
+12:03:39 | ##### PlayerList log: 2 players
+12:03:39 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<13012.1, 11868.9, 55.6>)
+12:03:39 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13010.6, 11867.9, 55.0>)
+12:03:39 | #####
+12:08:39 | ##### PlayerList log: 2 players
+12:08:39 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11132.6, 12258.7, 199.3>)
+12:08:39 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11132.3, 12258.2, 199.3>)
+12:08:39 | #####
+12:13:38 | ##### PlayerList log: 2 players
+12:13:39 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11281.8, 12171.4, 193.8>)
+12:13:39 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11287.3, 12150.4, 193.2>)
+12:13:39 | #####
+12:14:47 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11227.2, 12161.8, 195.4>)[HP: 98.725] hit by Infected into Torso(1) for 1.275 damage (MeleeZombieMale)
+12:16:40 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11142.9, 12124.7, 204.9>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+12:16:44 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11142.2, 12126.1, 204.9>)[HP: 99.25] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+12:17:15 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11120.1, 12295, 199.5>)[HP: 98.4063] hit by Infected into Torso(1) for 1.59375 damage (MeleeZombieMale)
+12:17:21 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11119.4, 12294.5, 199.5>)[HP: 98.5866] hit by Infected into Block(-1) for 0 damage 
+12:17:26 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11159.1, 12068.8, 206.4>)[HP: 99.25] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+12:18:02 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11129.7, 12288, 199.2>)[HP: 99.76] hit by Infected into Block(-1) for 0 damage 
+12:18:06 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11128.1, 12287.5, 199.2>)[HP: 98.2529] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieMale)
+12:18:38 | ##### PlayerList log: 2 players
+12:18:38 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11135.1, 12288.2, 199.2>)
+12:18:38 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11177.7, 12059.7, 206.6>)
+12:18:38 | #####
+12:19:44 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11146.4, 12148.9, 203.5>)[HP: 98.3125] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieMale)
+12:20:37 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11125.2, 12365.4, 206.6>)[HP: 99.25] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieMale)
+12:22:07 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11227.8, 12259.7, 195.6>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+12:23:38 | ##### PlayerList log: 2 players
+12:23:38 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11183.5, 12359.8, 202.2>)
+12:23:38 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11298.4, 12267, 193.2>)
+12:23:38 | #####
+12:28:07 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11153.7, 12368.4, 201.9>)[HP: 99.25] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+12:28:23 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11155.2, 12404.4, 201.9>)[HP: 99.7749] hit by Infected into Block(-1) for 0 damage 
+12:28:24 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11157.3, 12403.2, 201.9>)[HP: 98.0874] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieFemale)
+12:28:38 | ##### PlayerList log: 2 players
+12:28:38 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11062.7, 12441.6, 226.8>)
+12:28:38 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11135.2, 12424.2, 210.4>)
+12:28:38 | #####
+12:29:08 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11045.8, 12455.8, 226.8>)[HP: 99.4039] hit by Infected into Block(-1) for 0 damage 
+12:32:00 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<10967.2, 12425, 227.3>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+12:32:02 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<10970, 12423.8, 227.2>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+12:33:38 | ##### PlayerList log: 2 players
+12:33:38 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11056.7, 12508.8, 227.5>)
+12:33:38 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<10820.1, 12449.1, 246.5>)
+12:33:38 | #####
+12:38:38 | ##### PlayerList log: 2 players
+12:38:38 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11073.8, 12490.6, 235.2>)
+12:38:38 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<10866.4, 12397.8, 237.2>)
+12:38:38 | #####
+12:42:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<10982.3, 12492.7, 229.6>)[HP: 99.25] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieFemale)
+12:43:38 | ##### PlayerList log: 2 players
+12:43:38 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<10998.9, 12367, 222.5>)
+12:43:38 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11090.1, 12307, 205.1>)
+12:43:38 | #####
+12:44:03 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11081.6, 12333.2, 210.8>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+12:46:11 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11123.3, 12268.3, 199.3>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+12:46:12 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11124.2, 12267.4, 199.2>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+12:46:14 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11127.1, 12264.6, 199.1>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+12:46:21 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11128.7, 12263.4, 199.0>)[HP: 98.3125] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombieMale)
+12:48:39 | ##### PlayerList log: 2 players
+12:48:39 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11274.9, 12163.3, 194.6>)
+12:48:39 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11291.5, 12146.9, 193.7>)
+12:48:39 | #####
+12:49:30 | Player "LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) has been disconnected
+12:53:39 | ##### PlayerList log: 1 players
+12:53:39 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11128.4, 12259.8, 198.9>)
+12:53:39 | #####
+12:56:12 | Player "AngelParadise"(id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2022-10-02 at 17:05:07
+18:17:56 | Player "LwShutt" is connected (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)
+18:18:10 | LwShutt conectou
+18:18:40 | Player "AngelParadise" is connected (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w=)
+18:19:02 | AngelParadise conectou
+18:21:16 | ##### PlayerList log: 2 players
+18:21:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11292, 12132.5, 193.3>)
+18:21:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11308.8, 12139.7, 192.9>)
+18:21:16 | #####
+18:26:16 | ##### PlayerList log: 2 players
+18:26:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11205.5, 12185, 195.9>)
+18:26:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11308.8, 12139.7, 192.9>)
+18:26:16 | #####
+18:27:14 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11109.4, 12203, 201.4>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+18:27:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11114.6, 12200.5, 201.4>)[HP: 98.3125] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieMale)
+18:27:23 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11121.5, 12199.4, 201.2>)[HP: 97.7434] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieMale)
+18:31:16 | ##### PlayerList log: 2 players
+18:31:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11180.6, 12285.8, 203.3>)
+18:31:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11266.8, 12165.8, 194.1>)
+18:31:16 | #####
+18:32:26 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11211, 12224.1, 195.7>)[HP: 98.3125] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieMale)
+18:32:40 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11266.2, 12169.2, 194.0>)[HP: 98.6738] hit by Infected into Block(-1) for 0 damage 
+18:36:16 | ##### PlayerList log: 2 players
+18:36:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11743.8, 12183, 146.8>)
+18:36:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11756.8, 12194.4, 148.1>)
+18:36:16 | #####
+18:41:16 | ##### PlayerList log: 2 players
+18:41:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13042.1, 10170.5, 6.6>)
+18:41:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<13083.1, 10301, 6.5>)
+18:41:16 | #####
+18:46:16 | ##### PlayerList log: 2 players
+18:46:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13000.2, 10084, 5.9>)
+18:46:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<13028, 10300.6, 7.2>)
+18:46:16 | #####
+18:51:16 | ##### PlayerList log: 2 players
+18:51:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13000.1, 10082.9, 5.9>)
+18:51:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<13013.4, 10086.1, 6.5>)
+18:51:16 | #####
+18:52:38 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<12951.1, 9986.8, 5.9>)[HP: 98.875] hit by Infected into LeftLeg(8) for 4.5 damage (MeleeZombie)
+18:52:42 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<12951.4, 9987, 5.9>)[HP: 98.9654] hit by Infected into Block(-1) for 0 damage 
+18:56:16 | ##### PlayerList log: 2 players
+18:56:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12963.2, 10108.2, 6.0>)
+18:56:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<12925.1, 10043.6, 6.4>)
+18:56:16 | #####
+18:57:05 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<12932.8, 10071.3, 6.0>)[HP: 98.9375] hit by Infected into Torso(1) for 1.0625 damage (MeleeZombie)
+19:01:16 | ##### PlayerList log: 2 players
+19:01:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12809.2, 10151.2, 5.9>)
+19:01:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<12818.1, 10067.5, 6.0>)
+19:01:16 | #####
+19:06:16 | ##### PlayerList log: 2 players
+19:06:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12923, 9977.6, 6.0>)
+19:06:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<12812.5, 9968.4, 11.8>)
+19:06:16 | #####
+19:11:07 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12851.3, 9981.6, 5.9>)[HP: 98.8915] hit by FallDamage
+19:11:16 | ##### PlayerList log: 2 players
+19:11:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12866.1, 10013.3, 5.9>)
+19:11:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<12863.6, 10013.1, 5.9>)
+19:11:16 | #####
+19:16:16 | ##### PlayerList log: 2 players
+19:16:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13155.5, 7135.3, 6.1>)
+19:16:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<13156.4, 7145.5, 5.9>)
+19:16:16 | #####
+19:16:46 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13160.7, 7081.7, 6.0>)[HP: 98.3125] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombieFemale)
+19:21:16 | ##### PlayerList log: 2 players
+19:21:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13193.5, 6966.6, 6.0>)
+19:21:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<13133.4, 7014.8, 6.1>)
+19:21:16 | #####
+19:26:16 | ##### PlayerList log: 2 players
+19:26:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13181.7, 7159.3, 6.2>)
+19:26:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<13197.8, 7165.7, 6.1>)
+19:26:16 | #####
+19:26:18 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<13197.8, 7165.7, 6.1>)[HP: 99.5979] hit by Hatchback_02 with TransportHit
+19:31:16 | ##### PlayerList log: 2 players
+19:31:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13287.1, 6302, 4.8>)
+19:31:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<13439.7, 6278.9, 6.1>)
+19:31:16 | #####
+19:36:16 | ##### PlayerList log: 2 players
+19:36:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<13473.1, 6346.3, 6.1>)
+19:36:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<13378, 6251.5, 5.9>)
+19:36:16 | #####
+19:41:16 | ##### PlayerList log: 2 players
+19:41:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12812, 3680, 6.3>)
+19:41:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<13131, 3892.6, 5.0>)
+19:41:16 | #####
+19:45:06 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<12079.7, 3558.5, 5.9>)[HP: 83.3441] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+19:46:16 | ##### PlayerList log: 2 players
+19:46:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12235.6, 3517.0, 5.5>)
+19:46:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<12053.9, 3612.0, 6.8>)
+19:46:16 | #####
+19:49:45 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12046, 3575.6, 6.1>)[HP: 94.0238] hit by Infected into Block(-1) for 0 damage 
+19:49:46 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<12046.1, 3574.9, 6.1>)[HP: 94.063] hit by Infected into Block(-1) for 0 damage 
+19:51:16 | ##### PlayerList log: 2 players
+19:51:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11840.2, 3452.3, 6.4>)
+19:51:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11949.7, 3476.7, 6.9>)
+19:51:16 | #####
+19:56:16 | ##### PlayerList log: 2 players
+19:56:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<10622.5, 2373.2, 6.0>)
+19:56:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<10630.9, 2437.0, 6.1>)
+19:56:16 | #####
+19:59:26 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<10558.8, 2225.5, 6.0>)[HP: 81.3104] hit by Infected into RightLeg(3) for 4.5 damage (MeleeZombie)
+20:01:16 | ##### PlayerList log: 2 players
+20:01:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<10511.2, 2214.0, 6.2>)
+20:01:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<10565.8, 2341.2, 6.1>)
+20:01:16 | #####
+20:02:17 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<10466.3, 2246.8, 6.1>)[HP: 82.4242] hit by Infected into Torso(1) for 1.7 damage (MeleeZombiePolice)
+20:06:16 | ##### PlayerList log: 2 players
+20:06:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<10478.2, 2364.2, 6.0>)
+20:06:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<10477.8, 2353.2, 6.0>)
+20:06:16 | #####
+20:11:16 | ##### PlayerList log: 2 players
+20:11:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<10114.6, 2016.6, 8.3>)
+20:11:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<10122.2, 2035.4, 6.7>)
+20:11:16 | #####
+20:14:20 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<10053, 1953.0, 6.0>)[HP: 98.9375] hit by Infected into Torso(1) for 1.0625 damage (MeleeZombie)
+20:14:22 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<10053.4, 1952.5, 6.0>)[HP: 98.4375] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+20:16:16 | ##### PlayerList log: 2 players
+20:16:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<9633.3, 2028.4, 6.6>)
+20:16:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<9848.7, 2032.6, 6.5>)
+20:16:16 | #####
+20:21:16 | ##### PlayerList log: 2 players
+20:21:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<8437.9, 2530.2, 9.2>)
+20:21:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<8397.3, 2585.2, 5.8>)
+20:21:16 | #####
+20:26:16 | ##### PlayerList log: 2 players
+20:26:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<7210.7, 3038.4, 30.4>)
+20:26:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<7468.6, 3181.2, 7.1>)
+20:26:16 | #####
+20:27:19 | Player "[GS]Mag0M4LuC0" is connected (id=EQdlSdv-qq6x8AEOTdtKfyxCgDgzxNjZrbXMANkTNQY=)
+20:27:32 | [GS]Mag0M4LuC0 conectou
+20:27:32 | [GS]Mag0M4LuC0 registro criado!
+20:28:28 | Chat("[GS]Mag0M4LuC0"(id=EQdlSdv-qq6x8AEOTdtKfyxCgDgzxNjZrbXMANkTNQY=)): ᐅ eae
+20:28:40 | Chat("LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)): ᐅ fala men
+20:28:42 | Chat("LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)): ᐅ blz
+20:28:45 | Chat("AngelParadise"(id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w=)): ᐅ OPA
+20:28:50 | Chat("[GS]Mag0M4LuC0"(id=EQdlSdv-qq6x8AEOTdtKfyxCgDgzxNjZrbXMANkTNQY=)): ᐅ server e sempre vazio?
+20:28:59 | Chat("LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)): ᐅ sim 
+20:29:01 | Chat("[GS]Mag0M4LuC0"(id=EQdlSdv-qq6x8AEOTdtKfyxCgDgzxNjZrbXMANkTNQY=)): ᐅ anem
+20:29:41 | Chat("[GS]Mag0M4LuC0"(id=EQdlSdv-qq6x8AEOTdtKfyxCgDgzxNjZrbXMANkTNQY=)): ᐅ entao o server ja ira fechar ne?
+20:29:42 | Player "[GS]Mag0M4LuC0" (id=EQdlSdv-qq6x8AEOTdtKfyxCgDgzxNjZrbXMANkTNQY= pos=<6142.5, 2151.4, 6.2>) committed suicide
+20:29:42 | Player "[GS]Mag0M4LuC0" (DEAD) (id=EQdlSdv-qq6x8AEOTdtKfyxCgDgzxNjZrbXMANkTNQY= pos=<6142.5, 2151.4, 6.2>) died. Stats> Water: 2465.16 Energy: 4948.99 Bleed sources: 0
+20:29:48 | [GS]Mag0M4LuC0 conectou
+20:30:00 | Chat("LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)): ᐅ n to ligado
+20:30:08 | Chat("[GS]Mag0M4LuC0"(id=EQdlSdv-qq6x8AEOTdtKfyxCgDgzxNjZrbXMANkTNQY=)): ᐅ eu sei
+20:30:13 | Chat("[GS]Mag0M4LuC0"(id=EQdlSdv-qq6x8AEOTdtKfyxCgDgzxNjZrbXMANkTNQY=)): ᐅ mas tipo e pago por mes
+20:30:28 | Chat("LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)): ᐅ tu é adm ?
+20:30:30 | Player "[GS]Mag0M4LuC0" (id=EQdlSdv-qq6x8AEOTdtKfyxCgDgzxNjZrbXMANkTNQY= pos=<7404.3, 2653.1, 5.5>)[HP: 80.6054] hit by FallDamage
+20:30:30 | Chat("LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)): ᐅ n né?
+20:30:32 | Chat("[GS]Mag0M4LuC0"(id=EQdlSdv-qq6x8AEOTdtKfyxCgDgzxNjZrbXMANkTNQY=)): ᐅ n
+20:30:46 | Chat("[GS]Mag0M4LuC0"(id=EQdlSdv-qq6x8AEOTdtKfyxCgDgzxNjZrbXMANkTNQY=)): ᐅ mas esse server e novo?
+20:30:54 | Chat("LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)): ᐅ mais ou menos
+20:31:16 | ##### PlayerList log: 3 players
+20:31:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<6212.6, 3522.6, 39.4>)
+20:31:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<6250.6, 3441.3, 35.2>)
+20:31:16 | Player "[GS]Mag0M4LuC0" (id=EQdlSdv-qq6x8AEOTdtKfyxCgDgzxNjZrbXMANkTNQY= pos=<7341.1, 2696.8, 5.7>)
+20:31:16 | #####
+20:31:25 | Chat("[GS]Mag0M4LuC0"(id=EQdlSdv-qq6x8AEOTdtKfyxCgDgzxNjZrbXMANkTNQY=)): ᐅ espero que esse server melhore futuramente
+20:31:38 | Chat("[GS]Mag0M4LuC0"(id=EQdlSdv-qq6x8AEOTdtKfyxCgDgzxNjZrbXMANkTNQY=)): ᐅ flw
+20:31:40 | Chat("LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)): ᐅ flw
+20:31:55 | Player "[GS]Mag0M4LuC0"(id=EQdlSdv-qq6x8AEOTdtKfyxCgDgzxNjZrbXMANkTNQY=) has been disconnected
+20:36:16 | ##### PlayerList log: 2 players
+20:36:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<5186.2, 2881.4, 26.9>)
+20:36:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<5480.8, 3055.7, 60.4>)
+20:36:16 | #####
+20:37:17 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<4890.3, 2854.2, 29.2>)[HP: 96.4339] hit by FallDamage
+20:41:16 | ##### PlayerList log: 2 players
+20:41:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<5078.7, 2312.4, 9.8>)
+20:41:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<5076.1, 2364.1, 9.3>)
+20:41:16 | #####
+20:41:31 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<5122.4, 2300.9, 9.9>)[HP: 89.7112] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+20:42:21 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<5291.2, 2313.1, 12.1>)[HP: 79.7857] hit by explosion (PseudoGiant_SpecialAttack_Ammo)
+20:46:16 | ##### PlayerList log: 2 players
+20:46:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<5056.6, 2338.5, 9.5>)
+20:46:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<5060.8, 2336.9, 9.5>)
+20:46:16 | #####
+20:51:16 | ##### PlayerList log: 2 players
+20:51:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<5055.9, 2331.9, 9.5>)
+20:51:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<5059.0, 2341.9, 9.5>)
+20:51:16 | #####
+20:56:16 | ##### PlayerList log: 2 players
+20:56:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<5052.5, 2333.6, 9.5>)
+20:56:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<5058.4, 2343.0, 10.0>)
+20:56:16 | #####
+21:01:16 | ##### PlayerList log: 2 players
+21:01:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<5058.4, 2334.5, 9.5>)
+21:01:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<4905.1, 2464.8, 9.6>)
+21:01:16 | #####
+21:01:29 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<5046.1, 2327.4, 9.5>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+21:02:39 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<4889.3, 2456.2, 9.2>)[HP: 98.2831] hit by FallDamage
+21:06:16 | ##### PlayerList log: 2 players
+21:06:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<5053.4, 2341.8, 9.5>)
+21:06:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<4990.5, 2420.1, 9.5>)
+21:06:16 | #####
+21:11:16 | ##### PlayerList log: 2 players
+21:11:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<9023.6, 7002.0, 465.9>)
+21:11:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<9024.7, 7002.0, 466.6>)
+21:11:16 | #####
+21:16:15 | ##### PlayerList log: 2 players
+21:16:15 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<11365.5, 14587.1, 460.6>)
+21:16:15 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<11365.5, 14585.8, 460.6>)
+21:16:15 | #####
+21:21:15 | ##### PlayerList log: 2 players
+21:21:15 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14487, 14967, 137.0>)
+21:21:15 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<14586.8, 14955.4, 133.4>)
+21:21:15 | #####
+21:26:15 | ##### PlayerList log: 2 players
+21:26:15 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14506.3, 14959.3, 135.6>)
+21:26:15 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<14585.8, 14945.4, 133.4>)
+21:26:15 | #####
+21:31:15 | ##### PlayerList log: 2 players
+21:31:15 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14569.1, 14979.4, 131.8>)
+21:31:15 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<14586.7, 14945.5, 133.4>)
+21:31:15 | #####
+21:36:15 | ##### PlayerList log: 2 players
+21:36:15 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14586.2, 14955, 130.2>)
+21:36:15 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<14585.8, 14950.7, 133.4>)
+21:36:15 | #####
+21:41:16 | ##### PlayerList log: 2 players
+21:41:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14586.1, 14946, 130.2>)
+21:41:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<14585.8, 14950.3, 133.4>)
+21:41:16 | #####
+21:46:16 | ##### PlayerList log: 2 players
+21:46:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14586.6, 14954.4, 130.2>)
+21:46:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<14585.4, 14953.4, 130.2>)
+21:46:16 | #####
+21:51:16 | ##### PlayerList log: 2 players
+21:51:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14589.5, 14954.2, 130.2>)
+21:51:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<14585.9, 14950.7, 133.4>)
+21:51:16 | #####
+21:56:16 | ##### PlayerList log: 2 players
+21:56:16 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14586.4, 14946, 130.2>)
+21:56:16 | Player "AngelParadise" (id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w= pos=<14584.5, 14947.2, 133.4>)
+21:56:16 | #####
+21:58:37 | Player "AngelParadise"(id=dY6nUi1Xz9JezA_WQaEK_UOLVlSu_yPN_Y7MiSIyk3w=) has been disconnected
+21:59:28 | Player "LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) has been disconnected
+22:06:26 | Player "Survivor" is connected (id=dDsE4Vx57jN0DgF4xR3BEQ3dqm01Q2NvY5aKdnc6VlY=)
+22:07:30 | Survivor conectou
+22:11:16 | ##### PlayerList log: 1 players
+22:11:16 | Player "Survivor" (id=dDsE4Vx57jN0DgF4xR3BEQ3dqm01Q2NvY5aKdnc6VlY= pos=<12939.6, 9543.4, 4.7>)
+22:11:16 | #####
+22:13:16 | Chat("Survivor"(id=dDsE4Vx57jN0DgF4xR3BEQ3dqm01Q2NvY5aKdnc6VlY=)): ᐅ Alguém ai?
+22:16:16 | ##### PlayerList log: 1 players
+22:16:16 | Player "Survivor" (id=dDsE4Vx57jN0DgF4xR3BEQ3dqm01Q2NvY5aKdnc6VlY= pos=<12427.9, 9710.8, 11.9>)
+22:16:16 | #####
+22:21:16 | ##### PlayerList log: 1 players
+22:21:16 | Player "Survivor" (id=dDsE4Vx57jN0DgF4xR3BEQ3dqm01Q2NvY5aKdnc6VlY= pos=<12213.8, 9554.8, 19.0>)
+22:21:16 | #####
+22:25:38 | Player "Survivor" (id=dDsE4Vx57jN0DgF4xR3BEQ3dqm01Q2NvY5aKdnc6VlY= pos=<12063.3, 9375.7, 36.2>)[HP: 99.5] hit by Infected into LeftArm(18) for 5 damage (MeleeZombie)
+22:25:40 | Player "Survivor" (id=dDsE4Vx57jN0DgF4xR3BEQ3dqm01Q2NvY5aKdnc6VlY= pos=<12063.8, 9375.3, 36.2>)[HP: 98.465] hit by Infected into RightLeg(3) for 4.5 damage (MeleeZombie)
+22:26:16 | ##### PlayerList log: 1 players
+22:26:16 | Player "Survivor" (id=dDsE4Vx57jN0DgF4xR3BEQ3dqm01Q2NvY5aKdnc6VlY= pos=<11998.9, 9249.5, 50.6>)
+22:26:16 | #####
+22:29:04 | Player "Survivor" (id=dDsE4Vx57jN0DgF4xR3BEQ3dqm01Q2NvY5aKdnc6VlY= pos=<12081.3, 9117.1, 54.0>)[HP: 95.75] hit by Infected into Torso(1) for 4.25 damage (MeleeZombie)
+22:29:06 | Player "Survivor" (id=dDsE4Vx57jN0DgF4xR3BEQ3dqm01Q2NvY5aKdnc6VlY= pos=<12081.6, 9117.6, 54.0>)[HP: 91.5] hit by Infected into Torso(1) for 4.25 damage (MeleeZombie)
+22:29:07 | Player "Survivor" (id=dDsE4Vx57jN0DgF4xR3BEQ3dqm01Q2NvY5aKdnc6VlY= pos=<12081.9, 9117.7, 54.0>)[HP: 91.0904] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+22:31:16 | ##### PlayerList log: 1 players
+22:31:16 | Player "Survivor" (id=dDsE4Vx57jN0DgF4xR3BEQ3dqm01Q2NvY5aKdnc6VlY= pos=<12067.9, 9058.7, 54.1>)
+22:31:16 | #####
+22:32:38 | Player "Survivor" (id=dDsE4Vx57jN0DgF4xR3BEQ3dqm01Q2NvY5aKdnc6VlY= pos=<11977, 9021.9, 54.1>)[HP: 96.9042] hit by Infected into LeftArm(18) for 5 damage (MeleeZombie)
+22:35:35 | Player "Survivor" (id=dDsE4Vx57jN0DgF4xR3BEQ3dqm01Q2NvY5aKdnc6VlY= pos=<12005.4, 9044.9, 53.9>)[HP: 28.6431] hit by explosion (M67Grenade_Ammo)
+22:36:16 | ##### PlayerList log: 1 players
+22:36:16 | Player "Survivor" (id=dDsE4Vx57jN0DgF4xR3BEQ3dqm01Q2NvY5aKdnc6VlY= pos=<11992.2, 9011.2, 54.2>)
+22:36:16 | #####
+22:36:39 | Player "Survivor"(id=dDsE4Vx57jN0DgF4xR3BEQ3dqm01Q2NvY5aKdnc6VlY=) has been disconnected
+22:55:19 | Player "Survivor"(id=Unknown) has been disconnected
+22:58:29 | Player "Survivor"(id=Unknown) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2022-10-02 at 23:03:26
+02:34:25 | Player "Tarkov" is connected (id=dGx_ZZUQXB4WNDEttOcLc3TLSVm8BpdSdsyQeMdhiWk=)
+02:35:16 | Tarkov conectou
+02:35:16 | Tarkov registro criado!
+02:38:07 | Player "Tarkov" (id=dGx_ZZUQXB4WNDEttOcLc3TLSVm8BpdSdsyQeMdhiWk= pos=<6223.2, 2208.7, 6.0>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+02:39:42 | ##### PlayerList log: 1 players
+02:39:42 | Player "Tarkov" (id=dGx_ZZUQXB4WNDEttOcLc3TLSVm8BpdSdsyQeMdhiWk= pos=<6316.5, 2211.7, 1.2>)
+02:39:42 | #####
+02:44:42 | ##### PlayerList log: 1 players
+02:44:42 | Player "Tarkov" (id=dGx_ZZUQXB4WNDEttOcLc3TLSVm8BpdSdsyQeMdhiWk= pos=<6979.9, 2790.3, 6.9>)
+02:44:42 | #####
+02:49:42 | ##### PlayerList log: 1 players
+02:49:42 | Player "Tarkov" (id=dGx_ZZUQXB4WNDEttOcLc3TLSVm8BpdSdsyQeMdhiWk= pos=<7869.5, 2974.2, 5.5>)
+02:49:42 | #####
+02:54:41 | ##### PlayerList log: 1 players
+02:54:41 | Player "Tarkov" (id=dGx_ZZUQXB4WNDEttOcLc3TLSVm8BpdSdsyQeMdhiWk= pos=<8321, 2475.4, 6.3>)
+02:54:41 | #####
+02:54:52 | Player "Tarkov"(id=dGx_ZZUQXB4WNDEttOcLc3TLSVm8BpdSdsyQeMdhiWk=) has been disconnected
+
+
+**********************************EOF****************************************

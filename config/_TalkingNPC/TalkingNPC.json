@@ -1,0 +1,222 @@
+{
+    "NPCDebug": 0,
+    "NPCLocations": [
+        {
+            "name": "EVA - COMIDA",
+            "triggerpos": "3719.963379 402.548920 5969.751465",
+            "triggermins": "-2 -1 -2",
+            "triggermaxs": "2 1 2",
+            "triggerradius": 2.0,
+            "notification": "Venda de comida, bebida e desespero.",
+            "notificationIcon": "SouthAmericanPlague\\data\\icon\\food.paa",
+            "notificationtime": 2,
+            "triggercooldown": 60,
+            "sounds": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+            ]
+        },
+        {
+            "name": "NIKI - MÉDICO",
+            "triggerpos": "3712.526123 401.957306 5950.352539",
+            "triggermins": "-2 -1 -2",
+            "triggermaxs": "2 1 2",
+            "triggerradius": 2.0,
+            "notification": "O médico mais novato de Chernarus.",
+            "notificationIcon": "SouthAmericanPlague\\data\\icon\\medic.paa",
+            "notificationtime": 2,
+            "triggercooldown": 60,
+            "sounds": [
+                "6",
+                "7",
+                "8",
+                "9",
+                "10"
+            ]
+        },
+        {
+            "name": "SETH - FERRAMENTAS",
+            "triggerpos": "3721.486084 402.669525 5995.213867",
+            "triggermins": "-2 -1 -2",
+            "triggermaxs": "2 1 2",
+            "triggerradius": 2.0,
+            "notification": "O artesão sábio.",
+            "notificationIcon": "SouthAmericanPlague\\data\\icon\\tools.paa",
+            "notificationtime": 2,
+            "triggercooldown": 60,
+            "sounds": [
+                "11",
+                "12",
+                "13",
+                "14",
+                "15"
+            ]
+        },
+        {
+            "name": "FRANCIS - ARMAS",
+            "triggerpos": "3676.532715 402.100006 5979.861328",
+            "triggermins": "-2 -1 -2",
+            "triggermaxs": "2 1 2",
+            "triggerradius": 2.0,
+            "notification": "Ex militar obcecado.",
+            "notificationIcon": "SouthAmericanPlague\\data\\icon\\weapons.paa",
+            "notificationtime": 2,
+            "triggercooldown": 60,
+            "sounds": [
+                "16",
+                "17",
+                "18",
+                "19",
+                "20"
+            ]
+        },
+        {
+            "name": "KAITO - MUNIÇÃO",
+            "triggerpos": "3673.654297 402.100006 5984.976563",
+            "triggermins": "-2 -1 -2",
+            "triggermaxs": "2 1 2",
+            "triggerradius": 2.0,
+            "notification": "Munição é a nova moeda.",
+            "notificationIcon": "SouthAmericanPlague\\data\\icon\\ammunition.paa",
+            "notificationtime": 2,
+            "triggercooldown": 60,
+            "sounds": [
+                "21",
+                "22",
+                "23",
+                "24",
+                "25"
+            ]
+        },
+        {
+            "name": "GABI - ROUPA",
+            "triggerpos": "3687.892573 402.100006 5970.888672",
+            "triggermins": "-2 -1 -2",
+            "triggermaxs": "2 1 2",
+            "triggerradius": 2.0,
+            "notification": "O melhor ataque é a defesa.",
+            "notificationIcon": "SouthAmericanPlague\\data\\icon\\clothes.paa",
+            "notificationtime": 2,
+            "triggercooldown": 60,
+            "sounds": [
+                "26",
+                "27",
+                "28",
+                "29",
+                "30"
+            ]
+        },
+        {
+            "name": "JOSÉ - MECÂNICO",
+            "triggerpos": "3689.395020 402.100006 6001.018066",
+            "triggermins": "-2 -1 -2",
+            "triggermaxs": "2 1 2",
+            "triggerradius": 2.0,
+            "notification": "Pernas pra que te quero.",
+            "notificationIcon": "SouthAmericanPlague\\data\\icon\\cars.paa",
+            "notificationtime": 2,
+            "triggercooldown": 60,
+            "sounds": [
+                "31",
+                "32",
+                "33",
+                "34",
+                "35"
+            ]
+        },
+        {
+            "name": "MERCADO NEGRO",
+            "triggerpos": "6797.082520 374.401337 11226.256836",
+            "triggermins": "2 -1 -2",
+            "triggermaxs": "2 1 2",
+            "triggerradius": 2.0,
+            "notification": "??Desconhecido??",
+            "notificationIcon": "SouthAmericanPlague\\data\\icon\\blackmarket.paa",
+            "notificationtime": 2,
+            "triggercooldown": 60,
+            "sounds": [
+                "36",
+                "37",
+                "38",
+                "39",
+                "40"
+            ]
+        },
+        {
+            "name": "MERCADO NEGRO",
+            "triggerpos": "8231.244141 469.344696 9023.916992",
+            "triggermins": "2 -1 -2",
+            "triggermaxs": "2 1 2",
+            "triggerradius": 2.0,
+            "notification": "??Desconhecido??",
+            "notificationIcon": "SouthAmericanPlague\\data\\icon\\blackmarket.paa",
+            "notificationtime": 2,
+            "triggercooldown": 60,
+            "sounds": [
+                "36",
+                "37",
+                "38",
+                "39",
+                "40"
+            ]
+        },
+        {
+            "name": "DENIS - PESCADOR",
+            "triggerpos": "8328.228516 5.945976 2467.875488",
+            "triggermins": "-2 -1 -2",
+            "triggermaxs": "2 1 2",
+            "triggerradius": 2.0,
+            "notification": "O único pescador solitário de Chernarus.",
+            "notificationIcon": "SouthAmericanPlague\\data\\icon\\fishing.paa",
+            "notificationtime": 2,
+            "triggercooldown": 60,
+            "sounds": [
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ]
+        },
+        {
+            "name": "PETER - CAÇADOR",
+            "triggerpos": "11486.652344 162.092087 10652.450195",
+            "triggermins": "-2 -1 -2",
+            "triggermaxs": "2 1 2",
+            "triggerradius": 2.0,
+            "notification": "O caçador mais velho de Druzhba.",
+            "notificationIcon": "SouthAmericanPlague\\data\\icon\\animal.paa",
+            "notificationtime": 2,
+            "triggercooldown": 60,
+            "sounds": [
+                "46",
+                "47",
+                "48",
+                "49",
+                "50",
+                "51"
+            ]
+        },
+        {
+            "name": "MIREK - TRAFICANTE",
+            "triggerpos": "1158.439941 379.179993 12324.299805",
+            "triggermins": "2 -1 -2",
+            "triggermaxs": "2 1 2",
+            "triggerradius": 2.0,
+            "notification": "Um traficante do exterior.",
+            "notificationIcon": "SouthAmericanPlague\\data\\icon\\drugs.paa",
+            "notificationtime": 2,
+            "triggercooldown": 60,
+            "sounds": [
+                "52",
+                "53",
+                "54",
+                "55",
+                "56"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+  "Version": "2.3",
+  "IDs": [
+    {
+      "Id": 0,
+      "Categories": [
+        "Frutas & Vegetais",
+        "Pacotes de Comida",
+        "Garrafas & Cantis",
+        "Bebidas"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 1,
+      "Categories": [
+        "Remédios",
+        "Suprimentos Médicos"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 2,
+      "Categories": [
+        "Ferramentas (P)",
+        "Ferramentas (G)",
+        "Eletrônicos",
+        "Fogo & Luzes",
+        "Cozinha & Caça",
+        "Utensílios",
+        "Kit de Construção",
+        "Utensílios de Base",
+        "Utilidade de Base",        
+        "Bandeiras de Base",
+        "Horta",
+        "Pélucias",
+        "Recompensa de Eventos"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 3,
+      "Categories": [
+        "Arma Branca",
+        "Pistolas",
+        "Revólvers",
+        "Carabinas",
+        "Shotguns",
+        "Submetralhadoras",
+        "Rifles de Assalto",
+        "Rifles de Precisão",
+        "Granadas",
+        "Handguards",
+        "Buttstocks",
+        "Miras",
+        "Supressores",
+        "Compensadores",
+        "Baionetas",
+        "Lanternas"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 4,
+      "Categories": [
+        "Munição",
+        "Pentes"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 5,
+      "Categories": [
+        "Óculos",
+        "Braçadeiras",
+        "Luvas",
+        "Chapéus & Bonés",
+        "Capacetes",
+		"Peças de Capacetes/NVG",
+        "Máscaras",
+        "Camisas",
+        "Moletons & Suéters",
+        "Coletes",
+        "Jaquetas & Casacos",
+        "Saias & Vestidos",
+        "Calças",
+        "Sapatos e Botas",
+        "Ghillies",
+        "Coldres & Bolsos",
+        "Cintos",
+        "Mochilas",
+        "Temática"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 6,
+      "Categories": [ 
+		"Olga 24",
+		"Gunter 2",
+		"Ada 4x4",
+		"Sarka 120",
+		"VAZ 2108",
+		"UAZ 3909",
+		"UAZ 469",
+		"Interceptor",
+		"M3S",
+		"EGER",				
+		"GunnerTruck",
+        "Peças",
+        "Segurança"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 7,
+      "Categories": [
+        "Armas 1 - SNAFU",
+        "Armas 2 - SNAFU",
+        "Pentes - SNAFU",
+        "Munição - SNAFU",
+        "Miras - SNAFU",
+        "Miras Avançadas - AWS",
+        "Handguards - SNAFU",
+        "Buttstocks - SNAFU",
+        "Suppressores - SNAFU",
+        "Bipods - SNAFU",
+        "Anexos - SNAFU",
+        "Grips - SNAFU",
+        "Raid e Segurança"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 8,
+      "Categories": [
+        "Pescaria",
+        "Partes de Animais",
+        "Recompensa de Pesca"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 9,
+      "Categories": [
+        "Armadilhas",
+        "Partes de Animais",
+        "Recompensa de Carne",
+        "Recompensa de Pele"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 10,
+      "Categories": [
+        "Farm de Drogas",
+        "Cogumelos",
+        "Recompensa de Drogas"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    }
+  ]
+}

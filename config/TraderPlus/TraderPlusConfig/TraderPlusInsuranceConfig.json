@@ -1,0 +1,730 @@
+{
+    "Version": "2.3",
+    "AuthorizedIDInsurance": [
+        6
+    ],
+    "Insurances": [
+		{
+            "VehicleName": "Traktor",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Traktor_black",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Traktor_rust",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Buggy",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Buggy_blue",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Buggy_red",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Buggy_yellow",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "AZLK",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "AZLK_Blue",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "AZLK_Orange",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "AZLK_Red",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "AZLK_Yellow",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "AZLK_rust",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "BMW_white_rust",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "BMW_black_rust",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "BMW_red_rust",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "BMW_lightgreen_rust",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "BMW_green_rust",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Interceptor",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Interceptor_blue",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Interceptor_red",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Interceptor_yellow",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "PONTIAC",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "PONTIAC_blue",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "PONTIAC_rust",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "GAZ_69",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "GAZ_69_GRAY",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "GAZ_69_BLACK",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "ROVER",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "ROVER_camo2",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "LUAZ",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "LUAZ_black",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "LUAZ_red",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "LUAZ_blue",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "LUAZ_rust",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Conqueror",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Conqueror_blue",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Conqueror_gray",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Conqueror_green",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Conqueror_yellow",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Conqueror_kamo1",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Conqueror_kamo2",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "NivaPickup",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "NivaPickup_blue",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "NivaPickup_kamo",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "NivaPickup_red",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "NivaPickup_skul",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "NivaPickup_kamo2",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Nissan_warrior",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Nissan_warrior_kamo",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Nissan_warrior_black",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Nissan_warrior_blue",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Nissan_warrior_white_kamo",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "LandCruiser",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "LandCruiser_blue",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "LandCruiser_kamo",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "LandCruiser_red",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "LandCruiser_skul",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "LandCruiser_white",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "LandCruiser_kamo2",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Range_Rover",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },	
+		{
+            "VehicleName": "Range_Rover_black",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Range_Rover_camo",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "SUV",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "SUV_red",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "SUV_blue",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "SUV_white",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "SUV_kamo",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "SUV_WINTER",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "TLC_200",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "TLC_200_blue",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "TLC_200_red",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "TLC_200_blood",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "TLC_200_kamo",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "TLC_200_white",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "TLC_200_kamo2",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Opel_Astra",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Opel_Astra_chrome",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Opel_Astra_camo",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Opel_Astra_black",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Camper",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Camper_Blue",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Camper_red",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "PAZ",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "PAZ_blue",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "PAZ_beige",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "PAZ_green",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "PAZ_red",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "UAZ_3909",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "UAZ_3909_blue",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "UAZ_3909_beige",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "UAZ_3909_chaki1",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "UAZ_3909_chaki2",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Truck_01_Covered",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Truck_01_Covered_Blue",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },	
+		{
+            "VehicleName": "Truck_01_Covered_Orange",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Gaz66bort",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "GAZ66bort_black",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "GAZ66",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "GAZ66_black",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "EGER",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "EGER_Pixel",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "EGER_GreenCamo",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "HEMTT",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "HEMTT_Kamo",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Kamaz_4350",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Kamaz_4350_Flora",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },{
+            "VehicleName": "Kamaz_4350_Pixel",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Kamaz_4350_black",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Kamaz_4350_winter",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Kamaz_4350_old",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Kraz_6322",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Kraz_6322_Black",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Kraz_6322_rust",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Kraz_6322_kamo",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "M35a2",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "M35a2_Black",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "M35a2_Rust",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "M35a2_Kamo",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "M35a2_Grey",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "ZIL130",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "ZIL130_rust",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "ZIL130_green",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "ZIL130_green_rust",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },{
+            "VehicleName": "URAL_4320_Kung",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "URAL_4320_Kung_rust",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "URAL_4320_Kung_blue",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "URAL_4320_Kung_yellow",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "URAL_4320_Kung_kamo",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "GazTigr",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "GazTigr_black",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "GazTigr_grey",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "GazTigr_green",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "GazTigr_pixel",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "GazTigr_flecktarn",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "HAMMER_H1",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "HAMMER_H1_black",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "HAMMER_H1_WINTER",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Oshkosh",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },{
+            "VehicleName": "Oshkosh_black",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Oshkosh_pixel",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+		{
+            "VehicleName": "Oshkosh_green",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },	
+        {
+            "VehicleName": "GunnerTruck",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+        {
+            "VehicleName": "GunnerTruckWhite",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+        {
+            "VehicleName": "GunnerTruckTan",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+
+
+******************************************************************************
+AdminLog started on 2022-10-03 at 05:09:20
+
+
+******************************************************************************
+AdminLog started on 2022-10-03 at 08:15:07
+10:24:49 | Player "Tarkov" is connected (id=dGx_ZZUQXB4WNDEttOcLc3TLSVm8BpdSdsyQeMdhiWk=)
+10:25:50 | Tarkov conectou
+10:26:15 | ##### PlayerList log: 1 players
+10:26:15 | Player "Tarkov" (id=dGx_ZZUQXB4WNDEttOcLc3TLSVm8BpdSdsyQeMdhiWk= pos=<8321, 2475.4, 6.5>)
+10:26:15 | #####
+10:31:15 | ##### PlayerList log: 1 players
+10:31:15 | Player "Tarkov" (id=dGx_ZZUQXB4WNDEttOcLc3TLSVm8BpdSdsyQeMdhiWk= pos=<8048.9, 2801.9, 1.6>)
+10:31:15 | #####
+10:33:10 | Player "Tarkov" (id=dGx_ZZUQXB4WNDEttOcLc3TLSVm8BpdSdsyQeMdhiWk= pos=<7799.7, 3026.5, 0.2>)[HP: 82.178] hit by FallDamage
+10:34:39 | Player "Tarkov" (id=dGx_ZZUQXB4WNDEttOcLc3TLSVm8BpdSdsyQeMdhiWk= pos=<7497.0, 3036.8, 5.3>)[HP: 84.0471] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+10:36:15 | ##### PlayerList log: 1 players
+10:36:15 | Player "Tarkov" (id=dGx_ZZUQXB4WNDEttOcLc3TLSVm8BpdSdsyQeMdhiWk= pos=<7263.5, 3023.3, 26.7>)
+10:36:15 | #####
+10:41:15 | ##### PlayerList log: 1 players
+10:41:15 | Player "Tarkov" (id=dGx_ZZUQXB4WNDEttOcLc3TLSVm8BpdSdsyQeMdhiWk= pos=<6929.0, 2940.9, 10.4>)
+10:41:15 | #####
+10:46:15 | ##### PlayerList log: 1 players
+10:46:15 | Player "Tarkov" (id=dGx_ZZUQXB4WNDEttOcLc3TLSVm8BpdSdsyQeMdhiWk= pos=<6805.3, 2598.7, 3.0>)
+10:46:15 | #####
+10:51:15 | ##### PlayerList log: 1 players
+10:51:15 | Player "Tarkov" (id=dGx_ZZUQXB4WNDEttOcLc3TLSVm8BpdSdsyQeMdhiWk= pos=<6628.9, 2584.7, 11.4>)
+10:51:15 | #####
+10:56:15 | ##### PlayerList log: 1 players
+10:56:15 | Player "Tarkov" (id=dGx_ZZUQXB4WNDEttOcLc3TLSVm8BpdSdsyQeMdhiWk= pos=<6478.5, 2716.5, 13.5>)
+10:56:15 | #####
+10:58:03 | Player "Tarkov" (id=dGx_ZZUQXB4WNDEttOcLc3TLSVm8BpdSdsyQeMdhiWk= pos=<6366.2, 2789.0, 12.4>)[HP: 99.5] hit by Infected into LeftArm(18) for 5 damage (MeleeZombie)
+11:00:46 | Player "Tarkov" (id=dGx_ZZUQXB4WNDEttOcLc3TLSVm8BpdSdsyQeMdhiWk= pos=<6266.7, 2891.5, 20.0>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+11:01:15 | ##### PlayerList log: 1 players
+11:01:15 | Player "Tarkov" (id=dGx_ZZUQXB4WNDEttOcLc3TLSVm8BpdSdsyQeMdhiWk= pos=<6234.9, 2958.1, 29.9>)
+11:01:15 | #####
+11:02:00 | Player "Tarkov"(id=dGx_ZZUQXB4WNDEttOcLc3TLSVm8BpdSdsyQeMdhiWk=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2022-10-03 at 11:02:32
+
+
+******************************************************************************
+AdminLog started on 2022-10-03 at 17:05:15
+20:58:37 | Player "LwShutt" is connected (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)
+20:58:50 | LwShutt conectou
+21:01:24 | ##### PlayerList log: 1 players
+21:01:24 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14589.2, 14953.7, 130.2>)
+21:01:24 | #####
+21:06:24 | ##### PlayerList log: 1 players
+21:06:24 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14588, 14954.7, 130.2>)
+21:06:24 | #####
+21:11:24 | ##### PlayerList log: 1 players
+21:11:24 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14586.8, 14945.3, 130.2>)
+21:11:24 | #####
+21:16:24 | ##### PlayerList log: 1 players
+21:16:24 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14584.1, 14947.3, 133.4>)
+21:16:24 | #####
+21:21:24 | ##### PlayerList log: 1 players
+21:21:24 | Player "LwShutt" (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI= pos=<14588.2, 14952.6, 130.2>)
+21:21:24 | #####
+21:22:31 | Player "LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) has been disconnected
+21:22:40 | Player "LwShutt" is connected (id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=)
+21:23:01 | LwShutt conectou
+21:24:17 | Player "LwShutt"(id=uho_2iwV5BkQRUcetHJQzDrb_aYfiG3GIw3ojtjlKhI=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2022-10-03 at 23:03:21
+
+
+**********************************EOF****************************************

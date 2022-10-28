@@ -1,0 +1,401 @@
+{
+    "Version": "2.3",
+    "ConvertTraderConfigToTraderPlus": 0,
+    "ConvertTraderConfigToTraderPlusWithStockBasedOnCE": 0,
+    "UseGarageToTradeCar": 1,
+    "DisableHeightFailSafeForReceiptDeployment": 0,
+    "HideInsuranceBtn": 0,
+    "HideGarageBtn": 0,
+    "HideLicenceBtn": 0,
+    "EnableShowAllPrices": 1,
+    "EnableShowAllCheckBox": 1,
+    "IsReceiptTraderOnly": 1,
+    "IsReceiptSaveLock": 0,
+    "IsReceiptSaveAttachment": 0,
+    "IsReceiptSaveCargo": 0,
+    "LockPickChance": 0.30,
+    "LicenceKeyWord": "Licence",
+    "Licences": [
+        "Car Licence",
+        "Admin Licence"
+    ],
+    "AcceptedStates": {
+        "AcceptWorn": 1,
+        "AcceptDamaged": 1,
+        "AcceptBadlyDamaged": 1
+    },
+    "StoreOnlyToPristineState": 0,
+    "Currencies": [
+        {
+            "ClassName": "TraderPlus_Money_Ruble5000",
+            "Value": 5000
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble2000",
+            "Value": 2000
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble1000",
+            "Value": 1000
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble500,TraderPlus_Money_Euro500",
+            "Value": 500
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble200,TraderPlus_Money_Euro200",
+            "Value": 200
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble100,TraderPlus_Money_Euro100,TraderPlus_Money_Dollar100",
+            "Value": 100
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble50,TraderPlus_Money_Euro50,TraderPlus_Money_Dollar50",
+            "Value": 50
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble10,TraderPlus_Money_Euro10,TraderPlus_Money_Dollar10",
+            "Value": 10
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble5,TraderPlus_Money_Euro5,TraderPlus_Money_Dollar5",
+            "Value": 5
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble2_Coin,TraderPlus_Money_Euro2,TraderPlus_Money_Dollar2",
+            "Value": 2
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble1_Coin,TraderPlus_Money_Euro1,TraderPlus_Money_Dollar1",
+            "Value": 1
+        }
+    ],
+    "Traders": [
+        {
+            "Id": 0,
+            "Name": "TNPC_SurvivorF_Linda",
+            "GivenName": "Eva",
+            "Role": "Comida",
+            "Position": [
+                3719.963379,402.548920,5969.751465
+            ],
+            "Orientation": [
+                -109.128662,0.0,0.0
+            ],
+            "Clothes": [
+				"WaterBottle",
+				"MiniDress_BlueWithDots",
+				"ShortJeans_Red",
+				"Ballerinas_Red"			
+			]
+        },
+		{
+            "Id": 1,
+            "Name": "TNPC_SurvivorM_Niki",
+            "GivenName": "Niki",
+            "Role": "Médico",
+            "Position": [
+                3712.526123,401.957306,5950.352539
+            ],
+            "Orientation": [
+                -21.830339,0.0,0.0
+            ],
+            "Clothes": [
+				"InjectionVial",
+			    "ParamedicPants_Crimson",
+			    "ParamedicJacket_Crimson",
+			    "SurgicalGloves_LightBlue",
+			    "WorkingBoots_Grey",
+			    "MedicalScrubsHat_Blue",
+			    "SurgicalMask"
+			]
+        },		
+        {
+            "Id": 2,
+            "Name": "TNPC_SurvivorM_Seth",
+            "GivenName": "Seth",
+            "Role": "Ferramentas",
+            "Position": [
+                3721.486084,402.669525,5995.213867
+            ],
+            "Orientation": [
+                -34.880772,0.0,0.0
+            ],
+            "Clothes": [
+				"Screwdriver",
+			    "Shovel",
+			    "Shirt_RedCheck",
+			    "ConstructionHelmet_Red",			    
+			    "CargoPants_Grey",
+			    "WorkingBoots_Brown",
+			    "WorkingGloves_Black"
+			]
+        },
+        {
+            "Id": 3,
+            "Name": "TNPC_SurvivorM_Francis",
+            "GivenName": "Francis",
+            "Role": "Armas",
+            "Position": [
+               3676.532715,402.100006,5979.861328
+            ],
+            "Orientation": [
+                53.083984,0,0
+            ],
+            "Clothes": [
+                "FirefighterAxe",
+				"SVD",
+				"AKM",
+				"AK_WoodHndgrd",
+				"AK_FoldingBttstck",
+				"KobraOptic",                
+                "TacticalGloves_Green",
+                "BallisticHelmet_Green",
+                "UKAssVest_Olive",
+                "CargoPants_Green",
+                "JungleBoots_Green",
+                "Msp_DuffleBag_Green",
+                "TacticalShirt_Olive",
+                "MMG_balaclava_multicam_tropic",
+				"TacticalGoggles"
+            ]
+        },
+		{
+            "Id": 4,
+            "Name": "TNPC_SurvivorM_Kaito",
+            "GivenName": "Kaito",
+            "Role": "Munição",
+            "Position": [
+                3673.654297,402.100006,5984.976563
+            ],
+            "Orientation": [
+                76.868423,0,0
+            ],
+            "Clothes": [
+                "FirefighterAxe",
+                "SVD",
+                "M4A1",
+                "M4_RISHndgrd",
+                "Universallight",
+                "M4_OEBttstck",
+                "TacticalShirt_Black",
+                "MMG_balaclava_black",
+                "JungleBoots_Black",
+                "TacticalGloves_Black",
+                "HighCapacityVest_Black",
+                "Msp_DuffleBag_Black",
+                "CargoPants_Black",
+                "BallisticHelmet_Black",
+				"TacticalGoggles"
+            ]
+        },
+        {
+            "Id": 5,
+            "Name": "TNPC_SurvivorF_Gabi",
+            "GivenName": "Gabi",
+            "Role": "Roupas",
+            "Position": [
+                3687.892573,402.100006,5970.888672
+            ],
+            "Orientation": [
+                146.486069,0.0,0.0
+            ],
+            "Clothes": [
+                "ManSuit_DarkGrey",
+                "DressShoes_Black",
+                "SlacksPants_Black",
+                "SportGlasses_Black"
+            ]
+        },
+        {
+            "Id": 6,
+            "Name": "TNPC_SurvivorM_Jose",
+            "GivenName": "José",
+            "Role": "Mêcanico",
+            "Position": [
+                3689.395020,402.100006,6001.018066
+            ],
+            "Orientation": [
+                152.284912,0.0,0.0
+            ],
+            "Clothes": [
+				"LugWrench",
+			    "WorkingGloves_Black",
+			    "ReflexVest",
+			    "JumpsuitJacket_Blue",
+			    "JumpsuitPants_Blue",
+			    "HikingBootsLow_Blue"
+			]
+        },		
+        {
+            "Id": 7,
+            "Name": "TNPC_SurvivorM_Hassan",
+            "GivenName": "???",
+            "Role": "Mercado Negro",
+            "Position": [
+                6797.082520, 374.401337, 11226.256836
+            ],
+            "Orientation": [
+                -6.659990, 0, 0
+            ],
+            "Clothes": [
+				"Snafu_PKP_Black_GUN",				
+				"AssaultBag_Black",
+			    "LeatherGloves_Black",
+			    "CargoPants_Black",
+			    "Ushanka_Black",
+			    "TacticalGoggles",
+			    "MilitaryBoots_Black",
+				"UKAssVest_Black",
+				"TacticalShirt_Black",
+				"GasMask"
+			]
+        },
+		{
+            "Id": 7,
+            "Name": "TNPC_SurvivorM_Hassan",
+            "GivenName": "???",
+            "Role": "Mercado Negro",
+            "Position": [
+                8231.244141, 469.344696, 9023.916992
+            ],
+            "Orientation": [
+                -27.130287, 0, 0
+            ],
+            "Clothes": [
+				"Snafu_PKP_Black_GUN",				
+				"AssaultBag_Black",
+			    "LeatherGloves_Black",
+			    "CargoPants_Black",
+			    "Ushanka_Black",
+			    "TacticalGoggles",
+			    "MilitaryBoots_Black",
+				"UKAssVest_Black",
+				"TacticalShirt_Black",
+				"GasMask"
+			]
+        },		
+		{
+            "Id": 8,
+            "Name": "TNPC_SurvivorM_Denis",
+            "GivenName": "Denis",
+            "Role": "Pescador",
+            "Position": [
+                8328.228516, 5.945976, 2467.875488
+            ],
+            "Orientation": [
+                137, 0, 0
+            ],
+            "Clothes": [
+				"FishingRod",
+			    "CanvasPantsMidi_Blue",
+			    "BoonieHat_Dubok",
+			    "TShirt_Beige",
+			    "HikingBoots_Black",
+			    "LeatherStorageVest_Natural",
+				"LeatherGloves_Natural"
+			]
+        },				
+		{
+            "Id": 9,
+            "Name": "TNPC_SurvivorM_Peter",
+            "GivenName": "Peter",
+            "Role": "Caçador",
+            "Position": [
+                11486.652344, 162.092087, 10652.450195
+            ],
+            "Orientation": [
+                87, 0, 0
+            ],
+            "Clothes": [
+				"HuntingKnife",
+				"Winchester70",
+				"HuntingOptic",
+				"HuntingVest",
+				"HuntingBag",
+				"JungleBoots_Black",	
+				"CowboyHat_green",
+				"HuntingJacket_Summer",
+				"HunterPants_Summer",				
+				"NBCGlovesGray"
+			]
+        },
+		{
+            "Id": 10,
+            "Name": "TNPC_SurvivorM_Mirek",
+            "GivenName": "Mirek",
+            "Role": "Traficante",
+            "Position": [
+                1158.439941, 379.179993, 12324.299805
+            ],
+            "Orientation": [
+                91, 0, 0  
+            ],
+            "Clothes": [
+				"SVD",
+				"TrackSuitJacket_Blue",
+			    "Balaclava3Holes_Black",
+			    "BaseballCap_Camo",
+			    "AthleticShoes_Black",
+			    "SmershVest",
+			    "AviatorGlasses",
+				"Breeches_Beige",
+				"AssaultBag_Black"
+			]
+        },
+        {
+            "Id": -2,
+            "Name": "TraderPlus_BANK_ATM",
+            "GivenName": "ATM",
+            "Role": "ATM",
+            "Position": [
+                3687.376465,402.001251,5996.629883
+            ],
+            "Orientation": [
+                -114.728119,0.0,0.0
+            ],
+            "Clothes": []
+        },
+		{
+            "Id": -2,
+            "Name": "TraderPlus_BANK_ATM",
+            "GivenName": "ATM",
+            "Role": "ATM",
+            "Position": [
+                3689.412598,402.001251,5971.925781
+            ],
+            "Orientation": [
+                149.066620,0.0,0.0
+            ],
+            "Clothes": []
+        },
+		{
+            "Id": -2,
+            "Name": "TraderPlus_BANK_ATM",
+            "GivenName": "ATM",
+            "Role": "ATM",
+            "Position": [
+                3714.418457,402.001282,5964.786133
+            ],
+            "Orientation": [
+                -14.582843,0.0,0.0
+            ],
+            "Clothes": []
+        },
+		{
+            "Id": -2,
+            "Name": "TraderPlus_BANK_ATM",
+            "GivenName": "ATM",
+            "Role": "ATM",
+            "Position": [
+                11493.00,162.0,10658.00
+            ],
+            "Orientation": [
+                -178.99,0,0
+            ],
+            "Clothes": []
+        }
+    ],
+    "TraderObjects": []
+}
